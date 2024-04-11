@@ -4,15 +4,15 @@
 
 ## 2.1. Competidores
 - - -
-[<p align="center"> <img src="assets/img/Competidores-MyFitnessPal.png" alt="MyFitnessPal" width="200">](https://www.myfitnesspal.com/es)
+[<p align="center"> <img src="assets/img/capitulo2/Competidores-MyFitnessPal.png" alt="MyFitnessPal" width="200">](https://www.myfitnesspal.com/es)
 
 ***MyFitnessPal:*** Es una de las aplicaciones líderes en el seguimiento de alimentos y ejercicio físico. Ofrece una amplia base de datos de alimentos y permite a los usuarios realizar un seguimiento de su ingesta calórica y actividad física para ayudarles a alcanzar sus objetivos de salud y fitness. Además del seguimiento básico, MyFitnessPal también proporciona herramientas para establecer metas personalizadas, crear planes de alimentación y recibir apoyo de una comunidad activa de usuarios.
 - - -
-[<p align="center"> <img src="assets/img/Competidores-Noom.png" alt="Noom" width="200">](https://www.noom.com/es/blog/cuanto-cuesta-noom/)
+[<p align="center"> <img src="assets/img/capitulo2/Competidores-Noom.png" alt="Noom" width="200">](https://www.noom.com/es/blog/cuanto-cuesta-noom/)
 
 ***Noom:*** Es una aplicación de coaching en salud y bienestar que se centra en la pérdida de peso y el cambio de hábitos. Utiliza un enfoque basado en la psicología y la tecnología para ayudar a los usuarios a desarrollar hábitos saludables a largo plazo. Noom ofrece programas personalizados de pérdida de peso, seguimiento del progreso, educación sobre nutrición y ejercicio, así como apoyo de coaches certificados.
 - - -
-[<p align="center"> <img src="assets/img/Competidores-NikeTrainingClub.jpg" alt="NikeTrainingClub" width="200">](https://www.nike.com/es/ntc-app)
+[<p align="center"> <img src="assets/img/capitulo2/Competidores-NikeTrainingClub.jpg" alt="NikeTrainingClub" width="200">](https://www.nike.com/es/ntc-app)
 
 ***NikeTrainingClub:*** Es una aplicación de entrenamiento de Nike que ofrece una amplia variedad de programas de ejercicio, desde entrenamientos de fuerza hasta yoga y cardio. La aplicación incluye entrenamientos guiados por expertos, seguimiento del progreso y una comunidad activa de usuarios que comparten sus logros y motivan a otros. Además, Nike Training Club está integrado con dispositivos Nike y ofrece acceso exclusivo a contenido de entrenamiento de atletas y celebridades patrocinados por Nike.
 - - -
@@ -90,6 +90,18 @@ Análisis Competitivo organizado para todos los competidores potenciales de FitH
 
 **Entrevista N°1:**
 
+![Entrevista_Seg01_DiegoPaulino](assets/img/capitulo2/Registro_Entrevista_Seg01_DiegoPaulino.png) <br>
+
+**Datos principales:** <br>
+- Nombre y apellidos: Diego Paulino <br>
+- Edad: 21 años <br>
+- Distrito: Santiago de Surco <br>
+- Inicio De Entrevista: 0:10 <br>
+- Duración: 3:12 <br>
+  [URL de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202012207_upc_edu_pe/ER7KWELuwWdJuOSis4APNUkBSVkiFUD3YuwMhxMEicLYZw?e=sLI70y&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+**Resumen De Entrevista**: El entrevistado revela una motivación actual para mejorar su salud y condición física, destacando su interés en adoptar un estilo de vida más activa y organizada. Su experiencia previa incluye intentos anteriores de seguir una dieta equilibrada y hacer ejercicio regularmente, pero ha enfrentado desafíos como la falta de organización y la dificultad para mantener la consistencia. Busca un apoyo y orientación útiles para alcanzar sus objetivos, priorizando la educación sobre nutrición y la planificación de comidas saludables. Considera que una Aplicación web de coaching en línea sería beneficiosa por su accesibilidad y seguimiento del progreso. Al elegir un servicio de coaching, valora la personalización de los planes, el apoyo constante y la motivación para mantenerse comprometido con sus objetivos. Espera recibir un apoyo profesional y personalizado de un coach en su viaje hacia un estilo de vida más saludable.
+- - -
 ###### Figura 2
 
 
