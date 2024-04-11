@@ -30,4 +30,5 @@
 ## 4.7.2 Class Dictionary
 ## 4.8 Database Design
 ## 4.8.1 Database Diagram
-
+###### figura
+<img src="/assets/img/capitulo4/DataBase FitHub.PNG" alt="Database Diagram">
