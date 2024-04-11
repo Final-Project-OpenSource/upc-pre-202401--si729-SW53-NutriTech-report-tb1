@@ -183,8 +183,8 @@ En la siguiente sección se describen las acciones realizadas y enunciados de co
 
 | Criterio específico                                                                                                                                  | Acciones Realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Conclusiones |
 |------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
-| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. | nombre - **TB1**: <br> your student outcome <br><br> Juan Diego Cueto Dominguez - **TB1**: <br> Se coordinó con el equipo las fechas para entregas de avances del proyecto y fecha de reuniones por un feedback grupal. Para lograr un desarrollo óptimo y mantener una comunicación activa en las próximas entregas. <br><br> nombre - **TB1**: <br> your student outcome <br> nombre - **TB1**: <br> your student outcome <br> nombre - **TB1**: <br> your student outcome                                                                                                                                 | **TB1**:     |
-| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.                                                             | nombre - **TB1**: <br> your student outcome <br><br> Juan Diego Cueto Dominguez - **TB1**: <br> Teniendo en cuenta nuestro modelo de negocio, fue necesario investigar los posibles y actuales competidores de nuestro negocio. Con el fin de tener una retroalimentación y destacar los puntos que pueden impulsar y destacar entre los demas competidores. Logrando un entedimiento del dominio del problema que abarca este modelo de negocio. <br><br> nombre - **TB1**: <br> your student outcome <br><br> nombre - **TB1**: <br> your student outcome <br> nombre - **TB1**: <br> your student outcome | **TB1**:     |
+| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. | Jorge Sebastian Ponce Loyola - **TB1**:<br>Durante la TB1, contribuí eficazmente en un proyecto de ingeniería de software, abordando aspectos clave de la experiencia del usuario y la gestión del desarrollo. Trabajé en la definición de problemas, supuestos, sistemas de búsqueda y etiquetado, además de participar en la configuración del entorno de desarrollo y la gestión del código fuente.<br> Juan Diego Cueto Dominguez - **TB1**: <br> Se coordinó con el equipo las fechas para entregas de avances del proyecto y fecha de reuniones por un feedback grupal. Para lograr un desarrollo óptimo y mantener una comunicación activa en las próximas entregas. <br><br> nombre - **TB1**: <br> your student outcome <br> nombre - **TB1**: <br> your student outcome <br> nombre - **TB1**: <br> your student outcome                                                                                                                                 | **TB1**:     |
+| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.                                                             | <br> Jorge Sebastian Ponce Loyola - **TB1**: <br> Durante la TB1, adquirí experiencia práctica en un sector empresarial específico al trabajar en un proyecto de ingeniería de software. Participé en el análisis y desarrollo de soluciones adaptadas a las necesidades de dicho sector, lo que me permitió comprender mejor sus procesos y requisitos particulares. <br><br> Juan Diego Cueto Dominguez - **TB1**: <br> Teniendo en cuenta nuestro modelo de negocio, fue necesario investigar los posibles y actuales competidores de nuestro negocio. Con el fin de tener una retroalimentación y destacar los puntos que pueden impulsar y destacar entre los demas competidores. Logrando un entedimiento del dominio del problema que abarca este modelo de negocio. <br><br> nombre - **TB1**: <br> your student outcome <br><br> nombre - **TB1**: <br> your student outcome <br> nombre - **TB1**: <br> your student outcome | **TB1**:     |
 ---
 
 # Capítulo I: Introducción
@@ -197,7 +197,9 @@ En la siguiente sección se describen las acciones realizadas y enunciados de co
 
 
 #### Ponce Loyola, Jorge Sebastian - u202120471 - Ingeniería de Software 
+Mi nombre es Jorge Ponce, tengo 20 años y estoy cursando el sexto ciclo de la carrera de Ingeniería de Software. Me encanta la música, el arte, pintar, el baloncesto. Me gusta dialogar, escuchar y aplicar el pensamiento crítico en cualquier ámbito. Me aseguraré de realizar un trabajo de calidad y de colaborar de manera activa y comprometida para lograr los resultados deseados. Tengo conocimientos en metodologías ágiles, desarrollo tanto en la parte web como en el backend, y también poseo una comprensión básica de ciberseguridad.
 
+<img src="/assets/img/capitulo1/Profile-Jorge.jpg" alt="Jorge Sebastian Ponce Loyola" width="200" height="250">
 
 ---
 #### Maguiña Corzo, Ricardo Jesus - U202121858 - Ingeniería de Software
@@ -211,7 +213,7 @@ Mi nombre es Juan Diego Cueto Dominguez, actualmente soy estudiante de la carrer
 #### Valenzuela Huillcaya, Aldhair Johan Juan - U20201F572 - Ingeniería de Software
 Soy estudiante de Ingeniería de software en la Universidad peruana de Ciencias Aplicadas (UPC). Me considero una persona altamente responsable, organizada, puntual y empática. Mi capacidad de adaptación a entornos cambiantes y habilidad para trabajar colaborativamente en equipo son aspectos destacados de mi perfil. Tengo conocimientos en Python, C++, HTML, CSS, Javascript, MySQL, MongoDB y SQLite.
 
-<img src="https://github.com/Final-Project-OpenSource/upc-pre-202401--si729-SW53-NutriTech-report-tb1/blob/feature-cap1/assets/Profile-Aldhair.jpg" alt="Aldhair Johan Juan Valenzuela Huillcaya" width="200" height="250">
+<img src="/assets/img/capitulo1/Profile-Aldhair.jpg"  alt="Aldhair Johan Juan Valenzuela Huillcaya" width="200" height="250">
 ---
 
 #### Shimabukuro Uku, Carlos Joel - U201912407 - Ingeniería de Software
@@ -241,17 +243,35 @@ Presentación del modelo de las preguntas 5Ws y 2Hs con la que se analizaron los
 | How Much?   | ¿Cuál es la cantidad, duración o intensidad del evento? | Según un estudio realizado por Fitness Pass (2019), se descubrió que un porcentaje alarmantemente alto del 80% de las personas optan por cancelar su membresía en el gimnasio después de tres meses de haberla adquirido. Este hallazgo preocupa a la industria del fitness, donde seguir un régimen de ejercicio a largo plazo parece ser desafiante para la mayoría de los individuos. Entre los motivos principales que impulsan esta decisión se encuentran la desmotivación y la falta de tiempo. La desmotivación puede surgir de diversas fuentes, incluida la falta de resultados rápidos o visibles. Además, en el mundo moderno, las demandas de tiempo suelen ser un factor determinante, ya que las personas luchan por equilibrar el trabajo, la familia y otras responsabilidades. |
 ### 1.2.2. Lean UX Process
 
-
-
 #### 1.2.2.1. Lean UX Problem Statements
-
+Existe una creciente demanda de soluciones integrales y personalizadas para mejorar el bienestar y la salud personal. Sin embargo, el mercado carece de una plataforma que ofrezca comunicación directa con expertos en salud y planes alimentarios personalizados. Ante esta brecha, se necesita desarrollar una plataforma innovadora y accesible que promueva hábitos saludables y un estilo de vida equilibrado, permitiendo a los usuarios alcanzar sus metas de salud y bienestar de manera efectiva y sostenible.¿Cómo podemos diseñar una solución que empodere a los usuarios para tomar el control de su salud y bienestar, ofreciéndoles herramientas personalizadas y apoyo continuo para alcanzar sus objetivos de manera efectiva y sostenible?
 
 #### 1.2.2.2. Lean UX Assumptions
-- **User Outcomes:** 
+**User Outcomes:** 
 
+1: ¿Quién es el usuario?: 
+- Nuestro usuario objetivo es aquel individuo interesado en mejorar su salud y bienestar, que busca una solución integral y personalizada para alcanzar sus metas de forma efectiva y sostenible.
+ 
+2: ¿Dónde encaja nuestro producto en su trabajo o vida?: 
+- Nuestro producto encaja en la vida diaria del usuario, proporcionándole herramientas y apoyo para adoptar hábitos saludables y mantener un estilo de vida equilibrado, tanto en casa como en movimiento.
 
+3: ¿Qué problemas tiene nuestro producto y cómo se pueden resolver?: 
+- Uno de los problemas de nuestro producto podría ser la falta de conciencia sobre la importancia de la salud y el bienestar personal. Esto se puede abordar mediante una sólida campaña de concienciación y educación sobre los beneficios de adoptar hábitos saludables.
+- Otro problema podría ser la dificultad para seguir los planes alimentarios personalizados. Esto se puede resolver mediante una interfaz intuitiva y fácil de usar, junto con recordatorios y seguimientos personalizados.
 
-- **Business Outcomes:**
+4: ¿Cuándo y cómo es usado nuestro producto?: 
+- Nuestro producto es utilizado por los usuarios diariamente, tanto para acceder a consejos y orientación de salud como para registrar sus progresos y recibir retroalimentación. Se utiliza a través de una aplicación móvil y una plataforma web, adaptándose así a las diferentes preferencias de los usuarios.
+
+5: ¿Qué características son importantes?: 
+- Características importantes incluyen comunicación directa con coaches expertos, planes alimentarios personalizados, seguimiento de progreso, recordatorios de hábitos saludables, y acceso a recursos educativos sobre nutrición y bienestar.
+
+6: ¿Cómo debe verse nuestra aplicación y cómo debe comportarse?: 
+- Nuestra aplicación debe tener un diseño limpio y moderno, con una interfaz intuitiva que permita a los usuarios navegar fácilmente por las diferentes funciones y características. Debe comportarse de manera fluida y receptiva, brindando una experiencia de usuario agradable y satisfactoria.
+
+ **Business Outcomes:**
+- Incremento en el número de suscriptores y retención de usuarios a largo plazo.
+- Generación de ingresos a través de suscripciones premium y colaboraciones con marcas relacionadas con la salud y el bienestar.
+- Posicionamiento como líder en el campo del bienestar personal, ganando reconocimiento y confianza de la comunidad de usuarios.
 
 
 
@@ -293,9 +313,8 @@ Presentación del modelo de las preguntas 5Ws y 2Hs con la que se analizaron los
 ###### Figura 1.
 
 Presentación del Lean UX Canvas referente a nuestro proyecto.
-Presentación del Lean UX Canvas referente a nuestro proyecto.
 
-<img src="https://github.com/Final-Project-OpenSource/upc-pre-202401--si729-SW53-NutriTech-report-tb1/blob/feature-cap1/assets/Lean UX canvas Fithub.png" alt="Lean UX Canvas" >
+<img src="/assets/img/capitulo1/Lean UX canvas Fithub.png" alt="Lean UX Canvas" >
 
 ## 1.3. Segmento Objetivo
 
