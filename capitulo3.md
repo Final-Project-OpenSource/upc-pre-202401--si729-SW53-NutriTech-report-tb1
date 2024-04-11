@@ -39,11 +39,11 @@ Tabla de historias de usuario
 |US013|Implementar Autenticación de Dos Factores       | **Como** desarrollador, **Quiero** implementar la autenticación de dos factores, **Para** mejorar la seguridad de la plataforma.                          | **Dado** que el desarrollador tiene especificaciones claras sobre la autenticación de dos factores. <br> **Cuando** el desarrollador implementa la funcionalidad según las especificaciones. <br> **Entonces** la autenticación de dos factores se activa y funciona correctamente para los usuarios. <br> **Dado** que el desarrollador intenta implementar la autenticación de dos factores sin entender los requisitos de seguridad. <br> **Cuando** el desarrollador realiza implementaciones incompletas o incorrectas. <br> **Entonces** la autenticación de dos factores no proporciona una capa de seguridad adecuada o causa problemas de acceso para los usuarios.    |EP03 |
 |US014|Desarrollar Funcionalidad de Notificaciones     | **Como** desarrollador, **Quiero** desarrollar la funcionalidad de notificaciones, **Para** mantener a los usuarios informados sobre eventos importantes. | **Dado** que el desarrollador tiene especificaciones detalladas sobre los tipos de notificaciones requeridos. <br> **Cuando** el desarrollador implementa la funcionalidad de notificaciones de acuerdo con las especificaciones. <br> **Entonces** el sistema envía notificaciones apropiadas a los usuarios en los momentos adecuados. <br> **Dado** que el desarrollador intenta implementar la funcionalidad de notificaciones sin entender los casos de uso y la lógica de negocio. <br> **Cuando** el desarrollador realiza implementaciones incorrectas o incompletas. <br> **Entonces** las notificaciones no se envían correctamente o pueden causar confusión entre los usuarios.  |EP03 |
 |US015|Crear Herramientas de Monitoreo y Depuración    | **Como** desarrollador, **Quiero** crear herramientas de monitoreo y depuración, **Para** facilitar la identificación y resolución de problemas.          | **Dado** que el desarrollador necesita herramientas para monitorear el rendimiento y depurar problemas. <br> **Cuando** el desarrollador implementa herramientas de monitoreo y depuración según las mejores prácticas. <br> **Entonces** las herramientas proporcionan información útil sobre el estado del sistema y ayudan a identificar y resolver problemas rápidamente. <br> **Dado** que el desarrollador intenta implementar herramientas de monitoreo y depuración sin entender completamente las necesidades del sistema. <br> **Cuando** el desarrollador crea herramientas inadecuadas o incompletas. <br> **Entonces** las herramientas no proporcionan información útil o pueden causar confusión al intentar utilizarlas. |EP03 |
-|US016| | | |EP04 |
-|US017| | | |EP04 |
-|US018| | | |EP04 |
-|US019| | | |EP04 |
-|US020| | | |EP04 |
+|US016|Integración con redes sociales    | **Como** usuario, **Quiero** poder conectarme con mis amigos en redes sociales. **Para** compartir mi progreso y ver el de ellos.          | **Dado** que el usuario accede a la configuración de la aplicación. <br> **Cuando** vincula su cuenta de redes sociales, <br> **Entonces** las herramientas proporcionan información útil sobre el estado del sistema y ayudan a identificar y resolver problemas rápidamente. <br> |EP04 |
+| US017 | Filtrado de contenido por nivel de habilidad | **Como** usuario, **quiero** ver una introducción atractiva en la página de inicio.**Para** encontrar opciones adecuadas para mí. | **Dado** que el usuario accede a la sección de entrenamientos o contenido, <br> **Cuando** selecciona la opción de filtrar por nivel de habilidad, <br> **Entonces** se muestran solo las opciones que coinciden con su nivel seleccionado. | EP04|
+| US018 | Modo oscuro | **Como** usuario, **quiero** tener la opción de cambiar a un modo oscuro en la aplicación.**Para** reducir la fatiga visual durante la noche. | **Dado** que el usuario accede a la configuración de la aplicación, <br> **Cuando** activa el modo oscuro, <br> **Entonces**  la aplicación cambia su interfaz a un esquema de colores oscuros. | EP04|
+| US019 | Notificaciones push básicas | **Como** usuario, **quiero** recibir notificaciones push para recordatorios de sesiones de entrenamiento y actualizaciones importantes.**Para** mantenerme al siempre al tanto. | **Dado** que el usuario tiene la aplicación instalada y las notificaciones push habilitadas, <br> **Cuando** se programa una sesión de entrenamiento o hay una actualización importante, <br> **Entonces**  el usuario recibe una notificación push en su dispositivo móvil. | EP04|
+| US020 | Integración con redes sociales | **Como** usuario, **quiero** poder conectarme con mis amigos en redes sociales. **Para** compartir mi progreso y ver el de ellos. | **Dado** que el usuario accede a la configuración de la aplicación, <br> **Cuando** vincula su cuenta de redes sociales, <br> **Entonces**  puede ver y compartir su progreso con sus amigos en esas plataformas. | EP04|
 |US021| | | |EP05 |
 |US022| | | |EP05 |
 |US023| | | |EP05 |
@@ -79,11 +79,11 @@ Tabla de historias de usuario
 |13 | | | | |
 |14 | | | | |
 |15 | | | | |
-|16 | | | | |
-|17 | | | | |
-|18 | | | | |
-|19 | | | | |
-|20 | | | | |
+| 16      | US16          | Integración con redes sociales | **Como** usuario, **quiero** poder conectarme con mis amigos en redes sociales. **Para** compartir mi progreso y ver el de ellos. | 5 |
+| 17      | US17          | Filtrado de contenido por nivel de habilidad | **Como** usuario, **quiero** ver una introducción atractiva en la página de inicio.**Para** encontrar opciones adecuadas para mí. | 3 |
+| 18      | US18          | Modo oscuro |  **Como** usuario, **quiero** tener la opción de cambiar a un modo oscuro en la aplicación.**Para** reducir la fatiga visual durante la noche. | 3 |
+| 19      | US19          | Notificaciones push básicas | **Como** usuario, **quiero** recibir notificaciones push para recordatorios de sesiones de entrenamiento y actualizaciones importantes.**Para** mantenerme al siempre al tanto. | 5 |
+| 20      | US20          | Integración con redes sociales | **Como** usuario, **quiero** poder conectarme con mis amigos en redes sociales. **Para** compartir mi progreso y ver el de ellos. | 5 |
 |21 | | | | |
 |22 | | | | |
 |23 | | | | |
