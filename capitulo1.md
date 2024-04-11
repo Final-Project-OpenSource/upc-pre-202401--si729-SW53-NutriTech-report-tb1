@@ -190,9 +190,22 @@ En la siguiente sección se describen las acciones realizadas y enunciados de co
 # Capítulo I: Introducción
 
 ## 1.1. Startup Profile
-
-
 ### 1.1.1 Descripción de la Startup
+- **Misión:** 
+
+Nuestra misión es proporcionar a nuestros suscriptores las herramientas y el apoyo necesario para alcanzar sus objetivos de bienestar y salud, a través de una comunicación directa con coaches expertos y planes alimentarios personalizados.
+
+- **Visión:** 
+
+Aspiramos a ser líderes en el campo del bienestar personal, ofreciendo una plataforma innovadora y accesible que promueva hábitos saludables y un estilo de vida equilibrado para todos nuestros usuarios.
+- **Valores:**
+
+* Compromiso con nuestros suscriptores: Nos comprometemos a proporcionar un servicio de alta calidad que satisfaga las necesidades individuales de cada usuario, brindando un apoyo continuo y personalizado.
+* Excelencia y profesionalismo: Nos esforzamos por mantener los más altos estándares de excelencia en todos los aspectos de nuestro negocio, desde la selección de nuestros coaches hasta la entrega de nuestros planes alimentarios, asegurando la máxima calidad en cada interacción.
+* Innovación y adaptabilidad: Buscamos constantemente nuevas formas de mejorar y adaptarnos a las necesidades cambiantes de nuestros usuarios, utilizando tecnologías de vanguardia y métodos innovadores para ofrecer soluciones efectivas y actualizadas.
+* Ética y transparencia: Operamos con integridad y transparencia en todas nuestras acciones, asegurando la confianza y la credibilidad de nuestra comunidad de usuarios en todo momento.
+* Empoderamiento y motivación: Nos esforzamos por empoderar a nuestros usuarios para que tomen el control de su salud y bienestar, brindándoles las herramientas, el conocimiento y el apoyo necesario para alcanzar sus metas y mantener un estilo de vida saludable a largo plazo.
+
 ### 1.1.2 Perfiles de integrantes del equipo
 
 
@@ -203,6 +216,10 @@ Mi nombre es Jorge Ponce, tengo 20 años y estoy cursando el sexto ciclo de la c
 
 ---
 #### Maguiña Corzo, Ricardo Jesus - U202121858 - Ingeniería de Software
+Me llamo Ricardo Jesus Maguiña Corzo y tengo 20 años. Estudió la carrera de Ing. de Software en la UPC. En mis tiempos libres me gusta aprender nuevas tecnologías, salir a practicar 
+fútbol y jugar en mi computadora. Conocimiento y habilidades: Poseo destrezas colaborativas, habilidades para abordar desafíos y un compromiso constante con el aprendizaje. Mi experiencia abarca metodologías ágiles, desarrollo web y backend, así como nociones fundamentales en ciberseguridad.
+
+<img src="/assets/img/capitulo1/Profile-Ricardo.jpg" alt="Ricardo Jesus Maguiña Corzo" width="200" height="250">
 
 ---
 #### Cueto Dominguez, Juan Diego - U202012207 - Ingeniería de Software
