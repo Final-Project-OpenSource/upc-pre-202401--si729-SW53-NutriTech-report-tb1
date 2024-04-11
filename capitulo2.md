@@ -68,6 +68,21 @@ Análisis Competitivo organizado para todos los competidores potenciales de FitH
 ## 2.2. Entrevistas
 
 ### 2.2.1. Diseño de entrevistas
+* **Individuos interesados en mejorar su salud y condición física:**
+1. ¿Qué te ha motivado a buscar maneras de mejorar tu salud y condición física en este momento?
+2. ¿Cuál ha sido tu experiencia previa al intentar adoptar un estilo de vida más saludable? ¿Qué obstáculos has enfrentado?
+3. ¿Qué tipo de apoyo o orientación te resultaría más útil para alcanzar tus objetivos de salud y condición física?
+4. ¿Cómo crees que una Aplicación web de coaching en línea podría ayudarte a mantenerte motivado y comprometido con tus metas de bienestar?
+5. ¿Qué características considerarías más importantes al elegir un servicio de coaching en línea para ayudarte a alcanzar tus objetivos de salud y condición física?
+6. ¿Qué esperas obtener de un coach profesional en términos de apoyo y seguimiento en tu viaje hacia un estilo de vida más saludable?
+
+* **Profesionales del coaching en ejercicio y alimentación:**
+1. ¿Qué te llevó a convertirte en un profesional del coaching en ejercicio o alimentación?
+2. ¿Cuáles son los mayores desafíos que enfrentas al trabajar con clientes de manera presencial?
+3. ¿Qué beneficios ves en la posibilidad de ofrecer servicios de coaching en línea?
+4. ¿Qué herramientas o características crees que serían más útiles para ti al proporcionar servicios de coaching en línea a tus clientes?
+5. ¿Qué aspectos considerarías críticos al seleccionar una plataforma de coaching en línea para ofrecer tus servicios profesionales?
+6. ¿Cómo crees que una aplicación web de coaching  podría mejorar la eficacia de tu trabajo como coach y la experiencia de tus clientes?
 
 
 
