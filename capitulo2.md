@@ -107,7 +107,7 @@ Análisis Competitivo organizado para todos los competidores potenciales de FitH
 - - -
 **Entrevista N°2:**
 ###### Figura 2
-![Entrevista_Seg01_MaxSabino](assets/img/Registro_entrevista_Seg1_MaxSabino.PNG) <br>
+![Entrevista_Seg01_MaxSabino](assets/img/capitulo2/Registro_entrevista_Seg1_MaxSabino.PNG) <br>
 **Datos principales:**
 - Nombre completo del entrevistado: Max Sabino
 - Edad: 22
@@ -198,6 +198,20 @@ En la entrevista con Max Sabino, un estudiante universitario de 22 años, se evi
 
 
 ## 2.4. Ubiquitous Language
+
+El lenguaje ubicuo, o "Ubiquitous Language", es un enfoque estructurado y definido para el modelo de dominio en un proyecto. Es un conjunto de términos y conceptos compartidos y entendidos por todos los miembros del equipo, incluyendo desarrolladores, stakeholders y expertos en el dominio. Facilita la comunicación y comprensión del negocio al establecer un vocabulario común que permite una discusión clara y precisa sobre los aspectos del proyecto, asegurando que todos estén en la misma página y contribuyan de manera efectiva al desarrollo y éxito del proyecto (Chandrasekaran, 2022).
+
+- Coach: Profesional o experto en salud y fitness que brinda asesoramiento y apoyo a los usuarios a través de la aplicación.
+- Perfil: información personal y las preferencias de cada usuario, incluyendo datos como edad, género, objetivos de salud, historial médico, etc.
+- Plan de Entrenamiento: Una serie de ejercicios, actividades y metas diseñadas específicamente para cada usuario según sus objetivos y nivel de condición física.
+- Plan Nutricional: Un conjunto de recomendaciones dietéticas y pautas alimenticias adaptadas a las necesidades y preferencias de cada usuario.
+- Seguimiento de Progreso: Herramientas y funcionalidades para que los usuarios registren y monitoreen su progreso en términos de entrenamiento, dieta, peso, medidas corporales, etc.
+- Recomendaciones Personalizadas: Sugerencias y consejos adaptados a cada usuario basados en su rendimiento, preferencias y objetivos.
+- Logros: Hitos o metas alcanzadas por los usuarios en su camino hacia un estilo de vida más saludable.
+- Gamificación: La integración de elementos lúdicos como desafíos, logros, puntos y recompensas para motivar y comprometer a los usuarios.
+- Notificaciones: Mensajes y alertas automáticas que informan a los usuarios sobre nuevos logros, recordatorios de entrenamiento, consejos nutricionales, etc.
+- Soporte: Servicio de atención al cliente y asistencia técnica ofrecido a los usuarios para resolver problemas, responder preguntas y brindar orientación.
+- Suscripción: Opciones de membresía o planes de pago que los usuarios pueden elegir para acceder a funciones premium y contenido exclusivo.
 
 
 
