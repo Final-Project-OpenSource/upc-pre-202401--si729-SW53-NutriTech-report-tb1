@@ -53,7 +53,12 @@ Tabla de historias de usuario
 ## 3.3. Impact Mapping
 
 ###### Figura 12.
+*Impact Mapping del segmento 1*
+<img src="/assets/img/Impact map Segmento 1.png" alt="Impact Map Segmento 1" width="800">
 
+###### Figura 13.
+*Impact Mapping del segmento 2*
+<img src="/assets/img/Impact map Segmento 2.png" alt="Impact Map Segmento 2" width="800">
 
 ## 3.4. Product Backlog
 
