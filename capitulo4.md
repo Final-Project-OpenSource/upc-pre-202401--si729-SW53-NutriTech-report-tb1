@@ -19,8 +19,12 @@
 ## 4.5 Web Applications Prototyping
 ## 4.6 Domain-Driven Software Architecture
 ## 4.6.1 Software Architecture Context Diagram
+![Software Architecture Context Diagram](assets/img/capitulo4/context-diagram.png)
 ## 4.6.2 Software Architecture Container Diagrams
+![Software Architecture Container Diagrams](assets/img/capitulo4/container-diagram.png)
 ## 4.6.3 Software Architecture Components Diagrams
+![Software Architecture Components Diagrams](assets/img/capitulo4/component-diagram.png)
+
 ## 4.7 Software Object-Oriented Design
 ## 4.7.1 Class Diagrams
 ## 4.7.2 Class Dictionary
