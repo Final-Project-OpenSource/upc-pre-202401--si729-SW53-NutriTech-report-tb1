@@ -24,11 +24,11 @@ Tabla de épicas establecidas para las historias de usuarios.
 Tabla de historias de usuario 
 | Epic / Story ID|Título |Descripción | Criterios de Aceptación| Relacionado con (Epic ID)| 
 |-|-|-|-|-|
-|US01 | | | |EP01 |
-|US02 | | | |EP01 |
-|US03 | | | |EP01 |
-|US04 | | | |EP01 |
-|US05 | | | |EP01 |
+| US01 | Introducción atractiva | **Como** visitante, **quiero** ver una introducción atractiva en la página de inicio. | **Dado** que el usuario visita la página de inicio, <br> **Cuando** desplaza hacia abajo, <br> **Entonces** debe ver una sección de introducción con una descripción y elementos visuales atractivos. | EP01|
+| US02 | Navegación intuitiva | **Como** visitante, **quiero** poder navegar fácilmente por las diferentes secciones del sitio web. | **Dado** que el usuario visita la página web, <br> **Cuando** mira la parte superior de la página, <br> **Entonces** debe encontrar un menú de navegación con enlaces claros a las diferentes secciones del sitio. | EP01 |
+| US03 | Información detallada de planes | **Como** visitante, **quiero** obtener información detallada sobre los planes de suscripción disponibles. | **Dado** que el usuario visita la página de inicio, <br> **Cuando** desplaza hacia abajo, <br> **Entonces** debe encontrar una sección dedicada a los planes de suscripción con información clara sobre cada plan y un botón para suscribirse. | EP01|
+| US04 | Testimonios de usuarios | **Como** visitante, **quiero** leer testimonios de otros usuarios para conocer sus experiencias con FitHub. | **Dado** que el usuario visita la página de inicio, <br> **Cuando** desplaza hacia abajo, <br> **Entonces** debe encontrar una sección de testimonios con testimonios verídicos y variados de usuarios reales, junto con sus nombres. | EP01 |
+| US05 | Contactar fácilmente | **Como** visitante, **quiero** poder contactar con FitHub para hacer preguntas o solicitar más información. | **Dado** que el usuario visita la página de inicio, <br> **Cuando** desplaza hacia abajo, <br> **Entonces** debe encontrar una sección de contacto con la información de contacto de FitHub y un formulario de contacto funcional. | EP01 |
 |US06 |Seguimiento de progreso |**Como** usuario, **quiero** poder establecer metas de entrenamiento específicas para recibir recomendaciones personalizadas. |**Dado** que el usuario visita su perfil , **Cuando** da click en metas <br> **y** selecciona crear meta, **Entonces** la aplicación le brinda las herramientas necesarias para poder crear dicha meta. |EP02 |
 |US07 |Asesoramiento nutricional |**Como** usuario, **quiero** un asesoramiento nutricional personalizado para ajustar mi dieta diaria. |**Dado** que el usuario visita la página principal , **Cuando** da click en Buscar Asesor, **Entonces** la aplicación deriva al usuario con un asesor para el correcto asesoramiento nutricional. |EP02 |
 |US08 |Gamificacion para aumentar la motivación |**Como** usuario, **quiero** participar en desafíos de gamificación en donde pueda tener objetivos de entrenamiento. |**Dado** que el usuario visita la página desafíos , **Cuando** desplaza hacia abajo, **Entonces** la aplicación le muestra al usuario todos los desafíos activos para dicha fecha. |EP02 |
@@ -54,21 +54,21 @@ Tabla de historias de usuario
 
 ###### Figura 12.
 *Impact Mapping del segmento 1*
-<img src="/assets/img/Impact map Segmento 1.png" alt="Impact Map Segmento 1" width="800">
+<img src="/assets/img/capitulo3/Impact map Segmento 1.png" alt="Impact Map Segmento 1" width="800">
 
 ###### Figura 13.
 *Impact Mapping del segmento 2*
-<img src="/assets/img/Impact map Segmento 2.png" alt="Impact Map Segmento 2" width="800">
+<img src="/assets/img/capitulo3/Impact map Segmento 2.png" alt="Impact Map Segmento 2" width="800">
 
 ## 3.4. Product Backlog
 
 |# Orden |User Story Id |Título |Descripción |Story Points (1 / 2 / 3 / 5 / 8) |
 |-|-|-|-|-|
-|1 | | | | |
-|2| | | | |
-|3 | | | | |
-|4 | | | | |
-|5 | | | | |
+| 1      | US01          | Introducción atractiva | **Como** visitante, **quiero** ver una introducción atractiva en la página de inicio. | 3 |
+| 2      | US02          | Navegación intuitiva | **Como** visitante, **quiero** poder navegar fácilmente por las diferentes secciones del sitio web. | 5 |
+| 3      | US03          | Información detallada de planes |  **Como** visitante, **quiero** obtener información detallada sobre los planes de suscripción disponibles. | 5 |
+| 4      | US04          | Testimonios de usuarios | **Como** visitante, **quiero** leer testimonios de otros usuarios para conocer sus experiencias con FitHub. | 3 |
+| 5      | US05          | Contactar fácilmente | **Como** visitante, **quiero** poder contactar con FitHub para hacer preguntas o solicitar más información. | 3 |
 |6 | | | | |
 |7 | | | | |
 |8 | | | | |
