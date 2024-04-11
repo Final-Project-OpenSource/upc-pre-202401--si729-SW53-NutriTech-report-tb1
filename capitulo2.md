@@ -182,12 +182,12 @@ En la entrevista con Max Sabino, un estudiante universitario de 22 años, se evi
 ### 2.3.3. User Journey Mapping
 
 ###### Figura 7.
-
-
+<img src="/assets/img/capitulo2/User-Journeymap.jpg">
 
 ### 2.3.4. Empathy Mapping
 ###### Figura 9.
 
+<img src="/assets/img/capitulo2/Empathy-Mapping.jpg">
 
 
 ### 2.3.5. As-is Scenario Mapping
