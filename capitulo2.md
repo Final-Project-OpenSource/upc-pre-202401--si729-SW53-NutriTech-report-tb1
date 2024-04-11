@@ -165,12 +165,12 @@ En la entrevista con Max Sabino, un estudiante universitario de 22 años, se evi
 ### 2.3.1. User Personas
 
 ###### USER PERSONA 1.
-
+<img src="/assets/img/capitulo2/US01 - OPENSRC.png">
 
 
 
 ###### USER PERSONA 2.
-
+<img src="/assets/img/capitulo2/US02 - OPENSRC.png">
 
 
 ### 2.3.2. User Task Matrix
