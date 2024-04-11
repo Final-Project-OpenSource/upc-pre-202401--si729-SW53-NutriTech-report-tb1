@@ -257,6 +257,35 @@ Presentación del modelo de las preguntas 5Ws y 2Hs con la que se analizaron los
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
+- **Hypothesis 1**
+    Creemos firmemente que es esencial ofrecer planes de entrenamiento y nutrición personalizados, diseñados específicamente para cada usuario en base a sus necesidades, objetivos y restricciones individuales.
+
+    Sabremos que hemos tenido éxito cuando los usuarios no solo experimenten un aumento en los resultados positivos relacionados con sus metas de salud y bienestar, sino también cuando expresen una mayor satisfacción y compromiso con sus programas de entrenamiento y nutrición personalizados.
+    
+- **Hypothesis 2**
+    Creemos firmemente que sería ideal integrar elementos de gamificación, como logros y desafíos, dentro de la aplicación. Estos elementos pueden motivar a los usuarios, fomentar la competencia saludable y hacer que el proceso de entrenamiento y seguimiento de la nutrición sea más emocionante y atractivo.
+
+    Sabremos que hemos tenido éxito en la integración de estos elementos cuando observemos un aumento significativo en la participación y la retención de los usuarios en la aplicación. Esto se reflejará en métricas como el tiempo de uso, la frecuencia de interacción y la retroalimentación positiva de los usuarios sobre la experiencia de gamificación en la aplicación.
+    
+- **Hypothesis 3**
+    Creemos firmemente que se debería ofrecer un modelo de suscripción flexible con diferentes niveles para nuestra aplicación. Esto permitirá a los usuarios elegir el nivel de servicio que mejor se adapte a sus necesidades y presupuesto, brindando opciones que abarquen desde funcionalidades básicas hasta características premium y exclusivas.
+
+    Sabremos que hemos tenido éxito en la implementación de este modelo cuando observemos un incremento notable en la adquisición de suscriptores en todos los niveles. Además, la satisfacción del cliente se traducirá en renovaciones de suscripción consistentes, indicando que los usuarios valoran la oferta de valor proporcionada en cada nivel de suscripción y están dispuestos a continuar utilizando nuestros servicios a largo plazo.
+    
+- **Hypothesis 4**
+    Creemos que deberíamos ofrecer recomendaciones y sugerencias personalizadas basadas en los datos del usuario, utilizando información como su historial de entrenamiento, preferencias alimenticias, metas de salud y otros datos relevantes. Estas recomendaciones personalizadas pueden incluir desde rutinas de ejercicios específicas hasta sugerencias de comidas y consejos de bienestar adaptados a las necesidades individuales de cada usuario.
+
+    Sabremos que hemos tenido éxito en la implementación de este enfoque cuando los usuarios experimenten una mayor relevancia y utilidad en las recomendaciones recibidas. Esto se reflejará en una mejor experiencia general para los usuarios, quienes encontrarán que la aplicación les ayuda de manera efectiva a alcanzar sus objetivos de salud y bienestar de manera personalizada y significativa.
+    
+- **Hypothesis 5**
+    Creemos que se debe ofrecer una prueba gratuita o demostración de la aplicación a todos nuestros nuevos usuarios, permitiéndoles experimentar las características y beneficios que nuestra plataforma ofrece antes de comprometerse con una suscripción.
+
+    Sabremos que hemos tenido éxito en esta estrategia cuando analicemos la conversión de usuarios de prueba a suscriptores de pago y observemos un incremento significativo desde el inicio hasta el plazo de 4 meses. Este aumento en la conversión indicará que la prueba gratuita o demostración está generando interés y confianza en los usuarios, lo que les lleva a optar por suscribirse y continuar utilizando nuestra aplicación a largo plazo.
+    
+- **Hypothesis 6**
+    Creemos que se debería ofrecer un respectivo feedback y soporte continuo a través de sesiones con los respectivos coaches, proporcionando a los usuarios la oportunidad de recibir orientación personalizada y seguimiento regular en sus objetivos de entrenamiento, nutrición y bienestar.
+
+    Sabremos que hemos tenido éxito en esta iniciativa cuando los usuarios experimenten una mejora significativa en sus hábitos de vida y bienestar físico, lo cual se verá reflejado en una encuesta de satisfacción. Al obtener comentarios positivos sobre la efectividad del feedback y el soporte proporcionado por los coaches, y al observar mejoras tangibles en la calidad de vida y el estado físico de los usuarios, confirmaremos el éxito de esta estrategia.
 
 
 #### 1.2.2.4. Lean UX Canvas
@@ -264,8 +293,9 @@ Presentación del modelo de las preguntas 5Ws y 2Hs con la que se analizaron los
 ###### Figura 1.
 
 Presentación del Lean UX Canvas referente a nuestro proyecto.
+Presentación del Lean UX Canvas referente a nuestro proyecto.
 
-
+<img src="https://github.com/Final-Project-OpenSource/upc-pre-202401--si729-SW53-NutriTech-report-tb1/blob/feature-cap1/assets/Lean UX canvas Fithub.png" alt="Lean UX Canvas" >
 
 ## 1.3. Segmento Objetivo
 
