@@ -89,31 +89,44 @@ Análisis Competitivo organizado para todos los competidores potenciales de FitH
 ### 2.2.2. Registro de entrevistas
 
 **Entrevista N°1:**
-
+###### Figura 1
 ![Entrevista_Seg01_DiegoPaulino](assets/img/capitulo2/Registro_Entrevista_Seg01_DiegoPaulino.png) <br>
 
 **Datos principales:** <br>
 - Nombre y apellidos: Diego Paulino <br>
 - Edad: 21 años <br>
 - Distrito: Santiago de Surco <br>
+- Link: [URL de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202012207_upc_edu_pe/ER7KWELuwWdJuOSis4APNUkBSVkiFUD3YuwMhxMEicLYZw?e=sLI70y&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 - Inicio De Entrevista: 0:10 <br>
 - Duración: 3:12 <br>
-  [URL de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202012207_upc_edu_pe/ER7KWELuwWdJuOSis4APNUkBSVkiFUD3YuwMhxMEicLYZw?e=sLI70y&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+ 
 
 **Resumen De Entrevista**: El entrevistado revela una motivación actual para mejorar su salud y condición física, destacando su interés en adoptar un estilo de vida más activa y organizada. Su experiencia previa incluye intentos anteriores de seguir una dieta equilibrada y hacer ejercicio regularmente, pero ha enfrentado desafíos como la falta de organización y la dificultad para mantener la consistencia. Busca un apoyo y orientación útiles para alcanzar sus objetivos, priorizando la educación sobre nutrición y la planificación de comidas saludables. Considera que una Aplicación web de coaching en línea sería beneficiosa por su accesibilidad y seguimiento del progreso. Al elegir un servicio de coaching, valora la personalización de los planes, el apoyo constante y la motivación para mantenerse comprometido con sus objetivos. Espera recibir un apoyo profesional y personalizado de un coach en su viaje hacia un estilo de vida más saludable.
+
+
 - - -
-###### Figura 2
-
-
-**Datos principales:**
-
-		
-**Transcripción de la entrevista:**
-
-
 **Entrevista N°2:**
+###### Figura 2
+![Entrevista_Seg01_MaxSabino](assets/img/Registro_entrevista_Seg1_MaxSabino.PNG) <br>
+**Datos principales:**
+- Nombre completo del entrevistado: Max Sabino
+- Edad: 22
+- Distrito: Chorrillos
+- Link:[URL de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f572_upc_edu_pe/EQFNdbQMhnlCiN18bVwSitYBNew8OTVQH3NDFTABv3Gw4A?e=BhLUF1)
+- Inicio de la entrevista: 00:05
+- Duración: 05:34
 
+  **Transcripción de la entrevista:** <br>
+En la entrevista con Max Sabino, un estudiante universitario de 22 años, se evidencia su fuerte motivación por mejorar su salud y condición física debido al aumento de peso y el sedentarismo. Max reconoce obstáculos como la falta de motivación y disciplina, pero muestra una actitud proactiva al buscar apoyo de un coach con experiencia en salud física, seguimiento regular y establecimiento de metas personalizadas. Destaca la importancia del trato y la exigencia del coach, demostrando su compromiso serio con adoptar un estilo de vida más saludable y su disposición a trabajar para alcanzar sus objetivos.
+
+- - -
+**Entrevista N°3:**
 ###### Figura 3
+
+
+**Entrevista N°4:**
+
+###### Figura 4
 
 
 **Datos principales:**
