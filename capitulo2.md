@@ -2,7 +2,20 @@
 
 ## 2.1. Competidores
 
+## 2.1. Competidores
+- - -
+[<p align="center"> <img src="assets/img/Competidores-MyFitnessPal.png" alt="MyFitnessPal" width="200">](https://www.myfitnesspal.com/es)
 
+***MyFitnessPal:*** Es una de las aplicaciones líderes en el seguimiento de alimentos y ejercicio físico. Ofrece una amplia base de datos de alimentos y permite a los usuarios realizar un seguimiento de su ingesta calórica y actividad física para ayudarles a alcanzar sus objetivos de salud y fitness. Además del seguimiento básico, MyFitnessPal también proporciona herramientas para establecer metas personalizadas, crear planes de alimentación y recibir apoyo de una comunidad activa de usuarios.
+- - -
+[<p align="center"> <img src="assets/img/Competidores-Noom.png" alt="Noom" width="200">](https://www.noom.com/es/blog/cuanto-cuesta-noom/)
+
+***Noom:*** Es una aplicación de coaching en salud y bienestar que se centra en la pérdida de peso y el cambio de hábitos. Utiliza un enfoque basado en la psicología y la tecnología para ayudar a los usuarios a desarrollar hábitos saludables a largo plazo. Noom ofrece programas personalizados de pérdida de peso, seguimiento del progreso, educación sobre nutrición y ejercicio, así como apoyo de coaches certificados.
+- - -
+[<p align="center"> <img src="assets/img/Competidores-NikeTrainingClub.jpg" alt="NikeTrainingClub" width="200">](https://www.nike.com/es/ntc-app)
+
+***NikeTrainingClub:*** Es una aplicación de entrenamiento de Nike que ofrece una amplia variedad de programas de ejercicio, desde entrenamientos de fuerza hasta yoga y cardio. La aplicación incluye entrenamientos guiados por expertos, seguimiento del progreso y una comunidad activa de usuarios que comparten sus logros y motivan a otros. Además, Nike Training Club está integrado con dispositivos Nike y ofrece acceso exclusivo a contenido de entrenamiento de atletas y celebridades patrocinados por Nike.
+- - -
 ### 2.1.1. Análisis Competitivo
 
 **Competitive Analysis Landscape**
