@@ -417,6 +417,12 @@ https://final-project-opensource.github.io/LandingPageFitHub/
 - Se han recopilado los recursos y activos utilizados en el desarrollo de la landing page, como imágenes, iconos, fuentes y estilos, para facilitar futuras actualizaciones y modificaciones.
 <br><img src="">
 ## 5.2.1.7 Software Deployment Evidence for Sprint Review
+- Se ha desplegado la landing page en un entorno de prueba para verificar su funcionamiento en un ambiente real.
+- Se han preparado registros de despliegue que documentan el proceso de implementación.
+- Se ha realizado una revisión final de la landing page desplegada para asegurar que todos los elementos y funcionalidades estén operativos.
+- Se ha compartido el enlace de la landing page desplegada con el equipo para que puedan revisarla y proporcionar comentarios.
+- Se ha actualizado la documentación de despliegue con los detalles del proceso y los resultados obtenidos.
+<br><img src="">
 ## 5.2.1.8 Team Collaboration Insights during Sprint
 
 Comunicación efectiva: Observar cómo el equipo se comunica entre sí puede proporcionar información sobre la claridad y la eficiencia de la comunicación dentro del equipo. Una comunicación abierta y transparente es esencial para la colaboración exitosa.
