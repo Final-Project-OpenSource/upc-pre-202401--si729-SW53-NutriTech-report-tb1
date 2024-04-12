@@ -75,20 +75,20 @@ Dado que en este proyecto se utilizarán HTML, CSS y JavaScript para la codifica
 
 A los nombres de las variables, objetos, elementos y funciones que se utilicen, se les designarán términos en inglés que estén relacionados y puedan describir a lo que están representando. No se usarán mayúsculas porque de acuerdo con W3Schools (s.f.), la mezcla de estas con las letras minúsculas luce mal y, además, el uso exclusivo de minúsculas otorga mayor legibilidad al código.
 
-Ejemplo de nomenclatura estándar según Google (s.f.):
+Ejemplo de nomenclatura estándar según Google (s.f.):<br>
 <img src="/assets/img/capitulo5/Aspose.Words.a48e7a94-958e-481b-9be7-4e0d4e115cf1.001.png" />
 
 #### **Sangría**
 
 En el momento de utilizar HTML, CSS y/o JavaScript se aplicará un espaciado antes de cada línea que se encuentre dentro de un bloque. Este espacio debe ser de dos y según W3Schools (s.f.) no se debe hacer uso de la tecla “Tabulación”.
 
-Ejemplo de nomenclatura estándar de la sangría en HTML según W3Schools (s.f.):
+Ejemplo de nomenclatura estándar de la sangría en HTML según W3Schools (s.f.):<br>
 <img src="/assets/img/capitulo5/Aspose.Words.a48e7a94-958e-481b-9be7-4e0d4e115cf1.002.png" />
 
-Ejemplo de nomenclatura estándar de la sangría en CSS según W3Schools (s.f.):
+Ejemplo de nomenclatura estándar de la sangría en CSS según W3Schools (s.f.):<br>
 <img src="/assets/img/capitulo5/Aspose.Words.a48e7a94-958e-481b-9be7-4e0d4e115cf1.003.png" />
 
-Ejemplo de nomenclatura estándar de la sangría en JavaScript según W3Schools (s.f.):
+Ejemplo de nomenclatura estándar de la sangría en JavaScript según W3Schools (s.f.):<br>
 <img src="/assets/img/capitulo5/Aspose.Words.a48e7a94-958e-481b-9be7-4e0d4e115cf1.004.png" />
 
 Seguidamente, explicaremos las reglas específicas que se necesitan en cada lenguaje para entender el código de nuestro programa, FitHub Pro.
@@ -96,78 +96,77 @@ Seguidamente, explicaremos las reglas específicas que se necesitan en cada leng
 #### **HTML**
 Llamado así por las siglas del nombre en inglés HyperText Markup Language. HTML es un lenguaje de marcado que define la estructura de una página web. Además, cuenta con funciones capaces de determinar el comportamiento de distintas partes del contenido de la página, tales como el cambiar el tamaño del texto, aplicar cursiva, entre otros. Nosotros emplearemos HTML5, y las características y pautas a seguir para hacer uso de este lenguaje son las siguientes:
 
-#### ![ref1]**Declare Document Type**
+#### **Declare Document Type**
 El tipo de documento debe declararse en la primera línea de código. De acuerdo con Google (s.f.) HTML5 es de preferencia la mejor sintaxis para todo documento HTML, para declararla sólo es necesario copiar lo siguiente:
 
-#### ![ref2]**Blank Lines**
+#### **Blank Lines**
 Cada vez que, luego de un bloque, lista o tabla de gran longitud se inicie uno nuevo, se debe saltar la siguiente línea y dejarla en blanco para brindar mayor legibilidad y amenidad, así manifiesta W3Schools (s.f.).
 
-Ejemplo:
+Ejemplo:<br>
 <img src="/assets/img/capitulo5/Aspose.Words.a48e7a94-958e-481b-9be7-4e0d4e115cf1.007.png" />
 
-#### ![ref3]**Quote Attribute Values**
+#### **Quote Attribute Values**
 
 Para los valores de los atributos se utilizan comillas dobles alrededor. De acuerdo con W3Schools (s.f.) Aunque esta característica no sea obligatoria, le da más legibilidad al código y es muy frecuente entre los desarrolladores.
 
-Ejemplo:
+Ejemplo:<br>
 <img src="/assets/img/capitulo5/Aspose.Words.a48e7a94-958e-481b-9be7-4e0d4e115cf1.009.png" />
 
-#### ![ref4]**Multimedia Fallback**
-
+#### **Multimedia Fallback**
 Asegurar un acceso alterno a los objetos multimedia por si este fallara al cargar. De la misma forma, según la W3Schools (s.f.), es recomendable añadir las dimensiones del elemento porque así los navegadores guardan el espacio que utilizará antes de comenzar a cargarlo.
 
-Ejemplo:
+Ejemplo:<br>
 <img src="/assets/img/capitulo5/Aspose.Words.a48e7a94-958e-481b-9be7-4e0d4e115cf1.011.png" />
 
-#### ![ref1]**Never Skip the Element**
+#### **Never Skip the Element**
 
 El elemento permite que las páginas aparezcan en la lista de resultados al momento de buscar en un navegador web. Asimismo, esta es la que da el nombre de la página si se la añade a favoritos.
 
-Ejemplo:
+Ejemplo:<br>
 <img src="/assets/img/capitulo5/Aspose.Words.a48e7a94-958e-481b-9be7-4e0d4e115cf1.012.png" />
 
-#### ![ref1]**HTML Line-Wrapping**
+#### **HTML Line-Wrapping**
 
 El hecho de que en un documento HTML no haya un límite de palabras por línea, no quiere decir que sea recomendable generar líneas muy extensas de código. Al contrario, esto dificulta la lectura del código. Para pasar a la siguiente línea es necesario utilizar al menos cuatro espacios para diferenciar de elementos hijos.
 
-Ejemplo según Google (s.f.):
+Ejemplo según Google (s.f.):<br>
 <img src="/assets/img/capitulo5/Aspose.Words.a48e7a94-958e-481b-9be7-4e0d4e115cf1.013.png" />
 
 #### **CSS**
 
 Llamado así por las siglas del nombre en inglés Cascading Style Sheets. CSS es un lenguaje de marcado que se centra en definir y mejorar la presentación de un documento que se basa en HTML. Las pautas que a seguir al momento de usar CSS son las siguientes:
 
-#### ![ref1]**Shorthand Properties**
+#### **Shorthand Properties**
 Hay que utilizar abreviación de propiedades, declarar los campos de los elementos en la menor cantidad de líneas posibles. De acuerdo con Google (s.f.), esto aumenta la eficacia del código y lo hace más entendible. De la misma manera, debemos evitar el colocar las unidades luego del valor cero.
 
-Ejemplo:
-<img src="/assets/img/capitulo5/Aspose.Words.a48e7a94-958e-481b-9be7-4e0d4e115cf1.014.png" />
+Ejemplo:<br>
+<img src="/assets/img/capitulo5/Aspose.Words.a48e7a94-958e-481b-9be7-4e0d4e115cf1.014.png" /><br>
 
-<img src="/assets/img/capitulo5/Aspose.Words.a48e7a94-958e-481b-9be7-4e0d4e115cf1.015.png" />
+<img src="/assets/img/capitulo5/Aspose.Words.a48e7a94-958e-481b-9be7-4e0d4e115cf1.015.png" /><br>
 
-#### ![ref3]**Declaration Stops**
+#### **Declaration Stops**
 
 Hay que colocar un punto y coma luego de cada declaración al igual que gran parte de lenguajes de programación. Según Google (s.f.). esta característica ayuda a que haya más consistencia en el código
 
-Ejemplo:
+Ejemplo:<br>
 <img src="/assets/img/capitulo5/Aspose.Words.a48e7a94-958e-481b-9be7-4e0d4e115cf1.016.png" />
 
-#### ![ref1]**Property Name Stops**
+#### **Property Name Stops**
 Debe existir un espacio entre los dos puntos que están luego del nombre de una propiedad y el valor ingresado. Siempre solo un espacio luego de los dos puntos, mas no antes.
 
-Ejemplo estándar según Google (s.f.):
+Ejemplo estándar según Google (s.f.):<br>
 <img src="/assets/img/capitulo5/Aspose.Words.a48e7a94-958e-481b-9be7-4e0d4e115cf1.017.png" />
 
-#### ![ref2]**Declaration Block Separation**
+#### **Declaration Block Separation**
 El uso de un separador de un espacio es necesario luego del nombre de un elemento seleccionado y la llave que inicia un bloque. Además, esta llave tiene que estar en la misma línea.
 
-Ejemplo estándar según Google (s.f.):
+Ejemplo estándar según Google (s.f.):<br>
 <img src="/assets/img/capitulo5/Aspose.Words.a48e7a94-958e-481b-9be7-4e0d4e115cf1.018.png" />
 
-#### ![ref5]**CSS Quotation Marks**
+#### **CSS Quotation Marks**
 No se deben emplear las comillas dobles (“”), solo están permitidas las simples (‘’) para el uso exclusivo de selectores de atributos y valores de propiedades.
 
-Ejemplo estándar según Google (s.f.):
+Ejemplo estándar según Google (s.f.):<br>
 <img src="/assets/img/capitulo5/Aspose.Words.a48e7a94-958e-481b-9be7-4e0d4e115cf1.020.png" />
 <img src="/assets/img/capitulo5/Aspose.Words.a48e7a94-958e-481b-9be7-4e0d4e115cf1.021.png" />
 
@@ -175,38 +174,37 @@ Ejemplo estándar según Google (s.f.):
 
 Es un lenguaje de programación que otorga la posibilidad de indicar exactamente las acciones que debe ejecutar el navegador, indicando el orden de las tareas y el número de veces que se realizarán. Las indicaciones para usar JavaScript en nuestro proyecto son las siguientes:
 
-#### ![ref3]**Spaces around operators**
+#### **Spaces around operators**
 Se debe colocar un espacio alrededor de cada operador matemático que se introduzca en el código. Esto también aplica a las comas.
 
-Ejemplo estándar según W3Schools (s.f.):
+Ejemplo estándar según W3Schools (s.f.):<br>
 <img src="/assets/img/capitulo5/Aspose.Words.a48e7a94-958e-481b-9be7-4e0d4e115cf1.022.png" />
 
-#### ![ref6]**Simple Statement’s End**
-
+#### **Simple Statement’s End**
 Una indicación simple debe terminar en un punto y coma, esto se cumple también en muchos otros lenguajes de programación.
 
-Ejemplo estándar según W3Schools (s.f.):
+Ejemplo estándar según W3Schools (s.f.):<br>
 <img src="/assets/img/capitulo5/Aspose.Words.a48e7a94-958e-481b-9be7-4e0d4e115cf1.024.png" />
 
-#### ![ref1]**Beginning and End of a Function**
+#### **Beginning and End of a Function**
 
 Un bloque de función debe contar con una llave al final de la primera línea, para que el cierre de esta se encuentre sola en la última. Una función termina en llave y no en punto y coma. Lo mismo aplica para condicionales o bucles.
 
-Ejemplo estándar según W3Schhol (s.f):
+Ejemplo estándar según W3Schhol (s.f):<br>
 <img src="/assets/img/capitulo5/Aspose.Words.a48e7a94-958e-481b-9be7-4e0d4e115cf1.026.png" />
 
-#### ![ref1]**Object Rules**
+#### **Object Rules**
 Para la construcción de un objeto, al igual que en una función, se comienza con una llave al final de la primera línea, pero, esta vez, la llave de cierre debe estar acompañada de un punto y coma. Para las propiedades, se colocan dos puntos y un espacio para indicar su valor, el cual debe estar entre comillas dobles si este es un
 
 *string*.
 
-Ejemplo estándar según W3School (s.f.):
+Ejemplo estándar según W3School (s.f.):<br>
 <img src="/assets/img/capitulo5/Aspose.Words.a48e7a94-958e-481b-9be7-4e0d4e115cf1.027.png" />
 
 #### **Gherkin**
 Es un Lenguaje Específico de Dominio (DSL por sus siglas en inglés) que tiene como objetivo la resolución de un problema en específico. Para ello, se generan casos para la validación de la característica en distintos escenarios. Gherkin cuenta con múltiples elementos, de los cuales, los más famosos y, además, más utilizados son *Feature, Scenario, Example, Scenario, Given, When* y *Then.* Las indicaciones para tomar en cuenta en el uso de Gherkin en nuestro código son las siguientes.
 
-#### ![ref6]**Discernible Given-When-Then Blocks**
+#### **Discernible Given-When-Then Blocks**
 Aplicar sangría para los elementos que indiquen pasos a seguir del escenario. En el caso de *And*, aplicar dos veces. De acuerdo con Keiblinger (2021), Esto ayuda a detectar rápidamente las partes que forman un escenario.
 
 Ejemplo:
@@ -217,26 +215,26 @@ Ejemplo:
 **Then** se mostrará el mensaje
 **And** mi oferta solo aparecerá a quienes cumplan con estos
 **And** se habilita la opción
-#### ![ref4]**Step with Tables**
+#### **Step with Tables**
 
 Según Keiblinger (2021), para las partes del escenario que necesiten la introducción de valores, hay que agregar una tabla o crear un propio formulario que recree esa parte del escenario. Antes de esta representación se deben colocar dos puntos.
 
-Ejemplo:
-<img src="/assets/img/capitulo5/Aspose.Words.a48e7a94-958e-481b-9be7-4e0d4e115cf1.028.png" />
-<img src="/assets/img/capitulo5/Aspose.Words.a48e7a94-958e-481b-9be7-4e0d4e115cf1.029.png" />
+Ejemplo:<br>
+<img src="/assets/img/capitulo5/Aspose.Words.a48e7a94-958e-481b-9be7-4e0d4e115cf1.028.png" /><br>
+<img src="/assets/img/capitulo5/Aspose.Words.a48e7a94-958e-481b-9be7-4e0d4e115cf1.029.png" /><br>
 
-#### ![ref5]**Reducing Noise**
+#### **Reducing Noise**
 Con el fin de reducir la acumulación de demasiadas líneas de código en un escenario, se deben colocar valores por defecto dentro de los pasos para los campos que no sean muy relevantes para este. Los valores “estándar” que coloquemos, deben ir entre comillas simples. De acuerdo con Keiblinger (2021), esta acción reduce considerablemente el tamaño del código.
 
-Ejemplo:
+Ejemplo:<br>
 <img src="/assets/img/capitulo5/Aspose.Words.a48e7a94-958e-481b-9be7-4e0d4e115cf1.030.png" />
 
-#### ![ref7]**Scenarios Separator**
+#### **Scenarios Separator**
 Para la separación de dos escenarios, se debe insertar un salto de línea y, según Keiblinger (2021), de ser posible, hay que agregar una línea de comentario para facilitar la visualización de estos. De esta forma se halla rápidamente el inicio y fin de un escenario.
 
-Ejemplo:
-<img src="/assets/img/capitulo5/Aspose.Words.a48e7a94-958e-481b-9be7-4e0d4e115cf1.032.png" />
-<img src="/assets/img/capitulo5/Aspose.Words.a48e7a94-958e-481b-9be7-4e0d4e115cf1.033.png" />
+Ejemplo:<br>
+<img src="/assets/img/capitulo5/Aspose.Words.a48e7a94-958e-481b-9be7-4e0d4e115cf1.032.png" /><br>
+<img src="/assets/img/capitulo5/Aspose.Words.a48e7a94-958e-481b-9be7-4e0d4e115cf1.033.png" /><br>
 
 #### **TypeScript**
 El equipo usara los siguientes estilos para determinadas categorías:
@@ -245,79 +243,78 @@ El equipo usara los siguientes estilos para determinadas categorías:
 
 **lowerCamelCase**: variable / parámetro / función / método / propiedad / alias de módulo **CONSTANT\_CASE:** valores constantes globales, incluidos los valores de enumeración Nunca se utilizan identificadores privados.
 
-![ref1]Variables y Funciones
+Variables y Funciones
 
-#### **Mala Nomenclatura:**
+#### **Mala Nomenclatura:**<br>
 <img src="/assets/img/capitulo5/Aspose.Words.a48e7a94-958e-481b-9be7-4e0d4e115cf1.034.png" />
 
-**Buena Nomenclatura:**
+**Buena Nomenclatura:**<br>
 <img src="/assets/img/capitulo5/Aspose.Words.a48e7a94-958e-481b-9be7-4e0d4e115cf1.035.png" />
 
 ![ref6]Clases
 
-#### **Mala Nomenclatura:**
+#### **Mala Nomenclatura:**<br>
 <img src="/assets/img/capitulo5/Aspose.Words.a48e7a94-958e-481b-9be7-4e0d4e115cf1.036.png" />
 
-**Buena Nomenclatura:**
+**Buena Nomenclatura:**<br>
 <img src="/assets/img/capitulo5/Aspose.Words.a48e7a94-958e-481b-9be7-4e0d4e115cf1.037.png" />
 
 Propiedades y métodos de la clase
 
-#### **Mala Nomenclatura:**
+#### **Mala Nomenclatura:**<br>
 <img src="/assets/img/capitulo5/Aspose.Words.a48e7a94-958e-481b-9be7-4e0d4e115cf1.038.png" />
 <img src="/assets/img/capitulo5/Aspose.Words.a48e7a94-958e-481b-9be7-4e0d4e115cf1.039.png" />
 
-**Buena Nomenclatura:**
+**Buena Nomenclatura:**<br>
 <img src="/assets/img/capitulo5/Aspose.Words.a48e7a94-958e-481b-9be7-4e0d4e115cf1.040.png" />
 
-![ref1]Interfaces
+Interfaces
 
 No emplear el prefijo I para nombrar interfaces
 
-#### **Mala Nomenclatura:**
+#### **Mala Nomenclatura:**<br>
 <img src="/assets/img/capitulo5/Aspose.Words.a48e7a94-958e-481b-9be7-4e0d4e115cf1.041.png" />
 
-**Buena Nomenclatura:**
+**Buena Nomenclatura:**<br>
 <img src="/assets/img/capitulo5/Aspose.Words.a48e7a94-958e-481b-9be7-4e0d4e115cf1.042.png" />
 
-![ref8]Enums
+Enums
 
 No emplear el prefijo I para nombrar interfaces
 
-#### **Mala Nomenclatura:**
+#### **Mala Nomenclatura:**<br>
 <img src="/assets/img/capitulo5/Aspose.Words.a48e7a94-958e-481b-9be7-4e0d4e115cf1.044.png" />
 <img src="/assets/img/capitulo5/Aspose.Words.a48e7a94-958e-481b-9be7-4e0d4e115cf1.045.png" />
 
-**Buena Nomenclatura:**
+**Buena Nomenclatura:**<br>
 <img src="/assets/img/capitulo5/Aspose.Words.a48e7a94-958e-481b-9be7-4e0d4e115cf1.046.png" />
 
-![ref7]Visibility
+Visibility
 
 Restringir la visibilidad de propiedades, métodos y tipos ayudaran a mantener el código desacoplado.
 
-#### **Mala Nomenclatura:**
+#### **Mala Nomenclatura:**<br>
 <img src="/assets/img/capitulo5/Aspose.Words.a48e7a94-958e-481b-9be7-4e0d4e115cf1.047.png" />
 
-**Buena Nomenclatura:**
+**Buena Nomenclatura:**<br>
 <img src="/assets/img/capitulo5/Aspose.Words.a48e7a94-958e-481b-9be7-4e0d4e115cf1.048.png" />
 
-![ref6]Getters and Setters
+Getters and Setters
 
 Se pueden utilizar los getters y setters para los miembros de la clase. También son útiles como medio para restringir la visibilidad de los detalles de implementación internos, aplicando la Programación Orientada a Objetos;
-#### **Nomenclatura:**
+
+#### **Nomenclatura:**<br>
 <img src="/assets/img/capitulo5/Aspose.Words.a48e7a94-958e-481b-9be7-4e0d4e115cf1.049.png" />
 <img src="/assets/img/capitulo5/Aspose.Words.a48e7a94-958e-481b-9be7-4e0d4e115cf1.050.png" />
 
-![ref1]Variables
+Variables
 
 Uso de const o let para declarar variables. Utilice const de forma predeterminada, a menos que sea necesario reasignar una variable.
-
 No usar var para declarar variables.
 
-#### **Nomenclatura:**
-<img src="/assets/img/capitulo5/Aspose.Words.a48e7a94-958e-481b-9be7-4e0d4e115cf1.051.png" />
-![](Aspose.Words.a48e7a94-958e-481b-9be7-4e0d4e115cf1.051.png)
-<img src="/assets/img/capitulo5/Aspose.Words.a48e7a94-958e-481b-9be7-4e0d4e115cf1.052.png" />
+#### **Nomenclatura:**<br>
+<img src="/assets/img/capitulo5/Aspose.Words.a48e7a94-958e-481b-9be7-4e0d4e115cf1.051.png" /><br>
+<img src="/assets/img/capitulo5/Aspose.Words.a48e7a94-958e-481b-9be7-4e0d4e115cf1.052.png" /><br>
 
 **Module**: import \\* as foo from '...';
 
@@ -330,17 +327,17 @@ No usar var para declarar variables.
 #### **Angular**
 Angular es un marco de diseño de aplicaciones y una plataforma de desarrollo para crear aplicaciones de una sola página eficientes y sofisticadas. Se usará Angular siguiendo las siguientes características y pautas.
 
-#### ![ref1]**Naming Components:**
+#### **Naming Components:**
 Se utilizará un formato estándar para el nombre de los componentes dentro del proyecto. Los nombres de los componentes serán separados por dots (puntos) y dashes (-). Y su estructura sería “feature.type.**ts**”.
 
 Un ejemplo estándar sería:
 Para el Feature de Information: “Information.component.ts”.
 Para la selección de componentes en el código se usará la estructura “dased-case” él tiene como estructura: “feature-case.component”.
 
-#### ![ref5]**Naming Services:**
+#### **Naming Services:**
 Se utilizará un formato estándar para el nombre de los servicios. Se agregará el sufijo de “Service” y además cada palabra iniciará con mayúscula, por ejemplo “DataService” o “PaymentService”.
 
-#### ![ref1]**Unit Test File Names**
+#### **Unit Test File Names**
 Se utilizará el mismo formato de Component para la creación de Test Files, con la diferencia que estos tendrán un “.spec” antes del “ts” al final.
 Un ejemplo de la estructura sería:
 Feature Information Unit Test: “Information.component.spec.ts”.
@@ -348,21 +345,21 @@ Feature Information Unit Test: “Information.component.spec.ts”.
 #### **Java**
 Angular es un lenguaje de promagración ampliamente utilizado para programación web. Se utilizará Java junto a:
 
-#### ![ref1]**Function Declaratons**
+#### **Function Declaratons**
 Se seguirán las siguientes características para declarar una function:
-![ref1]![ref8]Siempre especifique la visibilidad del método (público, protegido o privado). En caso de múltiples operadores, especifique el orden usando corchetes.
-![ref3]Evite escribir “this.” cuando sea posible.
+Siempre especifique la visibilidad del método (público, protegido o privado). En caso de múltiples operadores, especifique el orden usando corchetes.
+Evite escribir “this.” cuando sea posible.
 Un ejemplo correcto de la declaración de una función sería:
 public void setGroupNames (Group group, String name)
 
-#### ![ref1]**Wrapping Lines**
+#### **Wrapping Lines**
 Cuando una expresión no alcance en una sola línea de código se seguirán las siguientes características:
 Salto después de una coma.
 Romper antes de un operador.
 Alinee la nueva línea con el comienzo de la expresión al mismo nivel en la línea anterior.
 Si las reglas anteriores conducen a un código confuso o a un código que se aprieta contra el margen derecho, solo agregar una sangría de 8 espacios en su lugar.
 
-#### ![ref8]**Loop Counters**
+#### **Loop Counters**
 Las variables locales en Loop siempre deberán llamarse **i, j, k, l** en todos los casos.
 
 ## 5.1.4 Software Deployment Configuration
