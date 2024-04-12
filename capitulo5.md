@@ -245,7 +245,7 @@ El equipo usara los siguientes estilos para determinadas categorías:
 Variables y Funciones
 
 #### **Mala Nomenclatura:**<br>
-<img src="/assets/img/capitulo5/Aspose.Words.a48e7a94-958e-481b-9be7-4e0d4e115cf1.034.png" />
+<img src="/assets/img/capitulo5/Aspose.Words.a48e7a94-958e-481b-9be7-4e0d4e115cf1.034.png"  alt=""/>
 
 **Buena Nomenclatura:**<br>
 <img src="/assets/img/capitulo5/Aspose.Words.a48e7a94-958e-481b-9be7-4e0d4e115cf1.035.png" />
@@ -253,7 +253,7 @@ Variables y Funciones
 ![ref6]Clases
 
 #### **Mala Nomenclatura:**<br>
-<img src="/assets/img/capitulo5/Aspose.Words.a48e7a94-958e-481b-9be7-4e0d4e115cf1.036.png" />
+<img src="/assets/img/capitulo5/Aspose.Words.a48e7a94-958e-481b-9be7-4e0d4e115cf1.036.png"  alt=""/>
 
 **Buena Nomenclatura:**<br>
 <img src="/assets/img/capitulo5/Aspose.Words.a48e7a94-958e-481b-9be7-4e0d4e115cf1.037.png" />
@@ -261,8 +261,8 @@ Variables y Funciones
 Propiedades y métodos de la clase
 
 #### **Mala Nomenclatura:**<br>
-<img src="/assets/img/capitulo5/Aspose.Words.a48e7a94-958e-481b-9be7-4e0d4e115cf1.038.png" />
-<img src="/assets/img/capitulo5/Aspose.Words.a48e7a94-958e-481b-9be7-4e0d4e115cf1.039.png" />
+<img src="/assets/img/capitulo5/Aspose.Words.a48e7a94-958e-481b-9be7-4e0d4e115cf1.038.png"  alt=""/>
+<img src="/assets/img/capitulo5/Aspose.Words.a48e7a94-958e-481b-9be7-4e0d4e115cf1.039.png"  alt=""/>
 
 **Buena Nomenclatura:**<br>
 <img src="/assets/img/capitulo5/Aspose.Words.a48e7a94-958e-481b-9be7-4e0d4e115cf1.040.png" />
@@ -272,7 +272,7 @@ Interfaces
 No emplear el prefijo I para nombrar interfaces
 
 #### **Mala Nomenclatura:**<br>
-<img src="/assets/img/capitulo5/Aspose.Words.a48e7a94-958e-481b-9be7-4e0d4e115cf1.041.png" />
+<img src="/assets/img/capitulo5/Aspose.Words.a48e7a94-958e-481b-9be7-4e0d4e115cf1.041.png"  alt=""/>
 
 **Buena Nomenclatura:**<br>
 <img src="/assets/img/capitulo5/Aspose.Words.a48e7a94-958e-481b-9be7-4e0d4e115cf1.042.png" />
@@ -282,8 +282,8 @@ Enums
 No emplear el prefijo I para nombrar interfaces
 
 #### **Mala Nomenclatura:**<br>
-<img src="/assets/img/capitulo5/Aspose.Words.a48e7a94-958e-481b-9be7-4e0d4e115cf1.044.png" />
-<img src="/assets/img/capitulo5/Aspose.Words.a48e7a94-958e-481b-9be7-4e0d4e115cf1.045.png" />
+<img src="/assets/img/capitulo5/Aspose.Words.a48e7a94-958e-481b-9be7-4e0d4e115cf1.044.png"  alt=""/>
+<img src="/assets/img/capitulo5/Aspose.Words.a48e7a94-958e-481b-9be7-4e0d4e115cf1.045.png"  alt=""/>
 
 **Buena Nomenclatura:**<br>
 <img src="/assets/img/capitulo5/Aspose.Words.a48e7a94-958e-481b-9be7-4e0d4e115cf1.046.png" />
@@ -293,7 +293,7 @@ Visibility
 Restringir la visibilidad de propiedades, métodos y tipos ayudaran a mantener el código desacoplado.
 
 #### **Mala Nomenclatura:**<br>
-<img src="/assets/img/capitulo5/Aspose.Words.a48e7a94-958e-481b-9be7-4e0d4e115cf1.047.png" />
+<img src="/assets/img/capitulo5/Aspose.Words.a48e7a94-958e-481b-9be7-4e0d4e115cf1.047.png"  alt=""/>
 
 **Buena Nomenclatura:**<br>
 <img src="/assets/img/capitulo5/Aspose.Words.a48e7a94-958e-481b-9be7-4e0d4e115cf1.048.png" />
@@ -303,7 +303,7 @@ Getters and Setters
 Se pueden utilizar los getters y setters para los miembros de la clase. También son útiles como medio para restringir la visibilidad de los detalles de implementación internos, aplicando la Programación Orientada a Objetos;
 
 #### **Nomenclatura:**<br>
-<img src="/assets/img/capitulo5/Aspose.Words.a48e7a94-958e-481b-9be7-4e0d4e115cf1.050.png" />
+<img src="/assets/img/capitulo5/Aspose.Words.a48e7a94-958e-481b-9be7-4e0d4e115cf1.050.png"  alt=""/>
 
 Variables
 
@@ -363,10 +363,10 @@ Las variables locales en Loop siempre deberán llamarse **i, j, k, l** en todos 
 En esta sección, describimos el proceso de despliegue de nuestra Landing Page utilizando GitHub Pages. Lo desplegamos desde la branch "main" siguiendo el flujo de trabajo GitFlow, asegurando así la estabilidad y la calidad de las implementaciones en producción.
 
 ### Deploy de la Landing Page:
-<img src="/assets/img/capitulo5/Deploy-LP.png">
+<img src="/assets/img/capitulo5/Deploy-LP.png" alt="">
 
 ### Visualización de nuestra Landing Page desplegada:
-<img src="/assets/img/capitulo5/Display-LP.png">
+<img src="/assets/img/capitulo5/Display-LP.png" alt="">
 
 
 ### Link de nuestra landing page:
@@ -376,24 +376,32 @@ https://final-project-opensource.github.io/LandingPageFitHub/
 
 ## 5.2.1.1 Sprint Planning 1
 
-|**Sprint**||
-| :- | :- |
-|Sprint Planning Background||
-|Date|05/04/2023|
-|Time|04:00 PM|
-|Location|Servidor de Discord del Equipo|
-|Prepared By|Ricardo Jesus Maguiña Corzo|
-|Attendees (to planning meeting)|Ponce Loyola, Jorge Sebastian /Shimabukuro Uku, Carlos Joel / Cueto Dominguez, Juan Diego / Valenzuela Huillcaya, Aldhair Johan Juan / Maguiña Corzo, Ricardo Jesus|
-|Sprint n Review Summary|En esta entrega, no hay un Sprint anterior, por lo tanto, no hay resúmen del Sprint.|
-|Sprint n Retrospective Summary|En esta entrega, no hay un Sprint anterior, por lo tanto, no hay resúmen del Sprint.|
-|Sprint Goal & User Stories||
-|Sprint 1 Goal|La meta de este Sprint es la planificacion de la Landing Page, tanto su visualización, creacion del repositorio, acceso al repositorio y la visualización de los canales de comunicación de la empresa.|
-|Sprint 1 Velocity|19 Velocity|
-|Sum of Story Points|19 Story points|
+| **Sprint**                      |                                                                                                                                                                                                         |
+|:--------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Sprint Planning Background      |                                                                                                                                                                                                         |
+| Date                            | 05/04/2023                                                                                                                                                                                              |
+| Time                            | 04:00 PM                                                                                                                                                                                                |
+| Location                        | Servidor de Discord del Equipo                                                                                                                                                                          |
+| Prepared By                     | Ricardo Jesus Maguiña Corzo                                                                                                                                                                             |
+| Attendees (to planning meeting) | Ponce Loyola, Jorge Sebastian /Shimabukuro Uku, Carlos Joel / Cueto Dominguez, Juan Diego / Valenzuela Huillcaya, Aldhair Johan Juan / Maguiña Corzo, Ricardo Jesus                                     |
+| Sprint n Review Summary         | En esta entrega, no hay un Sprint anterior, por lo tanto, no hay resúmen del Sprint.                                                                                                                    |
+| Sprint n Retrospective Summary  | En esta entrega, no hay un Sprint anterior, por lo tanto, no hay resúmen del Sprint.                                                                                                                    |
+| Sprint Goal & User Stories      |                                                                                                                                                                                                         |
+| Sprint 1 Goal                   | La meta de este Sprint es la planificacion de la Landing Page, tanto su visualización, creacion del repositorio, acceso al repositorio y la visualización de los canales de comunicación de la empresa. |
+| Sprint 1 Velocity               | 19 Velocity                                                                                                                                                                                             |
+| Sum of Story Points             | 19 Story points                                                                                                                                                                                         |
 
 ## 5.2.1.2 Sprint Backlog n
 ## 5.2.1.3 Development Evidence for Sprint Review
 ## 5.2.1.4 Testing Suite Evidence for Sprint Review
+- Se han realizado pruebas de funcionalidad en los enlaces de navegación para asegurar que dirijan correctamente a las secciones correspondientes.
+  <br> <img src="">
+- Se han verificado las imágenes y los textos de la página de inicio para garantizar que se muestren correctamente.
+- Se han realizado pruebas de visualización en diferentes dispositivos y resoluciones para asegurar la compatibilidad y la responsividad de la página.
+<br> <img src="">
+- Se han probado los botones de suscripción en la sección de planes para verificar que redirijan correctamente.
+- Se han realizado pruebas de validación en el formulario de contacto para garantizar que los campos obligatorios funcionen correctamente.
+  <br> <img src="">
 ## 5.2.1.5 Execution Evidence for Sprint Review
 ## 5.2.1.6 Services Documentation Evidence for Sprint Review
 ## 5.2.1.7 Software Deployment Evidence for Sprint Review
