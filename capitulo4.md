@@ -149,7 +149,21 @@ Dentro de este sistema, los usuarios tendrán acceso a instrucciones detalladas 
 
 ## 4.3 Landing Page UI Design
 ## 4.3.1 Landing Page Wireframe
+
+Los wireframes son representaciones visuales simplificadas que muestran cómo se organizan los elementos en una página web o aplicación, priorizando la estructura de la información, las funciones y la experiencia del usuario. Para la landing page de FitHub, se ha optado por un diseño intuitivo que facilite al usuario en su navegación.
+
+URL del diseño: https://www.figma.com/file/0zyX4JRoTxb9i0ODg6MRJj/Desarrollo-de-Aplicaciones-Open-Source?type=design&node-id=78%3A171&mode=design&t=HRqcjWGZ5V4KuicZ-1 <br>
+
+![Landing Page Wireframe](assets/img/capitulo4/LandingPageWireframe.png)
+
 ## 4.3.2 Landing Page Mock-up
+
+Un landing page mockup es una representación visual simplificada, de mayor fidelidad que un wireframe. En este se presenta cómo se verá una landing page antes de su desarrollo final.
+
+URL del diseño: https://www.figma.com/file/0zyX4JRoTxb9i0ODg6MRJj/Desarrollo-de-Aplicaciones-Open-Source?type=design&node-id=78%3A171&mode=design&t=HRqcjWGZ5V4KuicZ-1
+
+![Landing Page Mockup](assets/img/capitulo4/LandingPageMockup.png)
+
 ## 4.4 Web Applications UX/UI Design
 ## 4.4.1 Web Applications Wireframes
 ## 4.4.2 Web Applications Wireflow Diagrams
