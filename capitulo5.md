@@ -403,6 +403,12 @@ https://final-project-opensource.github.io/LandingPageFitHub/
 - Se han realizado pruebas de validación en el formulario de contacto para garantizar que los campos obligatorios funcionen correctamente.
   <br> <img src="">
 ## 5.2.1.5 Execution Evidence for Sprint Review
+- Se ha llevado a cabo una reunión de revisión de sprint donde se han presentado los avances y se ha demostrado el funcionamiento de la landing page.
+- Se han realizado demostraciones de las funcionalidades implementadas, como los enlaces de navegación, las imágenes y textos, los botones de suscripción y el formulario de contacto.
+- Se ha recopilado el feedback del equipo y se han identificado posibles mejoras y ajustes para futuras iteraciones.
+- Se ha actualizado el tablero de proyecto con el progreso realizado durante el sprint.
+- Se ha preparado la documentación necesaria para la revisión del sprint, incluyendo los artefactos de desarrollo, pruebas y ejecución.
+<br><img src="">
 ## 5.2.1.6 Services Documentation Evidence for Sprint Review
 ## 5.2.1.7 Software Deployment Evidence for Sprint Review
 ## 5.2.1.8 Team Collaboration Insights during Sprint
