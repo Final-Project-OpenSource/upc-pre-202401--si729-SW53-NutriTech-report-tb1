@@ -1,7 +1,72 @@
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1 Software Configuration Management
 ## 5.1.1 Software Development Environment Configuration
+**Project Management:**
+
+- HackMD.io
+Plataforma en línea que permite la colaboración en la edición de documentos utilizando Markdown, facilitando la creación y edición conjunta de contenido de forma rápida y sencilla.
+Ruta de referencia: [HackMD.io](https://hackmd.io/?nav=overview)
+
+**Product UX/UI Design:**
+
+- Figma
+Herramienta de diseño de interfaz de usuario para crear prototipos interactivos y diseños de alta calidad.
+Ruta de referencia: [Figma](https://www.figma.com/login)
+
+- Edit.org
+Herramienta para la creación de user personas para el proyecto
+Ruta de referencia: [Edit.org](https://edit.org)
+
+**Software Development:**
+
+- Visual Studio Code
+Editor de código fuente para el desarrollo de la landing page del proyecto.
+Ruta de descarga: [Visual Studio Code](https://code.visualstudio.com)
+- WebStorm
+Entorno de desarrollo integrado (IDE) para el desarrollo futuro de la aplicación web utilizando Angular.
+Ruta de descarga: [WebStorm](https://www.jetbrains.com/webstorm/download/#section=windows)
+- IntelliJ IDEA
+Entorno de desarrollo integrado (IDE) para el desarrollo futuro del backend de la aplicación web.
+Ruta de descarga: [IntelliJ IDEA](https://www.jetbrains.com/idea/download/?section=windows)
+
+**Software Deployment:**
+
+- GitHub Pages
+Plataforma de alojamiento estático para desplegar la landing page del proyecto.
+Ruta de referencia: https://pages.github.com
+
+**Version Control:**
+
+- GitHub Desktop
+Herramienta para gestionar y controlar versiones del proyecto en GitHub.
+Ruta de descarga: https://desktop.github.com
+
 ## 5.1.2 Source Code Management
+**Repositorios en Github:**
+| Repositorio                         | URL                                            |
+|-------------------------------------|------------------------------------------------|
+| Landing Page Repository             | https://github.com/Final-Project-OpenSource/LandingPageFitHub      |
+| Web Services Repository             |       |
+| Frontend Web Applications Repository| |
+
+**GitFlow Workflow:**
+
+Se implementará el flujo de trabajo GitFlow, según lo descrito en el artículo "A successful Git branching model" de Vincent Driessen.
+Branches creados:
+- Main Branch (rama principal)
+- Develop Branch (rama de desarrollo)
+- Feature Branches (ramas de características): Se creará una rama para cada nueva característica y se nombrarán siguiendo las convenciones de Conventional Commits.
+- Release Branches (ramas de lanzamiento): Se crearán para preparar nuevas versiones para el lanzamiento y se nombrarán utilizando Semantic Versioning.
+- Hotfix Branches (ramas de corrección rápida): Se crearán para corregir errores críticos en producción y se nombrarán siguiendo las convenciones de Conventional Commits.
+
+**Convenciones de Nombramiento:**
+
+- Feature Branches: Se nombrarán utilizando el prefijo "feature/" seguido de una descripción corta y descriptiva de la característica.
+- Release Branches: Se nombrarán utilizando el prefijo "release/" seguido de la versión en Semantic Versioning (por ejemplo, "release/1.0.0").
+Hotfix Branches: Se nombrarán utilizando el prefijo "hotfix/" seguido de una descripción corta y descriptiva del error a corregir.
+
+**Conventional Commits:**
+Se utilizarán los mensajes de commit según las convenciones de Conventional Commits para mantener un registro claro y consistente de los cambios realizados en el proyecto. Esto facilitará la generación automática de registros de cambios y la gestión del proyecto en general.
 ## 5.1.3 Source Code Style Guide & Conventions
 FitHub Pro - HTML Source Code Style Guide & Conventions
 
@@ -28,10 +93,10 @@ Utiliza imágenes relevantes y de alta calidad que mejoren la comprensión y la 
 Enlaces y Botones:
 
 Define claramente los enlaces y botones con texto descriptivo que indique la acción que realizarán.
-Utiliza etiquetas <a> para enlaces y <button> para botones, según corresponda.
+Utiliza etiquetas "a" para enlaces y "button" para botones, según corresponda.
 Formulario:
 
-Estructura los formularios utilizando etiquetas semánticas como <label> para describir cada campo de entrada.
+Estructura los formularios utilizando etiquetas semánticas como "label" para describir cada campo de entrada.
 Mejora la accesibilidad y la usabilidad del formulario mediante una organización lógica y descriptiva.
 Metaetiquetas:
 
@@ -43,6 +108,16 @@ Sigue las prácticas de codificación consistentes en todo el proyecto para faci
 Este documento establece las pautas para garantizar la coherencia y la calidad del código HTML en el proyecto FitHub Pro. Se espera que todos los desarrolladores sigan estas convenciones al contribuir al código base del sitio web.
 
 ## 5.1.4 Software Deployment Configuration
+En esta sección, describimos el proceso de despliegue de nuestra Landing Page utilizando GitHub Pages. Lo desplegamos desde la branch "main" siguiendo el flujo de trabajo GitFlow, asegurando así la estabilidad y la calidad de las implementaciones en producción.
+### Deploy de la Landing Page:
+<img src="/assets/img/capitulo5/Deploy-LP.png">
+
+### Visualización de nuestra Landing Page desplegada:
+<img src="/assets/img/capitulo5/Display-LP.png">
+
+
+### Link de nuestra landing page:
+https://final-project-opensource.github.io/LandingPageFitHub/
 ## 5.2 Landing Page, Services & Applications Implementation
 ## 5.2.1 Sprint n
 
