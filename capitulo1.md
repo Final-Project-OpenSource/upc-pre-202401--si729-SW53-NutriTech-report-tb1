@@ -225,6 +225,7 @@ fútbol y jugar en mi computadora. Conocimiento y habilidades: Poseo destrezas c
 #### Cueto Dominguez, Juan Diego - U202012207 - Ingeniería de Software
 Mi nombre es Juan Diego Cueto Dominguez, actualmente soy estudiante de la carrera de Ingeniería de Software. Cuento con conocimiento y experiencia en el uso de Git y GitHub, con el cual estaré apoyando a mis compañeros. Además poseo mucha práctica con los lenguajes de programación C++, JavaScript, Python , HTML5 y CSS3. Estoy dispuesto a apoyar y trabajar en el tiempo y momento que se requiera.
 
+<img src="/assets/img/capitulo1/Profile-Juan_Diego.PNG" alt="Juan Diego Cueto Dominguez" width="200" height="220">
 
 ---
 #### Valenzuela Huillcaya, Aldhair Johan Juan - U20201F572 - Ingeniería de Software
