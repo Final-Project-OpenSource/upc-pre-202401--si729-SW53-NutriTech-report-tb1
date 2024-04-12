@@ -165,7 +165,12 @@ URL del diseño: https://www.figma.com/file/0zyX4JRoTxb9i0ODg6MRJj/Desarrollo-de
 ![Landing Page Mockup](assets/img/capitulo4/LandingPageMockup.png)
 
 ## 4.4 Web Applications UX/UI Design
+En esta sección, abordaremos aspectos internos donde detallaremos y describiremos la propuesta visual y de interacción para las aplicaciones que conforman la experiencia del usuario en nuestros productos digitales.
+
 ## 4.4.1 Web Applications Wireframes
+
+URL del diseño: https://www.figma.com/file/2PFr490tJXkkgkvzRfoe3B/FitHub-Aplicacion-Web?type=design&node-id=0%3A1&mode=design&t=WG55e2n91hRk1ep0-1
+
 ### Inicio de sesión
 ![Wireframe Inicio de seción](assets/img/capitulo4/Wireframe-InicioSesión.png)
 
@@ -216,7 +221,10 @@ URL del diseño: https://www.figma.com/file/0zyX4JRoTxb9i0ODg6MRJj/Desarrollo-de
 ### Visualizacion de perfil
 ![Wireflow Visualizacion de perfil](assets/img/capitulo4/Wireflow4.png)
 
-## 4.4.2 Web Applications Mock-ups
+## 4.4.3 Web Applications Mock-ups
+
+URL del diseño: https://www.figma.com/file/2PFr490tJXkkgkvzRfoe3B/FitHub-Aplicacion-Web?type=design&node-id=0%3A1&mode=design&t=WG55e2n91hRk1ep0-1
+
 ### Inicio de sesión
 <img src="/assets/img/capitulo4/Mockup-inicio.PNG" alt="Mock-up inicio de sesión">
 
@@ -250,7 +258,9 @@ URL del diseño: https://www.figma.com/file/0zyX4JRoTxb9i0ODg6MRJj/Desarrollo-de
 ### Profesional
 <img src="/assets/img/capitulo4/Mockup-profesional.PNG" alt="Mock-up profesional">
 
-## 4.4.3 Web Applications User Flow Diagrams
+## 4.4.4 Web Applications User Flow Diagrams
+
+URL del diseño: https://miro.com/welcomeonboard/bVJRWnIzUXhnVHhnOGxhMnZmbUh0N3VFcWtPNlRDajFTOHdFU3pLREVwNkN4UTNIOG5scWpqVnNvcktBM1ZhQnwzNDU4NzY0NTM4OTQ1NjgxNjM3fDI=?share_link_id=453725703695 
 
 ### Registro e inicio de sesión
 <img src="/assets/img/capitulo4/userflow-1.jpg" alt="User Flow registro e inicio de sesión">
@@ -265,6 +275,11 @@ URL del diseño: https://www.figma.com/file/0zyX4JRoTxb9i0ODg6MRJj/Desarrollo-de
 <img src="/assets/img/capitulo4/userflow-1.jpg" alt="Visualizacion de perfil">
 
 ## 4.5 Web Applications Prototyping
+
+Link prototipo:
+
+Link video demostrativo:
+
 ## 4.6 Domain-Driven Software Architecture
 ## 4.6.1 Software Architecture Context Diagram
 ![Software Architecture Context Diagram](assets/img/capitulo4/context-diagram.png)
