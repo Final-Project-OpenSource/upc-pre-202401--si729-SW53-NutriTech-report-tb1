@@ -1,15 +1,23 @@
 # Capítulo III: Requirements Specification
 
 ## 3.1. To-Be Scenario Mapping
-
+* **Mapa de Escenario To-Be para nuestro primer user persona.**
 ###### Tabla 6.
+|  Fases  | Busca información sobre rutinas de ejercicio. | Sigue una rutina especifica, seleccionada para sus objetivos. | Busca la ayuda de un coach profesional. | Entrena con la guía del coach profesional elegido. |
+|--------|----|----|----|----|
+|  Doing  | Ingresa su búsqueda en el aplicativo web. Navega a través de las opciones recomendadas para el cliente especifico. Lee los comentarios acerca de los ejercicios en los que está interesado. | Según las metas propuestas, busca dentro de la sección de rutinas de ejercicio algunas que les llame la atención. Sigue paso a paso cada instrucción expuesta en la plataforma. | Entra a la sección de coaching y navega entre los distintos perfiles de coaches profesionales que ofrecen sus servicios dentro de Fithub. Selección al coach que se alinee mejor con sus preferencias y con el tipo de especialización que desarrolla. | Acuerdan sesiones virtuales, en donde el coach puede corregir directamente los ejercicios realizados. El cliente puede hacer las consultas necesarias con mayor confianza. El coach mantiene la motivación del cliente durante la sesión.
+|  Thinking  | ¿Podré encontrar todo lo que requiero en esta plataforma? | ¿Cuántas personas habrán realizado esta rutina? ¿tendrá buenos resultados? | ¿Qué dirán las reseñas de este coach? ¿En qué se especializará el coach que estoy viendo? | ¿Cómo será una sesión virtual con el coach? ¿Se podrá avanzar satisfactoriamente?
+|  Feeling  | Interesado con el funcionamiento de búsqueda que ofrece el aplicativo web. | Desconcertado con la efectividad de las rutinas. Entusiasmado por ver los resultados que puede obtener. | Nervioso por elegir al coach adecuado para sus necesidades. | Sorprendido por la nueva forma de realizar sesiones con el coach y por la facilidad que resulta contactar con el.
 
-
-
+* **Mapa de Escenario To-Be para nuestro segundo user persona.**
 ###### Tabla 7.
+|  Fases  | Busca clientes interesados en el entrenamiento físico y nutrición.  | Diseñar las rutinas de los clientes  | Llevar el registro del progreso realizado por el cliente | Acordar entrenamientos personales entre él y el cliente. |
+|--------|----|----|----|----|
+|  Doing  | Se registra como coach profesional en la plataforma. Anuncia sus servicios en la sección de coaches. | En su pagina selecciona el perfil de uno de sus clientes. Ingresa a la sección de rutinas personalizadas. Comienza a seleccionar dentro de los ejercicios que están precargados. Añade ejercicios especializados cuando son necesarios. | Ingresa al perfil de un cliente. En la sección de progreso observa el registro automático brindado en la plataforma. | Mediante el apartado de entrenamientos personales, indica los días y horas que el este disponible. El cliente al reservar una hora con el coach recibirá una notificación del acuerdo.
+|  Thinking  | ¿Cuántos clientes podré conseguir en esta plataforma?¿Sera sencillo utilizar Fithub? | ¿Habrá todos los ejercicios que requiero? ¿Se podrá añadir ejercicios personalizados? | ¿Qué información estará registrada en esta sección? ¿Se podrá añadir diferentes campos en los registros? | ¿El cliente estará libre en las horas que he indicado? ¿Sera efectivo las sesiones virtuales?
+|  Feeling  | Entusiasmado por el uso de una nueva tecnología que lo ayude a publicitar sus servicios. | Preocupado por encontrar los mejores ejercicios para añadirlos a la rutica del cliente. | Alivio debido a la implementación de un registro automático que facilitaría su trabajo. | Interesado por ver los resultados que va a obtener los clientes a través de su guía. Nervioso por el uso de sesiones virtuales.
 
-
-
+- - -
 
 ## 3.2. User Stories
 Tabla de épicas establecidas para las historias de usuarios.
@@ -19,6 +27,8 @@ Tabla de épicas establecidas para las historias de usuarios.
 | EP01    | Experiencia del Visitante                 |
 | EP02    | Experiencia de entrenamiento y nutrición  |
 | EP03    | Desarrollo de Funcionalidades Principales |
+| EP04    |                                           |
+| EP05    | Manejo de Cuenta de Usuario y de Busqueda |
 
 ###### Tabla 9.
 Tabla de historias de usuario 
@@ -44,11 +54,11 @@ Tabla de historias de usuario
 | US018 | Modo oscuro | **Como** usuario, **quiero** tener la opción de cambiar a un modo oscuro en la aplicación.**Para** reducir la fatiga visual durante la noche. | **Dado** que el usuario accede a la configuración de la aplicación, <br> **Cuando** activa el modo oscuro, <br> **Entonces**  la aplicación cambia su interfaz a un esquema de colores oscuros. | EP04|
 | US019 | Notificaciones push básicas | **Como** usuario, **quiero** recibir notificaciones push para recordatorios de sesiones de entrenamiento y actualizaciones importantes.**Para** mantenerme al siempre al tanto. | **Dado** que el usuario tiene la aplicación instalada y las notificaciones push habilitadas, <br> **Cuando** se programa una sesión de entrenamiento o hay una actualización importante, <br> **Entonces**  el usuario recibe una notificación push en su dispositivo móvil. | EP04|
 | US020 | Integración con redes sociales | **Como** usuario, **quiero** poder conectarme con mis amigos en redes sociales. **Para** compartir mi progreso y ver el de ellos. | **Dado** que el usuario accede a la configuración de la aplicación, <br> **Cuando** vincula su cuenta de redes sociales, <br> **Entonces**  puede ver y compartir su progreso con sus amigos en esas plataformas. | EP04|
-|US021| | | |EP05 |
-|US022| | | |EP05 |
-|US023| | | |EP05 |
-|US024| | | |EP05 |
-|US025| | | |EP05 |
+| US021 | Registro de nuevo usuario | **Como** un nuevo usuario interesado en estar en forma utilizando FitHub, <br> **quiero** poder registrarme en el aplicativo web, <br> **para** acceder a las funcionalidades que se ofrece. | **Dado que** soy un nuevo usuario en FitHub, <br> **cuando** ingreso a la página de inicio de la aplicación web, <br> **Entonces** veo una opción clara de "Registro" o "Crear una cuenta" y un formulario de registro. <br> **Dado que** he seleccionado la opción de “Registro”, <br> **cuando** completo el formulario de registro con mis datos personales, <br> **entonces** puedo hacer click en el botón de “Registrarse”. |EP05 |
+| US022 | Inicio de sesión con cuenta registrada | **Como** usuario previamente registrado en FitHub, <br> **quiero** poder iniciar sesión de manera segura en mi cuenta personal, <br> **para** acceder al contenido del aplicativo web. | **Dado que** soy un usuario registrado en FitHub, <br> **cuando** ingreso a la pagina de inicio y veo la opción de “Iniciar Sesión”, <br> **entonces** puedo ingresar mi dirección de correo electrónico y contraseña. <br> **Dado que** he seleccionado la opción de “Iniciar Sesión”, <br> **cuando** se presente la sección de “Perfil de Usuario”, <br> **entonces** podre visualizar la información ingresada de mi perfil y podre utilizar el aplicativo web. | EP05 |
+| US023 | Recuperación de contraseña | **Como** usuario registrado en FitHub, <br> **quiero** tener la capacidad de restablecer mi contraseña en caso de olvidarla, <br> **para** acceder a mi cuenta en cualquier momento. | **Dado que** soy un usuario registrado de FitHub, <br> **cuando** he olvidado mi contraseña y deseo recuperarla, <br> **entonces** en la página de inicio de sesión, observare una opción clara de "¿Olvidaste tu contraseña?". <br> **Dado que** he seleccionado la opción "¿Olvidaste tu contraseña?", <br> **cuando** ingreso mi dirección de correo electrónico asociada a mi cuenta, <br> **entonces** recibiré un correo electrónico de restablecimiento de contraseña en mi bandeja de entrada. <br> **Dado que** he recibido el correo electrónico de restablecimiento de contraseña, <br> **cuando** hago clic en el enlace proporcionado en el correo, <br> **entonces** se abre una página en la que puedo ingresar una nueva contraseña. | EP05 |
+| US024 | Búsqueda de coach profesionales | **Como** un usuario interesado contáctame con un coach profesional, <br> **quiero** poder realizar búsquedas de los coaches disponibles en la aplicación web, <br> **para** comparar y encontrar al que mejor se adapte a mis necesidades y preferencias. | **Dado que** soy un usuario registrado y he iniciado sesión en mi cuenta, <br> **cuando** accedo al aplicativo web y quiero buscar un coach profesional con el que pueda entrenar, <br> **entonces** veo una opción clara de "Buscar Coaches" en la página principal. <br> **Dado que** he seleccionado la opción "Buscar Coaches ", <br> **cuando** ingreso a la página de búsqueda de Coaches, <br> **entonces tengo la capacidad de aplicar filtros, como especialización, ubicación y horarios. | EP05 |
+| US025 | Visualización del perfil del coach profesional | **Como** usuario interesado entrenar con la ayuda de un coach profesional, <br> **quiero** poder ver perfiles detallados de los coaches disponibles en la aplicación web, <br> **para** obtener información completa sobre ellos antes selección a quien contactar. | **Dado que** soy un usuario registrado y he iniciado sesión, <br> **cuando** ingreso a la plataforma y en la búsqueda selecciono la opción "Ver Coaches Disponibles", <br> **entonces** se redirigirá a la sección donde se muestran perfiles de los coaches disponibles. <br> **Dado que** estoy en la página de visualización de perfiles de coaches, <br> **cuando** hago clic en el perfil de un coach en específico, <br> **entonces** se mostrará una sección con la información detallada expuesta por el coach profesional. | EP05 |
 
 ## 3.3. Impact Mapping
 
@@ -84,11 +94,11 @@ Tabla de historias de usuario
 | 18      | US18          | Modo oscuro |  **Como** usuario, **quiero** tener la opción de cambiar a un modo oscuro en la aplicación.**Para** reducir la fatiga visual durante la noche. | 3 |
 | 19      | US19          | Notificaciones push básicas | **Como** usuario, **quiero** recibir notificaciones push para recordatorios de sesiones de entrenamiento y actualizaciones importantes.**Para** mantenerme al siempre al tanto. | 5 |
 | 20      | US20          | Integración con redes sociales | **Como** usuario, **quiero** poder conectarme con mis amigos en redes sociales. **Para** compartir mi progreso y ver el de ellos. | 5 |
-|21 | | | | |
-|22 | | | | |
-|23 | | | | |
-|24 | | | | |
-|25 | | | | |
+| 21      | US21           | Registro de nuevo usuario | **Como** un nuevo usuario interesado en estar en forma utilizando FitHub, **quiero** poder registrarme en el aplicativo web, **para** acceder a las funcionalidades que se ofrece. | 5 |
+| 22      | US22           | Inicio de sesión con cuenta registrada | **Como** usuario previamente registrado en FitHub, **quiero** poder iniciar sesión de manera segura en mi cuenta personal, **para** acceder al contenido del aplicativo web. | 5 |
+| 23      | US23           | Recuperación de contraseña | **Como** usuario registrado en FitHub, **quiero** tener la capacidad de restablecer mi contraseña en caso de olvidarla, **para** acceder a mi cuenta en cualquier momento. | 3 |
+| 24      | US24           | Búsqueda de coach profesionales | **Como** un usuario interesado contáctame con un coach profesional, **quiero** poder realizar búsquedas de los coaches disponibles en la aplicación web, **para** comparar y encontrar al que mejor se adapte a mis necesidades y preferencias. | 5 |
+| 25      | US25           | 	Visualización del perfil del coach profesional | **Como** usuario interesado entrenar con la ayuda de un coach profesional, **quiero** poder ver perfiles detallados de los coaches disponibles en la aplicación web, **para** obtener información completa sobre ellos antes selección a quien contactar. | 5 |
 ---
 
 
