@@ -167,7 +167,6 @@ Ejemplo estándar según Google (s.f.):<br>
 No se deben emplear las comillas dobles (“”), solo están permitidas las simples (‘’) para el uso exclusivo de selectores de atributos y valores de propiedades.
 
 Ejemplo estándar según Google (s.f.):<br>
-<img src="/assets/img/capitulo5/Aspose.Words.a48e7a94-958e-481b-9be7-4e0d4e115cf1.020.png" />
 <img src="/assets/img/capitulo5/Aspose.Words.a48e7a94-958e-481b-9be7-4e0d4e115cf1.021.png" />
 
 #### **JavaScript**
@@ -304,7 +303,6 @@ Getters and Setters
 Se pueden utilizar los getters y setters para los miembros de la clase. También son útiles como medio para restringir la visibilidad de los detalles de implementación internos, aplicando la Programación Orientada a Objetos;
 
 #### **Nomenclatura:**<br>
-<img src="/assets/img/capitulo5/Aspose.Words.a48e7a94-958e-481b-9be7-4e0d4e115cf1.049.png" />
 <img src="/assets/img/capitulo5/Aspose.Words.a48e7a94-958e-481b-9be7-4e0d4e115cf1.050.png" />
 
 Variables
@@ -314,7 +312,6 @@ No usar var para declarar variables.
 
 #### **Nomenclatura:**<br>
 <img src="/assets/img/capitulo5/Aspose.Words.a48e7a94-958e-481b-9be7-4e0d4e115cf1.051.png" /><br>
-<img src="/assets/img/capitulo5/Aspose.Words.a48e7a94-958e-481b-9be7-4e0d4e115cf1.052.png" /><br>
 
 **Module**: import \\* as foo from '...';
 
