@@ -89,15 +89,15 @@ Color serio y elegante, reflejando el tono formal y respetuoso de nuestro lengua
 
 ## 4.1.2 Web Style Guidelines
 
-Desarrollaremos una aplicación que se adeque a cualquier dispositivo tecnológico sin la necesidad de malograr el diseño del contenido. Por ello, se tendrá que tomar en cuenta cada tipo de dispositivo para que el contenido este estructurado de la mejor manera para cada uno. 
-<img src="/assets/img/capitulo4/Web Style Guidelines 1.jpg" alt="WSG1">
-Emplearemos el patrón Z, pues de esta manera identificaran nuestra marca o logo que se encontrara en la esquina superior izquierda, donde comenzara la interacción del usuario. Luego, se desplazará hacia la derecha donde visualizará las diferentes opciones que ofreceremos. Siguientemente, el usuario se desplazará verticalmente hacia abajo para seguir interactuando con el contenido de la aplicación. Finalmente, el usuario llegará a la esquina inferior derecha donde podrá visualizar todas nuestras redes sociales y nuestros medios de contacto.
-<img src="/assets/img/capitulo4/Web Style Guidelines 2.jpg" alt="WSG2">
- Siguientemente, el diseño de nuestra aplicación contara con colores que motiven al usuario a seguir interactuando con la plataforma. Asimismo, se contará con sombras y espacios que favorezcan la lectura de la información y limiten el contenido para no abrumar al navegante. Se emplearán algunos de los siguientes elementos:
- Tarjetas:
-<img src="/assets/img/capitulo4/Web Style Guidelines 4.jpg" alt="WSG4">
-Elementos grandes:
-<img src="/assets/img/capitulo4/Web Style Guidelines 6.jpg" alt="WSG6">
+Desarrollaremos una aplicación que se adeque a cualquier dispositivo tecnológico sin la necesidad de malograr el diseño del contenido. Por ello, se tendrá que tomar en cuenta cada tipo de dispositivo para que el contenido este estructurado de la mejor manera para cada uno.<br> 
+<img src="/assets/img/capitulo4/Web Style Guidelines 1.jpg" alt="WSG1"><br> 
+Emplearemos el patrón Z, pues de esta manera identificaran nuestra marca o logo que se encontrara en la esquina superior izquierda, donde comenzara la interacción del usuario. Luego, se desplazará hacia la derecha donde visualizará las diferentes opciones que ofreceremos. Siguientemente, el usuario se desplazará verticalmente hacia abajo para seguir interactuando con el contenido de la aplicación. Finalmente, el usuario llegará a la esquina inferior derecha donde podrá visualizar todas nuestras redes sociales y nuestros medios de contacto.<br> 
+<img src="/assets/img/capitulo4/Web Style Guidelines 2.jpg" alt="WSG2"><br> 
+ Siguientemente, el diseño de nuestra aplicación contara con colores que motiven al usuario a seguir interactuando con la plataforma. Asimismo, se contará con sombras y espacios que favorezcan la lectura de la información y limiten el contenido para no abrumar al navegante. Se emplearán algunos de los siguientes elementos:<br> 
+ Tarjetas:<br> 
+<img src="/assets/img/capitulo4/Web Style Guidelines 4.jpg" alt="WSG4"><br> 
+Elementos grandes:<br> 
+<img src="/assets/img/capitulo4/Web Style Guidelines 6.jpg" alt="WSG6"><br> 
 
 ## 4.2 Information Architecture
 ## 4.2.1 Organization Systems
