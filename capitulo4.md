@@ -43,47 +43,31 @@ Cuerpo
 Colors
 
 Fondo del Cuerpo: #f5f5f5
-
 Fondo Primario (Header): #ffffff
-
 Fondo Secundario (Contacto): #f9f9f9
-
 Fondo del Pie de Página: #222
-
 Color del Texto: #ffffff (general), #000 (en el pie de página), #777 (en algunos elementos)
-
 Color del Botón Nav: #195fa4
-
 Color de Resaltado del Botón Nav (Hover): #fff (antes era negro, pero se cambió a blanco para mantener el contraste)
-
 Color del Botón de Envío del Formulario: #333
-
 Color de Resaltado del Botón de Envío del Formulario (Hover): #555
-
 Color del Texto de los Testimonios: #777
 
 Spacing
-
 Espaciado Interno del Contenedor: 0 a los lados
-
 Margen Exterior del Contenedor: 0 a los lados, 5% en la parte superior e inferior
-
 Tono de comunicación y lenguaje aplicado
 
 Color Primario
-
 Representa el color del uniforme básico de los profesionales de la salud, generando un ambiente de confianza entre el contratante y el personal médico.
 
 Color Secundario
-
 Genera un efecto hipnótico sobre la vista y la mente. Es un color sustentador de la vida y encarna la alegría y el anhelo de volver a conectar con sus seres queridos.
 
 Blanco
-
 Representa limpieza y claridad, muy utilizado en aplicaciones relacionadas con el cuidado de la salud.
 
 Negro
-
 Color serio y elegante, reflejando el tono formal y respetuoso de nuestro lenguaje, mezclado con entusiasmo y perseverancia.
 
 
