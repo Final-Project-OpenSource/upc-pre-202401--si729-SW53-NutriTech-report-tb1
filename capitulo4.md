@@ -129,8 +129,28 @@ Menú de Opciones: Ambos segmentos accederán a un menú principal donde podrán
 Blog: Ambos segmentos tendrán acceso a un blog con artículos relacionados con el fitness y la salud. Los artículos estarán categorizados por temas (nutrición, entrenamiento, estilo de vida, etc.).
 
 ## 4.2.2 Labeling Systems
+A continuación, se mostrará el sistema de etiquetado que otorgará una descripción breve y clara de la información mostrada en nuestra Landing Page.
+Contamos con los siguientes encabezados:
+
+- Home: Esta es la página principal de nuestro sitio web, donde puedes obtener una visión general de lo que ofrecemos en FitHub Pro.
+
+- Plans: Sección donde se presentan los planes de nutrición disponibles. Aquí, los usuarios pueden obtener detalles sobre los diferentes planes ofrecidos, como el plan de prueba, plan mensual y plan anual.
+
+- Contact: Sección donde los usuarios pueden encontrar información de contacto y un formulario para comunicarse con nosotros. Esto les permite realizar consultas, enviar comentarios o solicitar más información sobre nuestro servicio.
+
+- Testimonials: Sección donde se muestran los testimonios de usuarios satisfechos con nuestro servicio. Los testimonios proporcionan credibilidad y confianza a los visitantes al mostrarles las experiencias positivas de otros usuarios.
+
+<img src="/assets/img/capitulo4/Labelling Systems.png">
+
 ## 4.2.3 SEO Tags and Meta Tags
+A continuación, se mostrarán los SEO Tags y Meta Tags utilizados en el Landing Page con el propósito de aumentar su visibilidad en los motores de búsqueda.
+<img src="/assets/img/capitulo4/seo.png">
+
 ## 4.2.4 Searching Systems
+Es crucial contar con un sistema de búsqueda eficiente que facilite a los usuarios encontrar información específica en la aplicación web. Esta búsqueda debe ser ágil, precisa y capaz de gestionar consultas complejas. Asimismo, sería beneficioso explorar la posibilidad de añadir filtros y funciones avanzadas de búsqueda para mejorar la precisión y permitir a los usuarios refinar los resultados según sus necesidades específicas.
+
+Para el caso de Landing Page, no se ha implementado un sistema de búsqueda, ya que la información se encuentra distribuida en secciones accesibles desde el menú principal. Esto significa que los usuarios pueden ubicar fácilmente todos los detalles necesarios para comprender nuestra propuesta y los servicios que ofrecemos. Asímismo, podrán encontrar rápidamente nuestros datos de contacto para comunicarse con nosotros.
+
 ## 4.2.5 Navigation Systems
 
 Los sistemas de navegación eficientes son fundamentales para asegurar que los usuarios puedan acceder fácilmente a la información relevante dentro de la plataforma FitHub. Estos sistemas deben ser diseñados meticulosamente teniendo en cuenta las necesidades y la experiencia del usuario.
@@ -163,7 +183,158 @@ Dentro de este sistema, los usuarios tendrán acceso a instrucciones detalladas 
 
 ## 4.7 Software Object-Oriented Design
 ## 4.7.1 Class Diagrams
+###### Figura
+<img src="assets/img/capitulo4/Diagrama UML - OPSRC.png">
+
 ## 4.7.2 Class Dictionary
+### UserInterface
+- **Attributes:**
+  - userId: int
+  - userName: string
+  - userMail: string
+  - userPassword: string
+  
+- **Methods:**
+  - joinCommunity()
+  - trackProgress()
+  - addPaymentMethod()
+  - seeMessages()
+
+### User
+- **Attributes:**
+  - dietaryPreference: string
+  - fitnessGoal: string
+  - imc: string
+  - achievements: List<Achievements>
+  - trainers: List<Trainer>
+  - messages: List<Message>
+  - nutritionPlan: NutritionPlan
+  - exerciseRoutine: ExerciseRoutine
+  
+- **Methods:**
+  - getNutritionPlans()
+  - scheduleTrainingSession()
+  - getExerciseRoutines()
+
+### Trainer
+- **Attributes:**
+  - specialty: string
+  - users: List<User>
+  
+- **Methods:**
+  - scheduleSessionTraining()
+  - provideFeedback()
+  - provideAdvice()
+  - provideRecommendations()
+
+### Post
+- **Attributes:**
+  - user: User
+  - title: string
+  - description: string
+  - dateTime: DateTime
+  
+- **Methods:**
+  - addPost()
+  - removePost()
+  - editPost()
+
+### Community
+- **Attributes:**
+  - members: List<User>
+  - trainers: List<Trainer>
+  - achievementSection: AchievementSection
+  - posts: List<Post>
+  - responses: List<Response>
+  
+- **Methods:**
+  - getAchievementSection()
+
+### Message
+- **Attributes:**
+  - id: int
+  - content: string
+  - sender: UserInterface
+  - recipient: UserInterface
+  - dateTime: DateTime
+  
+- **Methods:**
+  - sendMessage()
+  - getResponse()
+  - editMessage()
+
+### AchievementSection
+- **Attributes:**
+  - posts: List<Post>
+  - responses: List<Responses>
+
+### Response
+- **Attributes:**
+  - id: int
+  - message: Message
+  - content: string
+  - dateTime: DateTime
+  
+- **Methods:**
+  - sendResponse()
+  - editResponse()
+
+### NutritionalTrainer
+- **Methods:**
+  - generateNutritionPlan()
+
+### PhysicalTrainer
+- **Methods:**
+  - generateRoutine()
+
+### NutritionPlan
+- **Attributes:**
+  - mealOptions: List<String>
+  - caloricIntake: double
+  - macroNutrientRatio: Map<String, Double>
+  - restrictions: List<String>
+  
+- **Methods:**
+  - generatePlan()
+  - updatePlan()
+
+### ExerciseRoutine
+- **Attributes:**
+  - exercises: List<String>
+  - duration: double
+  - intensity: string
+  - frequency: string
+  
+- **Methods:**
+  - generateRoutine()
+  - updateRoutine()
+
+### PaymentMethod
+- **Attributes:**
+  - user: UserInterface
+  - type: string
+  - details: string
+  
+- **Methods:**
+  - getDetails()
+  - confirmPaymentMethod()
+
+### PaymentToTrainer
+- **Attributes:**
+  - id: int
+  - amount: double
+  
+- **Methods:**
+  - processPaymentToTrainer()
+
+### PaymentMembership
+- **Attributes:**
+  - id: int
+  - amount: double
+  
+- **Methods:**
+  - processMembershipPayment()
+
 ## 4.8 Database Design
 ## 4.8.1 Database Diagram
 ###### figura
