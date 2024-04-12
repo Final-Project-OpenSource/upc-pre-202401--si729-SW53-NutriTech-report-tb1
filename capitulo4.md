@@ -1,13 +1,149 @@
 # Capítulo IV: Product UX/UI Design
 ## 4.1. Style Guidelines
 ## 4.1.1 General Style Guidelines
+
+Brand Overview
+
+Fithub Pro surge como una solución integral para aquellos que buscan mejorar su calidad de vida a través del ejercicio y la nutrición adecuada. Con un enfoque en la atención personalizada y basada en la ciencia, nuestra plataforma proporciona herramientas y recursos para que las personas alcancen sus metas de fitness de manera segura y efectiva.
+
+Brand Name
+
+El nombre del software identificado es Fithub Pro. Nuestra elección se basa en la combinación de "Fit" (en forma) y "Hub" (centro), reflejando nuestra posición como un centro centralizado para todas las necesidades relacionadas con la salud y el fitness. "Pro" se añade para denotar nuestro compromiso con la excelencia y la profesionalidad en el servicio que ofrecemos.
+
+Typography
+
+La tipografía desempeña un papel fundamental en la comunicación de nuestra marca. Seleccionamos cuidadosamente las fuentes para garantizar la legibilidad y la coherencia en todas nuestras plataformas.
+
+Encabezados
+
+|Nombre|Tamaño de Fuente|Altura de Línea|
+| :- | :- | :- |
+|Encabezado 1|56 px|61\.6 px|
+|Encabezado 2|48 px|52\.8 px|
+|Encabezado 3|40 px|44 px|
+|Encabezado 4|32 px|35\.2 px|
+|Encabezado 5|24 px|26\.4 px|
+|Encabezado 6|20 px|22 px|
+
+
+Cuerpo
+
+|Nombre|Tamaño de Fuente|Altura de Línea|
+| :- | :- | :- |
+|Texto Grande (Negrita)|20 px|28 px|
+|Texto Grande (Regular)|20 px|28 px|
+|Texto Mediano (Negrita)|18 px|25\.2 px|
+|Texto Mediano (Regular)|18 px|25\.2 px|
+|Texto Normal (Negrita)|16 px|22\.4 px|
+|Texto Normal (Regular)|16 px|22\.4 px|
+|Texto Pequeño (Negrita)|14 px|19\.6 px|
+|Texto Pequeño (Regular)|14 px|19\.6 px|
+
+
+Colors
+
+Fondo del Cuerpo: #f5f5f5
+
+Fondo Primario (Header): #ffffff
+
+Fondo Secundario (Contacto): #f9f9f9
+
+Fondo del Pie de Página: #222
+
+Color del Texto: #ffffff (general), #000 (en el pie de página), #777 (en algunos elementos)
+
+Color del Botón Nav: #195fa4
+
+Color de Resaltado del Botón Nav (Hover): #fff (antes era negro, pero se cambió a blanco para mantener el contraste)
+
+Color del Botón de Envío del Formulario: #333
+
+Color de Resaltado del Botón de Envío del Formulario (Hover): #555
+
+Color del Texto de los Testimonios: #777
+
+Spacing
+
+Espaciado Interno del Contenedor: 0 a los lados
+
+Margen Exterior del Contenedor: 0 a los lados, 5% en la parte superior e inferior
+
+Tono de comunicación y lenguaje aplicado
+
+Color Primario
+
+Representa el color del uniforme básico de los profesionales de la salud, generando un ambiente de confianza entre el contratante y el personal médico.
+
+Color Secundario
+
+Genera un efecto hipnótico sobre la vista y la mente. Es un color sustentador de la vida y encarna la alegría y el anhelo de volver a conectar con sus seres queridos.
+
+Blanco
+
+Representa limpieza y claridad, muy utilizado en aplicaciones relacionadas con el cuidado de la salud.
+
+Negro
+
+Color serio y elegante, reflejando el tono formal y respetuoso de nuestro lenguaje, mezclado con entusiasmo y perseverancia.
+
+
 ## 4.1.2 Web Style Guidelines
+
+Desarrollaremos una aplicación que se adeque a cualquier dispositivo tecnológico sin la necesidad de malograr el diseño del contenido. Por ello, se tendrá que tomar en cuenta cada tipo de dispositivo para que el contenido este estructurado de la mejor manera para cada uno. 
+<img src="/assets/img/capitulo4/Web Style Guidelines 1.jpg" alt="WSG1">
+Emplearemos el patrón Z, pues de esta manera identificaran nuestra marca o logo que se encontrara en la esquina superior izquierda, donde comenzara la interacción del usuario. Luego, se desplazará hacia la derecha donde visualizará las diferentes opciones que ofreceremos. Siguientemente, el usuario se desplazará verticalmente hacia abajo para seguir interactuando con el contenido de la aplicación. Finalmente, el usuario llegará a la esquina inferior derecha donde podrá visualizar todas nuestras redes sociales y nuestros medios de contacto.
+<img src="/assets/img/capitulo4/Web Style Guidelines 2.jpg" alt="WSG2">
+ Siguientemente, el diseño de nuestra aplicación contara con colores que motiven al usuario a seguir interactuando con la plataforma. Asimismo, se contará con sombras y espacios que favorezcan la lectura de la información y limiten el contenido para no abrumar al navegante. Se emplearán algunos de los siguientes elementos:
+ Tarjetas:
+<img src="/assets/img/capitulo4/Web Style Guidelines 4.jpg" alt="WSG4">
+Elementos grandes:
+<img src="/assets/img/capitulo4/Web Style Guidelines 6.jpg" alt="WSG6">
+
 ## 4.2 Information Architecture
 ## 4.2.1 Organization Systems
+A continuación, explicaremos en qué grupos de información se aplicaron los distintos tipos de organización
+visual para ambos segmentos objetivo, así como también en cuales se utiliza algún tipo de categorización.
+
+Segmento 1: Personas con el objetivo de mejorar su salud y condición física
+Jerárquica:
+Programas de Entrenamiento: Los usuarios podrán explorar y seleccionar programas de entrenamiento diseñados para mejorar la salud y la condición física. Estos programas estarán organizados por nivel de dificultad y objetivos específicos.
+Calendario de Sesiones: Los usuarios podrán visualizar y programar sesiones de entrenamiento con los entrenadores disponibles. Este calendario mostrará las sesiones disponibles y se organizará cronológicamente.
+Historial de Entrenamientos: Los usuarios podrán acceder a un historial detallado de sus entrenamientos anteriores. La información estará organizada cronológicamente, mostrando los entrenamientos más recientes primero.
+Secuencial:
+Reserva de Sesiones: Los usuarios seguirán un proceso secuencial para reservar sesiones de entrenamiento con un entrenador específico. Este proceso incluirá la selección del entrenador, elección de la fecha y hora, confirmación de la reserva y pago si es necesario.
+
+Segmento 2: Coaches profesionales en el ámbito del entrenamiento físico y nutrición
+Jerárquica:
+Lista de Clientes: Los entrenadores podrán acceder a una lista de sus clientes actuales. Esta lista estará organizada cronológicamente, mostrando los clientes con sesiones próximas primero.
+Creación de Programas: Los entrenadores seguirán un proceso jerárquico para crear programas de entrenamiento y nutrición personalizados para sus clientes. Este proceso incluirá la evaluación de objetivos, diseño del programa, asignación de ejercicios y programación de sesiones.
+Matricial:
+Seguimiento de Progreso: Los entrenadores podrán hacer un seguimiento del progreso de sus clientes, incluyendo mediciones de rendimiento, registros de entrenamiento y notas de seguimiento. Esta información estará organizada por cliente.
+Agenda de Sesiones: Los entrenadores podrán ver una agenda de todas las sesiones programadas con sus clientes. Esta agenda estará organizada cronológicamente.
+Funcionalidades Compartidas:
+Jerárquica:
+
+Página de Inicio: Tanto los usuarios como los entrenadores podrán acceder a una página de inicio donde encontrarán información relevante sobre FitHub Pro, incluyendo servicios, testimonios y contacto. La información estará organizada según su importancia y categorizada por temas.
+Reseñas: Tanto los usuarios como los entrenadores podrán acceder a una sección de reseñas donde encontrarán testimonios sobre la calidad del servicio. Las reseñas estarán organizadas cronológicamente.
+Matricial:
+Menú de Opciones: Ambos segmentos accederán a un menú principal donde podrán seleccionar las funciones que deseen realizar. Estas opciones estarán categorizadas por tipo de función.
+Blog: Ambos segmentos tendrán acceso a un blog con artículos relacionados con el fitness y la salud. Los artículos estarán categorizados por temas (nutrición, entrenamiento, estilo de vida, etc.).
+
 ## 4.2.2 Labeling Systems
 ## 4.2.3 SEO Tags and Meta Tags
 ## 4.2.4 Searching Systems
 ## 4.2.5 Navigation Systems
+
+Los sistemas de navegación eficientes son fundamentales para asegurar que los usuarios puedan acceder fácilmente a la información relevante dentro de la plataforma FitHub. Estos sistemas deben ser diseñados meticulosamente teniendo en cuenta las necesidades y la experiencia del usuario.
+
+Primera Navegación: Acceso a las Opciones de la Aplicación
+Dentro de esta navegación, los usuarios encontrarán una variedad de funcionalidades ofrecidas por FitHub, que van desde planes de nutrición personalizados hasta rutinas de ejercicios adaptadas y acceso a entrenadores expertos. Se proporcionarán detalles exhaustivos sobre cada función, incluyendo sus atributos, beneficios y métodos de operación, asegurando una comprensión completa y una fácil utilización para los usuarios.
+
+Segunda Navegación: Búsqueda Personalizada Centrada en el Usuario
+Este sistema capacita a los usuarios para realizar búsquedas personalizadas dentro de FitHub, permitiéndoles encontrar rápidamente la información específica que buscan, ya sea relacionada con nutrición, entrenamiento o seguimiento de progreso. Al facilitar el acceso eficiente a contenido relevante, esta función mejora la experiencia del usuario al mitigar la dependencia exclusiva de métodos de navegación tradicionales.
+
+Tercera Navegación: Acceso a Instrucciones y Soporte
+Dentro de este sistema, los usuarios tendrán acceso a instrucciones detalladas y recursos de soporte técnico dentro de FitHub. Esto incluye guías paso a paso sobre cómo utilizar las diferentes características de la plataforma y canales directos para comunicarse con el equipo de soporte y resolver problemas o atender consultas de manera oportuna, asegurando así una experiencia fluida para el usuario.
+
 ## 4.3 Landing Page UI Design
 ## 4.3.1 Landing Page Wireframe
 ## 4.3.2 Landing Page Mock-up
