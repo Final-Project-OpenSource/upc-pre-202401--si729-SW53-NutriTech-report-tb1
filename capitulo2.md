@@ -99,12 +99,12 @@ Análisis Competitivo organizado para todos los competidores potenciales de FitH
 - Link: [URL de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202012207_upc_edu_pe/ER7KWELuwWdJuOSis4APNUkBSVkiFUD3YuwMhxMEicLYZw?e=sLI70y&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 - Inicio De Entrevista: 0:10 <br>
 - Duración: 3:12 <br>
- 
 
-**Resumen De Entrevista**: El entrevistado revela una motivación actual para mejorar su salud y condición física, destacando su interés en adoptar un estilo de vida más activa y organizada. Su experiencia previa incluye intentos anteriores de seguir una dieta equilibrada y hacer ejercicio regularmente, pero ha enfrentado desafíos como la falta de organización y la dificultad para mantener la consistencia. Busca un apoyo y orientación útiles para alcanzar sus objetivos, priorizando la educación sobre nutrición y la planificación de comidas saludables. Considera que una Aplicación web de coaching en línea sería beneficiosa por su accesibilidad y seguimiento del progreso. Al elegir un servicio de coaching, valora la personalización de los planes, el apoyo constante y la motivación para mantenerse comprometido con sus objetivos. Espera recibir un apoyo profesional y personalizado de un coach en su viaje hacia un estilo de vida más saludable.
-
+**Transcripción de la entrevista:** <br>
+El entrevistado revela una motivación actual para mejorar su salud y condición física, destacando su interés en adoptar un estilo de vida más activa y organizada. Su experiencia previa incluye intentos anteriores de seguir una dieta equilibrada y hacer ejercicio regularmente, pero ha enfrentado desafíos como la falta de organización y la dificultad para mantener la consistencia. Busca un apoyo y orientación útiles para alcanzar sus objetivos, priorizando la educación sobre nutrición y la planificación de comidas saludables. Considera que una Aplicación web de coaching en línea sería beneficiosa por su accesibilidad y seguimiento del progreso. Al elegir un servicio de coaching, valora la personalización de los planes, el apoyo constante y la motivación para mantenerse comprometido con sus objetivos. Espera recibir un apoyo profesional y personalizado de un coach en su viaje hacia un estilo de vida más saludable.
 
 - - -
+
 **Entrevista N°2:**
 ###### Figura 2
 ![Entrevista_Seg01_MaxSabino](assets/img/capitulo2/Registro_entrevista_Seg1_MaxSabino.PNG) <br>
@@ -116,27 +116,46 @@ Análisis Competitivo organizado para todos los competidores potenciales de FitH
 - Inicio de la entrevista: 00:05
 - Duración: 05:34
 
-  **Transcripción de la entrevista:** <br>
+**Transcripción de la entrevista:** <br>
 En la entrevista con Max Sabino, un estudiante universitario de 22 años, se evidencia su fuerte motivación por mejorar su salud y condición física debido al aumento de peso y el sedentarismo. Max reconoce obstáculos como la falta de motivación y disciplina, pero muestra una actitud proactiva al buscar apoyo de un coach con experiencia en salud física, seguimiento regular y establecimiento de metas personalizadas. Destaca la importancia del trato y la exigencia del coach, demostrando su compromiso serio con adoptar un estilo de vida más saludable y su disposición a trabajar para alcanzar sus objetivos.
 
 - - -
+
 **Entrevista N°3:**
 ###### Figura 3
+![Entrevista_Seg01_ValeriaMakino](assets/img/capitulo2//Registro_Entrevista_Seg1_ValeriaMakino.png) <br>
+**Datos principales:**
+- Nombre completo del entrevistado: Valeria Makino
+- Edad: 20
+- Distrito: Lima
+- Link:[URL de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201912407_upc_edu_pe/Ec6MBwEXcG9NhIrsjLWVqNoBHEKp97zoRreYc8x8Xl2utQ?e=8JvAba&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- Inicio de la entrevista: 00:05
+- Duración: : 06:58
 
+**Transcripción de la entrevista:** <br>
+En esta entrevista se puede resaltar que, la entrevistada es una estudiante que tras recuperarse de una lesión en la rodilla se sintió en la necesidad de mantener una rutina de ejercicios a modo de rehabilitación. Sin embargo, al comenzar con los ejercicios ha notado que le cuesta ser constante. Por lo que le entusiasma la idea que presenta Fithub y nos proporciona su opinión y lo que le gustaría que NutriTech ofrezca a sus usuarios.
+
+- - -
 
 **Entrevista N°4:**
-
 ###### Figura 4
-
-
+![Entrevista_Seg02_JohnLuna](assets/img/capitulo2/Registro_Entrevista_Seg2_JohnLuna.png) <br>
 **Datos principales:**
+- Nombre completo del entrevistado: John Luna
+- Edad: 26
+- Distrito: Lima
+- Link:[URL de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201912407_upc_edu_pe/ESyMIxvtS3BLsPtfUMgAIzEBt2mJ6yur88RVA29MaoU_eA?e=XKpvwF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- Inicio de la entrevista: 00:05
+- Duración: 04:22
 
-**Transcripción de la entrevista:**
+**Transcripción de la entrevista:** <br>
+En esta entrevista se puede resaltar que, el entrevistado es un coach profesional que le apasiona los deportes, el ejercicio y la nutrición. Menciona que el tiempo y los horarios son unos factores que dificultan proveer los servicios de forma presencial. Además, de las largas distancias que maneja entre él y sus clientes, que afecta negativamente el desarrollo de su trabajo. Por último, mostró bastante interés en la capacidad de FitHub de facilitar el seguimiento de los clientes mediante los reportes de rutinas. 
 
+---
 
-**Entrevista N°3:**
+**Entrevista N°5:**
 
-###### Figura 4
+###### Figura 5
 
 
 **Datos principales:**
@@ -144,7 +163,19 @@ En la entrevista con Max Sabino, un estudiante universitario de 22 años, se evi
 		
 **Transcripción de la entrevista:**
 
+---
 
+**Entrevista N°6:**
+
+###### Figura 6
+
+
+**Datos principales:**
+
+		
+**Transcripción de la entrevista:**
+
+---
 
 ### 2.2.3. Análisis de entrevistas
 
@@ -191,11 +222,26 @@ En la entrevista con Max Sabino, un estudiante universitario de 22 años, se evi
 
 
 ### 2.3.5. As-is Scenario Mapping
+
+* **Mapa de Escenario As-Is para nuestro primer user persona.**
 ###### Tabla 4.
+|  Fases  | Busca información sobre rutinas de ejercicio. | Sigue una rutina especifica, seleccionada para sus objetivos. | Busca la ayuda de un coach profesional. | Entrena con la guía del coach profesional elegido. |
+|--------|----|----|----|----|
+|  Doing  | El usuario pregunta a sus amistades acerca de consejos para iniciar una rutina. Busca en internet diferentes rutinas que les sea útil. | Se plantea una meta en un periodo de tiempo. Crea un plan de entrenamiento que se ajuste a sus horarios. Genera memos que lo ayuden a observar el progreso que realiza. | Visita el gimnasio de su localidad para contactar con algún coach. Busca en redes sociales diferentes coaches cerca de su ubicación. | Contacta con su coach. Acuerdan días de entrenamiento presenciales.Seleccionan un lugar de encuentro en una ubicación intermedia. Recibe las instrucciones del coach para llevar un registro de su entrenamiento.
+|  Thinking  | ¿Qué tipos de rutinas habrá? ¿Mis amigos conocerán algunas rutinas efectivas? ¿En qué paginas podre buscar esta información? ¿Hay mucha información cuáles serán las más importantes? | ¿Esta rutina será la correcta? ¿Cómo será la manera correcta de hacer este ejercicio? ¿Podre mantenerme constante con el entrenamiento? | ¿Habrá alguien adecuado que me pueda ayudar? ¿En donde seria bueno encontrar a un coach ¿Cuánto costara trabajar con un coach profesional? | ¿Nuestros horarios coincidirán? ¿Mi coach estará registrando mi progreso de manera adecuada? 
+|  Feeling  | Desconcertado por la falta de conocimientos en el tema. Perdido debido a la gran cantidad de información en internet. | Preocupado con la correcta forma de seguir la rutina. | Desconfiado al no conocer previamente a los coaches. | Intranquilidad por la nueva rutina y forma de seguir con los ejercicios. Además de el cambio presentado por recibir el apoyo del coach.
 
+---
 
+* **Mapa de Escenario As-Is para nuestro segundo user persona.**
 ###### Tabla 5.
+|  Fases  | Busca clientes interesados en el entrenamiento físico y nutrición.  | Diseñar las rutinas de los clientes  | Llevar el registro del progreso realizado por el cliente | Acordar entrenamientos personales entre él y el cliente. |
+|--------|----|----|----|----|
+|  Doing  | Publicita sus servicios en redes sociales. Visita gimnasios locales para contactar con posibles clientes. | Escucha las metas y peticiones del cliente. Selecciona los ejercicios que ayudaran al cliente. Planea una rutina personalizada basada en cada cliente. | Elige una herramienta en la que pueda llevar la contabilidad de cada cliente. Ingresa actualizaciones acerca de cada mejora que tiene el cliente. | Acuerda la hora y el lugar de encuentro con el cliente. Organiza su horario para llevar a cabo cada sesión con los clientes. Se transporta hasta el lugar de encuentro.
+|  Thinking  | ¿En dónde podré anunciar mis servicios de coaching? ¿Cuánto alcance podré lograr con los métodos que estoy siguiendo? | ¿El cliente se sentirá cómodo con esta rutina? ¿Cuán especifico debería seleccionar los ejercicios? | ¿Qué herramienta será la más eficiente? ¿Esta herramienta será confiable? ¿Estaré olvidando algún detalle importante? | ¿Tendré tiempo libre en mi horario? ¿Qué tal lejos se encontrará el cliente? ¿en dónde sería mejor encontrarme con el cliente?
+|  Feeling  | Inseguro sobre el alcance que pueda conseguir con los métodos tradicionales que está empleando. | Duda acerca de las preferencias del cliente. Además, de la mejor forma de planificar la rutina. | Reflexivo debido a la seguridad de los datos ingresados sobre el cliente y su progreso. | Nervioso por encontrase con el cliente y por saber si lograran encontrar un punto intermedio de encuentro.
 
+---
 
 ## 2.4. Ubiquitous Language
 
