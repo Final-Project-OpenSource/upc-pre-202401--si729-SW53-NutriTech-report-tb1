@@ -218,39 +218,52 @@ URL del diseño: https://www.figma.com/file/0zyX4JRoTxb9i0ODg6MRJj/Desarrollo-de
 
 ## 4.4.2 Web Applications Mock-ups
 ### Inicio de sesión
-<img src="/assets/img/capitulo4/Mockup-inicio.PNG">
+<img src="/assets/img/capitulo4/Mockup-inicio.PNG" alt="Mock-up inicio de sesión">
 
 ### Registro
-<img src="/assets/img/capitulo4/Mockup-registro.PNG">
+<img src="/assets/img/capitulo4/Mockup-registro.PNG" alt="Mock-up registro">
 
 ### Recuperar contraseña
-<img src="/assets/img/capitulo4/Mockup-recuperar.PNG">
+<img src="/assets/img/capitulo4/Mockup-recuperar.PNG" alt="Mock-up contraseña">
 
 ### Inicio 
-<img src="/assets/img/capitulo4/Mockup-inicio2.PNG">
+<img src="/assets/img/capitulo4/Mockup-inicio2.PNG" alt="Mock-up inicio">
 
 ### Perfil
-<img src="/assets/img/capitulo4/Mockup-perfil.PNG">
+<img src="/assets/img/capitulo4/Mockup-perfil.PNG" alt="Mock-up perfil">
 
 ### Búsqueda Ejercicio
-<img src="/assets/img/capitulo4/Mockup-busqueda-ejercicio.PNG">
+<img src="/assets/img/capitulo4/Mockup-busqueda-ejercicio.PNG" alt="Mock-up búsqueda de ejercicio">
 
 ### Rutina
-<img src="/assets/img/capitulo4/Mockup-rutina.PNG">
+<img src="/assets/img/capitulo4/Mockup-rutina.PNG" alt="Mock-up rutina">
 
 ### Búsqueda Dietas
-<img src="/assets/img/capitulo4/Mockup-busqueda-dietas.PNG">
+<img src="/assets/img/capitulo4/Mockup-busqueda-dietas.PNG" alt="Mock-up búsqueda dietas">
 
 ### Dieta
-<img src="/assets/img/capitulo4/Mockup-dieta.PNG">
+<img src="/assets/img/capitulo4/Mockup-dieta.PNG" alt="Mock-up dieta">
 
 ### Búsqueda Profesional
-<img src="/assets/img/capitulo4/Mockup-busqueda-profesional.PNG">
+<img src="/assets/img/capitulo4/Mockup-busqueda-profesional.PNG" alt="Mock-up búsqueda profesional">
 
 ### Profesional
-<img src="/assets/img/capitulo4/Mockup-profesional.PNG">
+<img src="/assets/img/capitulo4/Mockup-profesional.PNG" alt="Mock-up profesional">
 
 ## 4.4.3 Web Applications User Flow Diagrams
+
+### Registro e inicio de sesión
+<img src="/assets/img/capitulo4/userflow-1.jpg" alt="User Flow registro e inicio de sesión">
+
+### Búsqueda de un profesional
+<img src="/assets/img/capitulo4/userflow-1.jpg" alt="Búsqueda de un profesional">
+
+### Recuperar contraseña
+<img src="/assets/img/capitulo4/userflow-1.jpg" alt="Recuperar contraseña">
+
+### Visualizacion de perfil
+<img src="/assets/img/capitulo4/userflow-1.jpg" alt="Visualizacion de perfil">
+
 ## 4.5 Web Applications Prototyping
 ## 4.6 Domain-Driven Software Architecture
 ## 4.6.1 Software Architecture Context Diagram
