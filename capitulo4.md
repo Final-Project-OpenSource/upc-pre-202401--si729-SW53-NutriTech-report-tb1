@@ -202,9 +202,20 @@ URL del diseño: https://www.figma.com/file/0zyX4JRoTxb9i0ODg6MRJj/Desarrollo-de
 ### Contacto con el profesional
 ![Wireframe Contacto con el profesional](assets/img/capitulo4/Wireframe-ContactoProfesional.png)
 
-
-
 ## 4.4.2 Web Applications Wireflow Diagrams
+
+### Registro e inicio de sesión
+![Wireflow Registro e Inicio de Sesión](assets/img/capitulo4/Wireflow1.png)
+
+### Búsqueda de un profesional
+![Wireflow Búsqueda de un profesional](assets/img/capitulo4/Wireflow2.png)
+
+### Recuperar contraseña
+![Wireflow Recuperar contraseña](assets/img/capitulo4/Wireflow3.png)
+
+### Visualizacion de perfil
+![Wireflow Visualizacion de perfil](assets/img/capitulo4/Wireflow4.png)
+
 ## 4.4.2 Web Applications Mock-ups
 ## 4.4.3 Web Applications User Flow Diagrams
 ## 4.5 Web Applications Prototyping
