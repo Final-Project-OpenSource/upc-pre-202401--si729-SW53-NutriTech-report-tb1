@@ -217,6 +217,39 @@ URL del diseño: https://www.figma.com/file/0zyX4JRoTxb9i0ODg6MRJj/Desarrollo-de
 ![Wireflow Visualizacion de perfil](assets/img/capitulo4/Wireflow4.png)
 
 ## 4.4.2 Web Applications Mock-ups
+### Inicio de sesión
+<img src="/assets/img/capitulo4/Mockup-inicio.PNG">
+
+### Registro
+<img src="/assets/img/capitulo4/Mockup-registro.PNG">
+
+### Recuperar contraseña
+<img src="/assets/img/capitulo4/Mockup-recuperar.PNG">
+
+### Inicio 
+<img src="/assets/img/capitulo4/Mockup-inicio2.PNG">
+
+### Perfil
+<img src="/assets/img/capitulo4/Mockup-perfil.PNG">
+
+### Búsqueda Ejercicio
+<img src="/assets/img/capitulo4/Mockup-busqueda-ejercicio.PNG">
+
+### Rutina
+<img src="/assets/img/capitulo4/Mockup-rutina.PNG">
+
+### Búsqueda Dietas
+<img src="/assets/img/capitulo4/Mockup-busqueda-dietas.PNG">
+
+### Dieta
+<img src="/assets/img/capitulo4/Mockup-dieta.PNG">
+
+### Búsqueda Profesional
+<img src="/assets/img/capitulo4/Mockup-busqueda-profesional.PNG">
+
+### Profesional
+<img src="/assets/img/capitulo4/Mockup-profesional.PNG">
+
 ## 4.4.3 Web Applications User Flow Diagrams
 ## 4.5 Web Applications Prototyping
 ## 4.6 Domain-Driven Software Architecture
