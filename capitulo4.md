@@ -182,7 +182,7 @@ URL del diseño: https://www.figma.com/file/0zyX4JRoTxb9i0ODg6MRJj/Desarrollo-de
 ![Wireframe Perfil](assets/img/capitulo4/Wireframe-Perfil.png)
 
 ### Busqueda de ejercicios
-![Wireframe Busqueda de ejercicios](assets/img/capitulo4/Wireframe-BúsquedaProfesional.png)
+![Wireframe Busqueda de ejercicios](assets/img/capitulo4/Wireframe-BúsquedaEjercicios.png)
 
 ### Busqueda de dietas
 ![Wireframe Busqueda de dietas](assets/img/capitulo4/Wireframe-BúsquedaDietas.png)
