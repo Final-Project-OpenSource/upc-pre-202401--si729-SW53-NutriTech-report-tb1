@@ -410,6 +410,12 @@ https://final-project-opensource.github.io/LandingPageFitHub/
 - Se ha preparado la documentación necesaria para la revisión del sprint, incluyendo los artefactos de desarrollo, pruebas y ejecución.
 <br><img src="">
 ## 5.2.1.6 Services Documentation Evidence for Sprint Review
+- Se han creado documentos internos que describen la estructura y funcionalidad de la landing page, incluyendo una descripción de las secciones y el flujo de navegación.
+- Se ha generado documentación técnica sobre el desarrollo de la landing page, detallando las tecnologías utilizadas, la arquitectura del sitio y las funcionalidades implementadas.
+- Se han elaborado manuales de usuario para guiar a los visitantes sobre cómo navegar por la página, sus características y cómo utilizar los formularios de contacto y suscripción.
+- Se ha preparado una guía de estilo para mantener la coherencia visual y de contenido en la landing page, incluyendo pautas sobre tipografía, colores, imágenes y diseño.
+- Se han recopilado los recursos y activos utilizados en el desarrollo de la landing page, como imágenes, iconos, fuentes y estilos, para facilitar futuras actualizaciones y modificaciones.
+<br><img src="">
 ## 5.2.1.7 Software Deployment Evidence for Sprint Review
 ## 5.2.1.8 Team Collaboration Insights during Sprint
 
