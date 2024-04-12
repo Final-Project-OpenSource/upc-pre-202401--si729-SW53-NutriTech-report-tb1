@@ -166,6 +166,45 @@ URL del diseño: https://www.figma.com/file/0zyX4JRoTxb9i0ODg6MRJj/Desarrollo-de
 
 ## 4.4 Web Applications UX/UI Design
 ## 4.4.1 Web Applications Wireframes
+### Inicio de sesión
+![Wireframe Inicio de seción](assets/img/capitulo4/Wireframe-InicioSesión.png)
+
+### Registro
+![Wireframe Registro](assets/img/capitulo4/Wireframe-Registro.png)
+
+### Recuperacion de contraseña
+![Wireframe Recuperacion de contraseña](assets/img/capitulo4/Wireframe-RecuperarContraseña.png)
+
+### Inicio
+![Wireframe Inicio](assets/img/capitulo4/Wireframe-Inicio.png)
+
+### Perfil
+![Wireframe Perfil](assets/img/capitulo4/Wireframe-Perfil.png)
+
+### Busqueda de ejercicios
+![Wireframe Busqueda de ejercicios](assets/img/capitulo4/Wireframe-Búsqueda ejercicios.png)
+<img src="/assets/img/Búsqueda ejercicios.png" alt="Wireframe Busqueda de ejercicios">
+
+### Busqueda de dietas
+![Wireframe Busqueda de dietas](assets/img/capitulo4/Wireframe-BúsquedaDietas.png)
+
+### Busqueda de profesionales
+![Wireframe Busqueda de profesionales](assets/img/capitulo4/Wireframe-BúsquedaProfesional.png)
+
+### Rutina
+![Wireframe Rutina](assets/img/capitulo4/Wireframe-Rutina.png)
+
+### Dieta
+![Wireframe Dieta](assets/img/capitulo4/Wireframe-Dieta.png)
+
+### Profesional
+![Wireframe Profesional](assets/img/capitulo4/Wireframe-Profesional.png)
+
+### Contacto con el profesional
+![Wireframe Contacto con el profesional](assets/img/capitulo4/Wireframe-ContactoProfesional.png)
+
+
+
 ## 4.4.2 Web Applications Wireflow Diagrams
 ## 4.4.2 Web Applications Mock-ups
 ## 4.4.3 Web Applications User Flow Diagrams
