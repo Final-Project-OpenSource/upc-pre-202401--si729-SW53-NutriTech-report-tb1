@@ -208,6 +208,19 @@ En esta entrevista se puede resaltar que, el entrevistado es un coach profesiona
 
 ###### Tabla 3.
 
+Modelo de User Task Matrix definido para los dos user persona seleccionados.
+
+| Tareas |  U1: Ana García  |      |  U2: Carlos Martínez  |      |
+|-------|------|------|------|------|
+| | Frecuencia | Importancia | Frecuencia | Importancia |
+| Planificación de comidas saludables		 |Often | High|Rarely | High|
+| Seguimiento de rutinas de ejercicio |Often |High | Often|High |
+|Investigación de nuevas técnicas de entrenamiento | Sometimes| High| Often|High |
+|Acceso a contenido educativo	 |Often |High | Often|High |
+|Revisión de progreso y estadísticas	 | Often |High | Often|High |
+|Participación en comunidades en línea |Sometimes |Medium |Sometimes |High |
+|Establecimiento de metas de bienestar |Often |High | Often|High |
+|Gestión del tiempo para ejercitar |Often |High |Sometimes|High |
 
 
 ### 2.3.3. User Journey Mapping
