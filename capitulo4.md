@@ -337,5 +337,29 @@ Dentro de este sistema, los usuarios tendrán acceso a instrucciones detalladas 
 
 ## 4.8 Database Design
 ## 4.8.1 Database Diagram
+###### Tabla de entidades
+
+|Entidad |Atributos |
+|-|-|
+|usuarios |id_usuario          (int) PRIMARY KEY<br> nombre              (varchar(50)) <br>apellido            (varchar(50)) <br>direccion           (varchar(100))<br>pais                (varchar(50)) <br>correo              (varchar(100))<br>correo_recuperacion (varchar(100))<br>contrasenia         (varchar(50)) <br>telefono            (varchar(9))  <br>foto_perfil        (image)       <br>fecha_inscripcion   (datetime)     |
+|clientes |id_cliente (int)         PRIMARY KEY<br>meta_salud (varchar(50))<br>id_usuario (int) FOREIGN KEY |
+|coaches |id_coach          (int)        PRIMARY KEY <br>  anios_experiencia (varchar(4)) <br>  especialidad      (varchar(50)) <br> certificacion     (varchar(50)) <br>  id_usuario        (int)          |
+|comentarios |id_comentario (int)        PRIMARY KEY <br>  fecha         (date)        <br>  hora          (time)        <br>  calificacion  (varchar(5))  <br>  contenido     (varchar(500)) <br>  id_sesion     (int) FOREIGN KEY |
+|comunidades |id_comunidad (int)  PRIMARY KEY <br>  tema         (varchar(50)) <br>  num_cliente  (int)        <br>  id_usuario   (int) FOREIGN KEY |
+|ejercicios |id_ejercicio          (int) PRIMARY KEY <br>        instruccion            (varchar(100)) <br>  duracion               (varchar(3))  <br>  tipo                   (varchar(50)) <br>  repeticiones           (varchar(3))  <br>  series                 (varchar(50)) <br>  id_categoria_ejercicio (int)   FOREIGN KEY  |
+|membresias |id_membresia (int) PRIMARY KEY<br>   precio       (money)      <br>   tipo         (varchar(50)) <br>   beneficio    (varchar(50)) |
+|progresos |id_progreso      (int) PRIMARY KEY<br>  mes              (varchar(50)) <br>  peso             (varchar(3)) <br>  porcentaje_grasa (varchar(3)) <br>  resistencia      (varchar(50)) |
+|sesiones |id_sesion             (int) PRIMARY KEY <br>        formato               (varchar(50)) <br>  estado_sesion         (varchar(50)) <br>  notas_coach           (varchar(50)) <br>  id_plan_entrenamiento (int) FOREIGN KEY |
+|categorias_ejercicios |  id_categoria_ejercicio (int) PRIMARY KEY <br>  nombre                 (varchar(50)) |
+|clientes_progresos |id_cliente  (int) PRIMARY KEY<br>  id_progreso (int) PRIMARY KEY|
+|comunidades_usuarios |id_usuario   (int)PRIMARY KEY <br>  id_comunidad (int)  PRIMARY KEY|
+|historiales_planes_entrenamiento_clientes |id_historial          (int)  PRIMARY KEY <br>  tipo                  (varchar(50)) <br>  id_cliente            (int )FOREIGN KEY<br>  id_plan_entrenamiento (int)FOREIGN KEY|
+|historiales_planes_nutricionales_ clientes |id_historial        (int)  PRIMARY KEY <br>  tipo                (varchar(50)) <br>  id_plan_nutricional (int)FOREIGN KEY <br>  id_cliente          (int)FOREIGN KEY|
+|membresias_clientes |id_cliente    (int)  PRIMARY KEY<br>  id_membresia  (int) PRIMARY KEY<br>  fecha_inicio  (date) <br>  fecha_final   (date) <br>  fecha_pago    (date)  <br>  meses_miembro (int) |
+|planes_ejercicios |id_plan_entrenamiento (int)PRIMARY KEY <br>   id_ejercicio          (int) PRIMARY KEY|
+|planes_entrenamiento |id_plan_entrenamiento (int)    PRIMARY KEY  <br>  duracion              (varchar(3)) <br>  accesorios            (varchar(50)) <br>  dificultad            (varchar(50)) <br>  fecha_publicacion     (datetime)    |
+|planes_nutricionales |id_plan_nutricional (int)  PRIMARY KEY <br>  meta_salud          (varchar(50)) <br>  caloria             (varchar(2))  <br>  receta              (varchar(50)) <br>  restriccion         (varchar(50)) |
+
+
 ###### figura
 <img src="/assets/img/capitulo4/DataBase FitHub.PNG" alt="Database Diagram">
