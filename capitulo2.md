@@ -154,14 +154,18 @@ En esta entrevista se puede resaltar que, el entrevistado es un coach profesiona
 ---
 
 **Entrevista N°5:**
-
 ###### Figura 5
-
-
+![Entrevista_Seg02_Andrew](assets/img/capitulo2/Entrevista_Seg02_Andrew.jpg) <br>
 **Datos principales:**
+- Nombre completo del entrevistado: Andrew Agama
+- Edad: 24
+- Distrito: Lima
+- Link:[URL de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202121858_upc_edu_pe/EbvDMBCSMeNKuZnzAYFdW1UBLLacjGEKcu3-oFyjbMbuvA?e=9hXutF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- Inicio de la entrevista: 00:02
+- Duración: 02:23
 
-		
-**Transcripción de la entrevista:**
+**Transcripción de la entrevista:** <br>
+Conversamos con un apasionado profesional del coaching en ejercicio y alimentación. Su motivación inicial fue la pasión por el bienestar y la salud. En el trabajo presencial, los desafíos principales son la adaptación a necesidades individuales y la motivación constante de los clientes. Sin embargo, ve grandes beneficios en ofrecer servicios en línea, como la accesibilidad global y la flexibilidad de horarios. Para mejorar la eficacia en línea, considera herramientas como seguimiento de progreso y videoconferencias. Al seleccionar una plataforma de coaching en línea, prioriza la seguridad de datos, facilidad de uso y opciones de pago seguras. Además, una aplicación web de coaching podría mejorar la experiencia mediante seguimiento personalizado y acceso a recursos educativos adicionales, así como recordatorios automáticos para los clientes. 
 
 ---
 
