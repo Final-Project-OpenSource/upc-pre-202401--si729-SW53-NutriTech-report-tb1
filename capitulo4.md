@@ -150,7 +150,6 @@ A continuación, se mostrarán los SEO Tags y Meta Tags utilizados en el Landing
 Es crucial contar con un sistema de búsqueda eficiente que facilite a los usuarios encontrar información específica en la aplicación web. Esta búsqueda debe ser ágil, precisa y capaz de gestionar consultas complejas. Asimismo, sería beneficioso explorar la posibilidad de añadir filtros y funciones avanzadas de búsqueda para mejorar la precisión y permitir a los usuarios refinar los resultados según sus necesidades específicas.
 
 Para el caso de Landing Page, no se ha implementado un sistema de búsqueda, ya que la información se encuentra distribuida en secciones accesibles desde el menú principal. Esto significa que los usuarios pueden ubicar fácilmente todos los detalles necesarios para comprender nuestra propuesta y los servicios que ofrecemos. Asímismo, podrán encontrar rápidamente nuestros datos de contacto para comunicarse con nosotros.
-
 ## 4.2.5 Navigation Systems
 
 Los sistemas de navegación eficientes son fundamentales para asegurar que los usuarios puedan acceder fácilmente a la información relevante dentro de la plataforma FitHub. Estos sistemas deben ser diseñados meticulosamente teniendo en cuenta las necesidades y la experiencia del usuario.
@@ -185,6 +184,8 @@ Dentro de este sistema, los usuarios tendrán acceso a instrucciones detalladas 
 ## 4.7.1 Class Diagrams
 ###### Figura
 <img src="assets/img/capitulo4/Diagrama UML - OPSRC.png">
+
+
 
 ## 4.7.2 Class Dictionary
 ### UserInterface
