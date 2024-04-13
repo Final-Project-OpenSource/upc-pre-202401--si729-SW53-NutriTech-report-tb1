@@ -21,7 +21,7 @@ feature-tb1
   - Valenzuela Huillcaya, Aldhair Johan Juan - U20201F572
   - Maguiña Corzo, Ricardo Jesus - U202121858 
 
-*Marzo de 2024*
+*Abril de 2024*
 
 ---
 
@@ -30,8 +30,8 @@ En esta sección se resumen todas las modificaciones relevantes que sean realiza
 
 | Versión | Fecha            | Autor | Descripción de modificación |
 |---------|------------------|-------|-----------------------------|
-| TB1     |   ||                   |
-| TP1     |                  |       |                             |
+| TB1     | 13/04/24  |Grupo2 |  Entregable TB1  |  
+TP1     |                  |       |                             |
 | TB2     |                  |       |                             |
 | TF1     |                  |       |                             |
 
@@ -181,42 +181,64 @@ En la siguiente sección se describen las acciones realizadas y enunciados de co
 
 
 
-| Criterio específico                                                                                                                                  | Acciones Realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Conclusiones |
-|------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
-| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. | nombre - **TB1**: <br> your student outcome <br> nombre - **TB1**: <br>your student outcome <br> nombre - **TB1**: <br> your student outcome <br> nombre - **TB1**: <br> your student outcome <br> nombre - **TB1**: <br> your student outcome  | **TB1**:     |
-| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software. | nombre - **TB1**: <br> your student outcome <br> nombre - **TB1**: <br> your student outcome <br> nombre - **TB1**: <br> your student outcome <br> nombre - **TB1**: <br> your student outcome <br> nombre - **TB1**: <br> your student outcome | **TB1**:     |
+| Criterio específico                                                                                                                                  | Acciones Realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Conclusiones |
+|------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
+| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. | Jorge Sebastian Ponce Loyola - **TB1**:<br>Durante la TB1, contribuí eficazmente en un proyecto de ingeniería de software, abordando aspectos clave de la experiencia del usuario y la gestión del desarrollo. Trabajé en la definición de problemas, supuestos, sistemas de búsqueda y etiquetado, además de participar en la configuración del entorno de desarrollo y la gestión del código fuente.<br><br> Juan Diego Cueto Dominguez - **TB1**: <br> Se coordinó con el equipo las fechas para entregas de avances del proyecto y fecha de reuniones por un feedback grupal. Para lograr un desarrollo óptimo y mantener una comunicación activa en las próximas entregas.<br><br> Carlos Joel Shimabukuro Uku - **TB1**: <br> Para este trabajo se utilizó diversas herramientas para la comunicación constante y trabajo colaborativo. Principalmente trabaje en el Needfinding, en las User Stories, desarrollo del wireframe, desarrollo de la landingpage, definición de los segmentos objetivos y la actualización constante del código fuente. <br><br> Aldhair Johan Juan Valenzuela Huillcaya - **TB1**: <br> Durante mi participación en la TB1, desempeñé un papel significativo en el proyecto de ingeniería de software propuesto, centrándome en los componentes UX y entrevistas con los segmentos objetivo. Además, contribuí de manera significativa en el diseño del mockup tanto del landing page como de la aplicación web y el modelado de la base de datos. <br><br> Ricardo Jesus Maguiña Corzo - **TB1**:<br>Durante la TB1, durante el proyecto de ingeniería de software, mi contribución fue efectiva al abordar aspectos clave relacionados con Needfinding, Requirements Specification y Product Implementation, Validation & Deployment .<br><br>                                                                                                                                  | **TB1**: En conclusión, hemos demostrado habilidades en áreas clave de ingeniería de software, como la gestión de proyectos, el diseño centrado en el usuario, el desarrollo técnico y la comunicación efectiva dentro del equipo. Estas contribuciones individuales se combinan para crear un proyecto integral y exitoso durante la TB1. <br>   |
+| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.                                                             | <br> Jorge Sebastian Ponce Loyola - **TB1**: <br> Durante la TB1, adquirí experiencia práctica en un sector empresarial específico al trabajar en un proyecto de ingeniería de software. Participé en el análisis y desarrollo de soluciones adaptadas a las necesidades de dicho sector, lo que me permitió comprender mejor sus procesos y requisitos particulares. <br><br> Juan Diego Cueto Dominguez - **TB1**: <br> Teniendo en cuenta nuestro modelo de negocio, fue necesario investigar los posibles y actuales competidores de nuestro negocio. Con el fin de tener una retroalimentación y destacar los puntos que pueden impulsar y destacar entre los demas competidores. Logrando un entedimiento del dominio del problema que abarca este modelo de negocio.<br><br> Carlos Joel Shimabukuro Uku - **TB1**: <br> A lo largo del proceso del trabajo, se realizó una investigación sobre el modelo de negocio correspondiente al sector empresarial objetivo. Con la finalidad de analizar, desarrollar y retroalimentar una solución eficiente que contribuya positivamente al sector.<br><br> Aldhair Johan Juan Valenzuela Huillcaya - **TB1**: <br> Gracias a la investigación que realizamos para este proyecto, me eh familiarizado con el sector empresarial en la que se basa nuestra aplicación de software. He investigado sobre este sector y comprendo los desafíos y demandas que presenta en términos de tecnología y desarrollo de software. <br> <br>Ricardo Jesus Maguiña Corzo - **TB1**: <br> Durante el TB1, obtuve experiencia práctica en un campo empresarial particular al colaborar en un proyecto de ingeniería de software. Mi participación involucró el análisis y la creación de soluciones personalizadas para satisfacer las demandas específicas de ese sector, lo que enriqueció mi comprensión sobre sus procesos y requerimientos únicos.| **TB1**: En conclusión,  hemos adquirido conocimientos teóricos sobre un sector empresarial o dominio de aplicación de soluciones de software, también desarrollamos habilidades prácticas, como la comprensión profunda del sector, la capacidad para desarrollar soluciones adaptadas y la habilidad para llevar a cabo investigaciones y análisis. Estas habilidades son fundamentales para el éxito en el campo de la ingeniería de software y demuestran un cumplimiento satisfactorio del objetivo establecido.     |
 ---
 
 # Capítulo I: Introducción
 
 ## 1.1. Startup Profile
-
-
 ### 1.1.1 Descripción de la Startup
+- **Misión:** 
+
+Nuestra misión es proporcionar a nuestros suscriptores las herramientas y el apoyo necesario para alcanzar sus objetivos de bienestar y salud, a través de una comunicación directa con coaches expertos y planes alimentarios personalizados.
+
+- **Visión:** 
+
+Aspiramos a ser líderes en el campo del bienestar personal, ofreciendo una plataforma innovadora y accesible que promueva hábitos saludables y un estilo de vida equilibrado para todos nuestros usuarios.
+- **Valores:**
+
+* Compromiso con nuestros suscriptores: Nos comprometemos a proporcionar un servicio de alta calidad que satisfaga las necesidades individuales de cada usuario, brindando un apoyo continuo y personalizado.
+* Excelencia y profesionalismo: Nos esforzamos por mantener los más altos estándares de excelencia en todos los aspectos de nuestro negocio, desde la selección de nuestros coaches hasta la entrega de nuestros planes alimentarios, asegurando la máxima calidad en cada interacción.
+* Innovación y adaptabilidad: Buscamos constantemente nuevas formas de mejorar y adaptarnos a las necesidades cambiantes de nuestros usuarios, utilizando tecnologías de vanguardia y métodos innovadores para ofrecer soluciones efectivas y actualizadas.
+* Ética y transparencia: Operamos con integridad y transparencia en todas nuestras acciones, asegurando la confianza y la credibilidad de nuestra comunidad de usuarios en todo momento.
+* Empoderamiento y motivación: Nos esforzamos por empoderar a nuestros usuarios para que tomen el control de su salud y bienestar, brindándoles las herramientas, el conocimiento y el apoyo necesario para alcanzar sus metas y mantener un estilo de vida saludable a largo plazo.
+
 ### 1.1.2 Perfiles de integrantes del equipo
 
 
 #### Ponce Loyola, Jorge Sebastian - u202120471 - Ingeniería de Software 
+Mi nombre es Jorge Ponce, tengo 20 años y estoy cursando el sexto ciclo de la carrera de Ingeniería de Software. Me encanta la música, el arte, pintar, el baloncesto. Me gusta dialogar, escuchar y aplicar el pensamiento crítico en cualquier ámbito. Me aseguraré de realizar un trabajo de calidad y de colaborar de manera activa y comprometida para lograr los resultados deseados. Tengo conocimientos en metodologías ágiles, desarrollo tanto en la parte web como en el backend, y también poseo una comprensión básica de ciberseguridad.
 
+<img src="/assets/img/capitulo1/Profile-Jorge.jpg" alt="Jorge Sebastian Ponce Loyola" width="200" height="250">
 
 ---
 #### Maguiña Corzo, Ricardo Jesus - U202121858 - Ingeniería de Software
+Me llamo Ricardo Jesus Maguiña Corzo y tengo 20 años. Estudió la carrera de Ing. de Software en la UPC. En mis tiempos libres me gusta aprender nuevas tecnologías, salir a practicar 
+fútbol y jugar en mi computadora. Conocimiento y habilidades: Poseo destrezas colaborativas, habilidades para abordar desafíos y un compromiso constante con el aprendizaje. Mi experiencia abarca metodologías ágiles, desarrollo web y backend, así como nociones fundamentales en ciberseguridad.
+
+<img src="/assets/img/capitulo1/Profile-Ricardo.jpg" alt="Ricardo Jesus Maguiña Corzo" width="200" height="250">
 
 ---
 #### Cueto Dominguez, Juan Diego - U202012207 - Ingeniería de Software
 Mi nombre es Juan Diego Cueto Dominguez, actualmente soy estudiante de la carrera de Ingeniería de Software. Cuento con conocimiento y experiencia en el uso de Git y GitHub, con el cual estaré apoyando a mis compañeros. Además poseo mucha práctica con los lenguajes de programación C++, JavaScript, Python , HTML5 y CSS3. Estoy dispuesto a apoyar y trabajar en el tiempo y momento que se requiera.
 
+<img src="/assets/img/capitulo1/Profile-Juan_Diego.PNG" alt="Juan Diego Cueto Dominguez" width="200" height="220">
 
 ---
 #### Valenzuela Huillcaya, Aldhair Johan Juan - U20201F572 - Ingeniería de Software
 Soy estudiante de Ingeniería de software en la Universidad peruana de Ciencias Aplicadas (UPC). Me considero una persona altamente responsable, organizada, puntual y empática. Mi capacidad de adaptación a entornos cambiantes y habilidad para trabajar colaborativamente en equipo son aspectos destacados de mi perfil. Tengo conocimientos en Python, C++, HTML, CSS, Javascript, MySQL, MongoDB y SQLite.
 
+<img src="/assets/img/capitulo1/Profile-Aldhair-.png"  alt="Aldhair Johan Juan Valenzuela Huillcaya" width="200" height="250">
 
 ---
 
 #### Shimabukuro Uku, Carlos Joel - U201912407 - Ingeniería de Software
 Mi nombre es Carlos Joel Shimabukuro Uku, soy estudiante de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC) y actualmente estoy en el quinto ciclo académico. Mi experiencia se centra principalmente en la programación orientada a objetos utilizando C++, además de tener conocimientos básicos en HTML, CSS y JavaScript. En este proyecto, mi objetivo es aplicar los conocimientos adquiridos hasta ahora y obtener una comprensión más profunda sobre mi futuro rol como profesional en esta área.
 
+<img src="/assets/img/capitulo1/Profile-Carlos.png"  alt="Carlos Joel Shimabukuro Uku" width="200" height="250">
 
 ---
 
@@ -224,27 +246,86 @@ Mi nombre es Carlos Joel Shimabukuro Uku, soy estudiante de Ingeniería de Softw
 
 
 ### 1.2.1 Antecedentes y problemática
+Para analizar los antecedentes y la problemática a la que nuestro proyecto se afronta, vamos a utilizar el modelo práctico de las 5Ws y 2Hs, con el fin de idear un sistema más estructurado y que se centre en las causas del problema principalmente.
 
 **Antecedentes:**
 
+Presentación del modelo de las preguntas 5Ws y 2Hs con la que se analizaron los antecedentes y la problemática que abarca nuestro proyecto.
+
+| LAS 5W y 2H | Pregunta                                                | Descripción                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+|-------------|---------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Who?        | ¿Quién es afectado?                                     | Personas interesadas en mejorar su salud y condición física, así como profesionales del coaching en áreas como el ejercicio y la nutrición.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| What?       | ¿Cuál es el problema?                                   | La desmotivacion o dificultades que tienen las personas a la hora de trazar y empezar una rutina de entrenamiento, ya sea por salud o actividad propia. De acuerdo al Ministerio de Salud (MINSA, 2024), el 62% de peruanos mayores a 15 años sufre de obesidad, esto demuestra la carente disciplina, compromisos o mal hábito de alimentacion que tiene la población.                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| When?       | ¿Cuándo sucede el problema?                             | Es un problema que usualmente a estado presente en varias personas desde que intentaron iniciar una rutina de entrenamiento, con el objetivo de abordar sus necesidades y mejorar su estilo de vida. Añadiendo además aquellos profesionales del coaching que han deseado expandir su base de clientes.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | 
+| Where?      | ¿Dónde surge el problema?                               | El problema surge de las necesidades y ubicacion de la persona, siendo los principales factores la distancia del gimnasio mas cercano y sus tiempos disponibles, por ende la aplicación estará disponible en línea, lo que permitirá el acceso desde cualquier lugar con conexión a internet.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Why?        | ¿Cuál es la causa del problema?                         | La creación de la aplicación se debe a la falta de orientación personalizada para las personas que desean mejorar su salud y condición física, así como la necesidad de los profesionales del coaching de llegar a nuevos clientes y ofrecerles un servicio efectivo y personalizado.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| How?        | ¿Qué llevó a la persona a esta situación?               | Segun un estudio realizado por Ipsos, un 44% de personas hace actividad fisica con frecuencia y percepciona que el 88% considera que tener una buena alimentacion es la clave para tener una vida saludable (Ipsos Perú, 2019), por ende nuestra aplicación facilitara la comunicación directa entre usuarios y coaches a través de reuniones virtuales además de proporcionar acceso a planes alimentarios personalizados. Los usuarios podran suscribirse mensualmente para acceder a estos servicios y recibir el seguimiento y apoyo continuo que necesitan para alcanzar sus objetivos de salud.                                                                                                                                                                                            |
+| How Much?   | ¿Cuál es la cantidad, duración o intensidad del evento? | Según un estudio realizado por Fitness Pass (2019), se descubrió que un porcentaje alarmantemente alto del 80% de las personas optan por cancelar su membresía en el gimnasio después de tres meses de haberla adquirido. Este hallazgo preocupa a la industria del fitness, donde seguir un régimen de ejercicio a largo plazo parece ser desafiante para la mayoría de los individuos. Entre los motivos principales que impulsan esta decisión se encuentran la desmotivación y la falta de tiempo. La desmotivación puede surgir de diversas fuentes, incluida la falta de resultados rápidos o visibles. Además, en el mundo moderno, las demandas de tiempo suelen ser un factor determinante, ya que las personas luchan por equilibrar el trabajo, la familia y otras responsabilidades. |
 ### 1.2.2. Lean UX Process
 
-
-
 #### 1.2.2.1. Lean UX Problem Statements
-
+Existe una creciente demanda de soluciones integrales y personalizadas para mejorar el bienestar y la salud personal. Sin embargo, el mercado carece de una plataforma que ofrezca comunicación directa con expertos en salud y planes alimentarios personalizados. Ante esta brecha, se necesita desarrollar una plataforma innovadora y accesible que promueva hábitos saludables y un estilo de vida equilibrado, permitiendo a los usuarios alcanzar sus metas de salud y bienestar de manera efectiva y sostenible.¿Cómo podemos diseñar una solución que empodere a los usuarios para tomar el control de su salud y bienestar, ofreciéndoles herramientas personalizadas y apoyo continuo para alcanzar sus objetivos de manera efectiva y sostenible?
 
 #### 1.2.2.2. Lean UX Assumptions
-- **User Outcomes:** 
+**User Outcomes:** 
 
+1: ¿Quién es el usuario?: 
+- Nuestro usuario objetivo es aquel individuo interesado en mejorar su salud y bienestar, que busca una solución integral y personalizada para alcanzar sus metas de forma efectiva y sostenible.
+ 
+2: ¿Dónde encaja nuestro producto en su trabajo o vida?: 
+- Nuestro producto encaja en la vida diaria del usuario, proporcionándole herramientas y apoyo para adoptar hábitos saludables y mantener un estilo de vida equilibrado, tanto en casa como en movimiento.
 
+3: ¿Qué problemas tiene nuestro producto y cómo se pueden resolver?: 
+- Uno de los problemas de nuestro producto podría ser la falta de conciencia sobre la importancia de la salud y el bienestar personal. Esto se puede abordar mediante una sólida campaña de concienciación y educación sobre los beneficios de adoptar hábitos saludables.
+- Otro problema podría ser la dificultad para seguir los planes alimentarios personalizados. Esto se puede resolver mediante una interfaz intuitiva y fácil de usar, junto con recordatorios y seguimientos personalizados.
 
-- **Business Outcomes:**
+4: ¿Cuándo y cómo es usado nuestro producto?: 
+- Nuestro producto es utilizado por los usuarios diariamente, tanto para acceder a consejos y orientación de salud como para registrar sus progresos y recibir retroalimentación. Se utiliza a través de una aplicación móvil y una plataforma web, adaptándose así a las diferentes preferencias de los usuarios.
+
+5: ¿Qué características son importantes?: 
+- Características importantes incluyen comunicación directa con coaches expertos, planes alimentarios personalizados, seguimiento de progreso, recordatorios de hábitos saludables, y acceso a recursos educativos sobre nutrición y bienestar.
+
+6: ¿Cómo debe verse nuestra aplicación y cómo debe comportarse?: 
+- Nuestra aplicación debe tener un diseño limpio y moderno, con una interfaz intuitiva que permita a los usuarios navegar fácilmente por las diferentes funciones y características. Debe comportarse de manera fluida y receptiva, brindando una experiencia de usuario agradable y satisfactoria.
+
+ **Business Outcomes:**
+- Incremento en el número de suscriptores y retención de usuarios a largo plazo.
+- Generación de ingresos a través de suscripciones premium y colaboraciones con marcas relacionadas con la salud y el bienestar.
+- Posicionamiento como líder en el campo del bienestar personal, ganando reconocimiento y confianza de la comunidad de usuarios.
 
 
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
+- **Hypothesis 1**
+    Creemos firmemente que es esencial ofrecer planes de entrenamiento y nutrición personalizados, diseñados específicamente para cada usuario en base a sus necesidades, objetivos y restricciones individuales.
+
+    Sabremos que hemos tenido éxito cuando los usuarios no solo experimenten un aumento en los resultados positivos relacionados con sus metas de salud y bienestar, sino también cuando expresen una mayor satisfacción y compromiso con sus programas de entrenamiento y nutrición personalizados.
+    
+- **Hypothesis 2**
+    Creemos firmemente que sería ideal integrar elementos de gamificación, como logros y desafíos, dentro de la aplicación. Estos elementos pueden motivar a los usuarios, fomentar la competencia saludable y hacer que el proceso de entrenamiento y seguimiento de la nutrición sea más emocionante y atractivo.
+
+    Sabremos que hemos tenido éxito en la integración de estos elementos cuando observemos un aumento significativo en la participación y la retención de los usuarios en la aplicación. Esto se reflejará en métricas como el tiempo de uso, la frecuencia de interacción y la retroalimentación positiva de los usuarios sobre la experiencia de gamificación en la aplicación.
+    
+- **Hypothesis 3**
+    Creemos firmemente que se debería ofrecer un modelo de suscripción flexible con diferentes niveles para nuestra aplicación. Esto permitirá a los usuarios elegir el nivel de servicio que mejor se adapte a sus necesidades y presupuesto, brindando opciones que abarquen desde funcionalidades básicas hasta características premium y exclusivas.
+
+    Sabremos que hemos tenido éxito en la implementación de este modelo cuando observemos un incremento notable en la adquisición de suscriptores en todos los niveles. Además, la satisfacción del cliente se traducirá en renovaciones de suscripción consistentes, indicando que los usuarios valoran la oferta de valor proporcionada en cada nivel de suscripción y están dispuestos a continuar utilizando nuestros servicios a largo plazo.
+    
+- **Hypothesis 4**
+    Creemos que deberíamos ofrecer recomendaciones y sugerencias personalizadas basadas en los datos del usuario, utilizando información como su historial de entrenamiento, preferencias alimenticias, metas de salud y otros datos relevantes. Estas recomendaciones personalizadas pueden incluir desde rutinas de ejercicios específicas hasta sugerencias de comidas y consejos de bienestar adaptados a las necesidades individuales de cada usuario.
+
+    Sabremos que hemos tenido éxito en la implementación de este enfoque cuando los usuarios experimenten una mayor relevancia y utilidad en las recomendaciones recibidas. Esto se reflejará en una mejor experiencia general para los usuarios, quienes encontrarán que la aplicación les ayuda de manera efectiva a alcanzar sus objetivos de salud y bienestar de manera personalizada y significativa.
+    
+- **Hypothesis 5**
+    Creemos que se debe ofrecer una prueba gratuita o demostración de la aplicación a todos nuestros nuevos usuarios, permitiéndoles experimentar las características y beneficios que nuestra plataforma ofrece antes de comprometerse con una suscripción.
+
+    Sabremos que hemos tenido éxito en esta estrategia cuando analicemos la conversión de usuarios de prueba a suscriptores de pago y observemos un incremento significativo desde el inicio hasta el plazo de 4 meses. Este aumento en la conversión indicará que la prueba gratuita o demostración está generando interés y confianza en los usuarios, lo que les lleva a optar por suscribirse y continuar utilizando nuestra aplicación a largo plazo.
+    
+- **Hypothesis 6**
+    Creemos que se debería ofrecer un respectivo feedback y soporte continuo a través de sesiones con los respectivos coaches, proporcionando a los usuarios la oportunidad de recibir orientación personalizada y seguimiento regular en sus objetivos de entrenamiento, nutrición y bienestar.
+
+    Sabremos que hemos tenido éxito en esta iniciativa cuando los usuarios experimenten una mejora significativa en sus hábitos de vida y bienestar físico, lo cual se verá reflejado en una encuesta de satisfacción. Al obtener comentarios positivos sobre la efectividad del feedback y el soporte proporcionado por los coaches, y al observar mejoras tangibles en la calidad de vida y el estado físico de los usuarios, confirmaremos el éxito de esta estrategia.
 
 
 #### 1.2.2.4. Lean UX Canvas
@@ -253,11 +334,10 @@ Mi nombre es Carlos Joel Shimabukuro Uku, soy estudiante de Ingeniería de Softw
 
 Presentación del Lean UX Canvas referente a nuestro proyecto.
 
-
+<img src="/assets/img/capitulo1/Lean UX canvas Fithub.png" alt="Lean UX Canvas" >
 
 ## 1.3. Segmento Objetivo
 
+* **Personas con el objetivo de mejorar su salud y condición física** : Este segmento incluye a los usuarios mayores de 18 años que residan en Perú y tengan el interés de mejorar su salud mediante la aplicación de una asistencia personalizada. Son individuos que están comprometidos con su bienestar y que buscan una guía confiable y constante para seguir rutinas de ejercicios o planes nutricionales. 
 
-
-
-
+* **Coaches profesionales en el ámbito del entrenamiento físico y nutrición** : Este segmento incluye a los profesionales en las áreas de entrenamiento físico y nutrición alimenticia, mayores de 18 años que residan en el Perú y que estén respaldados con un certificado legítimo en sus respectivas profesiones. Son entrenadores y nutricionistas comprometidos con un enfoque profesional y orientado a resultados, en busca de una plataforma diseñada para apoyar y potenciar el trabajo de estos profesionales. Desde la creación de planes de entrenamiento personalizados hasta el seguimiento del progreso de los clientes.  
