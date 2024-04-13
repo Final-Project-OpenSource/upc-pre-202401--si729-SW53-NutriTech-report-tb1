@@ -1246,6 +1246,7 @@ Ruta de descarga: https://desktop.github.com
 | Repositorio                         | URL                                            |
 |-------------------------------------|------------------------------------------------|
 | Landing Page Repository             | https://github.com/Final-Project-OpenSource/LandingPageFitHub      |
+| Report Repository             | https://github.com/Final-Project-OpenSource/upc-pre-202401--si729-SW53-NutriTech-report-tb1      |
 | Web Services Repository             |       |
 | Frontend Web Applications Repository| |
 
@@ -1740,6 +1741,7 @@ Recomendaciones:
 Continuar optimizando la plataforma en función de la retroalimentación de los usuarios, con el objetivo de mejorar constantemente la experiencia del usuario y la eficiencia para los entrenadores.
 Explorar la posibilidad de agregar funciones adicionales, como herramientas de seguimiento de progreso más avanzadas o recursos educativos específicos para usuarios y entrenadores.
 Mantener una comunicación abierta y transparente con los usuarios y entrenadores para entender mejor sus necesidades y expectativas, y así adaptar continuamente la plataforma para satisfacerlas de manera efectiva.
+
 
 
 ---
