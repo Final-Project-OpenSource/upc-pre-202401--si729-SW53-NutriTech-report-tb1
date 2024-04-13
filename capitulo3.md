@@ -83,12 +83,12 @@ Tabla de historias de usuario
 |7       |US07 |Asesoramiento nutricional |**Como** usuario, **quiero** un asesoramiento nutricional personalizado para ajustar mi dieta diaria.|5|
 |8       |US08 |Gamificacion para aumentar la motivación |**Como** usuario, **quiero** participar en desafíos de gamificación en donde pueda tener objetivos de entrenamiento. |5|
 |9       |US09 |Personalizacion de entrenamiento |**Como** usuario, **quiero** recibir planes de entrenamiento personalizadas basadas en mis preferencias para optimizar mi rendimiento y obtener resultados en mi salud.|5|
-|10      |US10 |Planificación de sesiones de entrenamiento |**quiero** poder planificar y programar mis sesiones de entrenamiento para mantener una rutina organizada.|3|
-|11 | | | | |
-|12 | | | | |
-|13 | | | | |
-|14 | | | | |
-|15 | | | | |
+|10      |US10 |Planificación de sesiones de entrenamiento |**Como** usuario, **quiero** poder planificar y programar mis sesiones de entrenamiento para mantener una rutina organizada.|3|
+|11      |US11 |Integrar Sistema con Servicio Externo |**Como** desarrollador, **Quiero** integrar el sistema con un servicio externo, **Para** ampliar la funcionalidad y mejorar la interoperabilidad.  |5 |
+|12     |US12|Refactorizar Código para Mejorar Mantenibilidad |**Como** desarrollador, **Quiero** refactorizar el código existente, **Para** mejorar su estructura y facilitar el mantenimiento futuro.  |2 |
+|13   |US13|Implementar Autenticación de Dos Factores |**Como** desarrollador, **Quiero** implementar la autenticación de dos factores, **Para** mejorar la seguridad de la plataforma.   |5 |
+|14 |US14|Desarrollar Funcionalidad de Notificaciones |**Como** desarrollador, **Quiero** desarrollar la funcionalidad de notificaciones, **Para** mantener a los usuarios informados sobre eventos importantes. | 3 |
+|15 |US15|Crear Herramientas de Monitoreo y Depuración |**Como** desarrollador, **Quiero** crear herramientas de monitoreo y depuración, **Para** facilitar la identificación y resolución de problemas.  |8 |
 | 16      | US16          | Integración con redes sociales | **Como** usuario, **quiero** poder conectarme con mis amigos en redes sociales. **Para** compartir mi progreso y ver el de ellos. | 5 |
 | 17      | US17          | Filtrado de contenido por nivel de habilidad | **Como** usuario, **quiero** ver una introducción atractiva en la página de inicio.**Para** encontrar opciones adecuadas para mí. | 3 |
 | 18      | US18          | Modo oscuro |  **Como** usuario, **quiero** tener la opción de cambiar a un modo oscuro en la aplicación.**Para** reducir la fatiga visual durante la noche. | 3 |
