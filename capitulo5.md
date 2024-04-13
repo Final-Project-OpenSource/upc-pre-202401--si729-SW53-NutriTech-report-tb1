@@ -478,28 +478,31 @@ Esta sección revisará todo el proceso Sprint Backlog 1, donde nuestro equipo s
 - Se han probado los botones de suscripción en la sección de planes para verificar que redirijan correctamente.
 - Se han realizado pruebas de validación en el formulario de contacto para garantizar que los campos obligatorios funcionen correctamente.
   <br> <img src="assets/img/capitulo5/Test3.png">
+  
 ## 5.2.1.5 Execution Evidence for Sprint Review
 - Se ha llevado a cabo una reunión de revisión de sprint donde se han presentado los avances y se ha demostrado el funcionamiento de la landing page.
 - Se han realizado demostraciones de las funcionalidades implementadas, como los enlaces de navegación, las imágenes y textos, los botones de suscripción y el formulario de contacto.
 - Se ha recopilado el feedback del equipo y se han identificado posibles mejoras y ajustes para futuras iteraciones.
 - Se ha actualizado el tablero de proyecto con el progreso realizado durante el sprint.
 - Se ha preparado la documentación necesaria para la revisión del sprint, incluyendo los artefactos de desarrollo, pruebas y ejecución.
-<br><img src="">
+
 ## 5.2.1.6 Services Documentation Evidence for Sprint Review
 - Se han creado documentos internos que describen la estructura y funcionalidad de la landing page, incluyendo una descripción de las secciones y el flujo de navegación.
 - Se ha generado documentación técnica sobre el desarrollo de la landing page, detallando las tecnologías utilizadas, la arquitectura del sitio y las funcionalidades implementadas.
 - Se han elaborado manuales de usuario para guiar a los visitantes sobre cómo navegar por la página, sus características y cómo utilizar los formularios de contacto y suscripción.
 - Se ha preparado una guía de estilo para mantener la coherencia visual y de contenido en la landing page, incluyendo pautas sobre tipografía, colores, imágenes y diseño.
 - Se han recopilado los recursos y activos utilizados en el desarrollo de la landing page, como imágenes, iconos, fuentes y estilos, para facilitar futuras actualizaciones y modificaciones.
-<br><img src="">
+
 ## 5.2.1.7 Software Deployment Evidence for Sprint Review
 - Se ha desplegado la landing page en un entorno de prueba para verificar su funcionamiento en un ambiente real.
 - Se han preparado registros de despliegue que documentan el proceso de implementación.
 - Se ha realizado una revisión final de la landing page desplegada para asegurar que todos los elementos y funcionalidades estén operativos.
 - Se ha compartido el enlace de la landing page desplegada con el equipo para que puedan revisarla y proporcionar comentarios.
 - Se ha actualizado la documentación de despliegue con los detalles del proceso y los resultados obtenidos.
-<br><img src="">
+
 ## 5.2.1.8 Team Collaboration Insights during Sprint
+
+<br><img src="assets/img/capitulo5/Insights.png">
 
 Comunicación efectiva: Observar cómo el equipo se comunica entre sí puede proporcionar información sobre la claridad y la eficiencia de la comunicación dentro del equipo. Una comunicación abierta y transparente es esencial para la colaboración exitosa.
 Resolución de problemas: Durante el sprint, pueden surgir problemas y desafíos inesperados. La forma en que el equipo trabaja en conjunto para resolver estos problemas puede indicar su capacidad para enfrentar desafíos y adaptarse a situaciones cambiantes.
