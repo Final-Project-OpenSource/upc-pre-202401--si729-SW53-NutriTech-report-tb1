@@ -372,7 +372,12 @@ En esta sección, describimos el proceso de despliegue de nuestra Landing Page u
 ### Link de nuestra landing page:
 https://final-project-opensource.github.io/LandingPageFitHub/
 ## 5.2 Landing Page, Services & Applications Implementation
+
+A continuación, describiremos nuestra estrategia para ejecutar la implementación, pruebas y lanzamiento de nuestra landing page, así como también de los servicios web y la interfaz de usuario de la aplicación web en cada fase del proceso de desarrollo.
+
 ## 5.2.1 Sprint n
+
+En esta sección se documenta y detalla el progreso del producto y el trabajo colaborativo durante el Sprint número 1. Aquí se presenta todo el avance descriptivo junto con su desarrollo, historial y avance en conjunto proporcionado por cada miembro del equipo de trabajo. Todas las especificaciones se derivan del Product Backlog del Capítulo 3 de requerimientos.
 
 ## 5.2.1.1 Sprint Planning 1
 
@@ -468,6 +473,16 @@ Esta sección revisará todo el proceso Sprint Backlog 1, donde nuestro equipo s
   </table>
 
 ## 5.2.1.3 Development Evidence for Sprint Review
+
+| Repository | Branch | Commit ID | Commit Message | Commit Message Body | Commited on (Date)|
+|-|-|-|-|-|-|
+|LandingPageFitHub|Develop|7c2adbe|feat: add testimonials| En esta sección se agregó la página de testimonios.| 06/04/24|
+|LandingPageFitHub|Develop|8c3d45b|feat(index.html): Update index.html| En esta sección se agregó la página de bienvenido.| 10/04/24|
+|LandingPageFitHub|Develop|4f5f0b9|feat(styles.css): Update styles.css| En esta sección se agregó los styles para la página de bienvenido.|10/04/24|
+|LandingPageFitHub|Develop|304ff0f|feat(index.html): Update index.html| En esta sección se agregó el header y footer de la landing page.|12/04/24|
+|LandingPageFitHub|Develop|ea1466d|feat (LandingPage) Add Contact|En esta sección se agrega el formulario de contacto de la landing page|12/04/24|
+
+
 ## 5.2.1.4 Testing Suite Evidence for Sprint Review
 - Se han realizado pruebas de funcionalidad en los enlaces de navegación para asegurar que dirijan correctamente a las secciones correspondientes.
   <br> <img src="assets/img/capitulo5/Test1.png">
