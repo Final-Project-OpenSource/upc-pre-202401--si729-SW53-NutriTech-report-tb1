@@ -1,8 +1,6 @@
 # Capítulo II: Requirements Elicitation & Analysis
 
 ## 2.1. Competidores
-
-## 2.1. Competidores
 - - -
 [<p align="center"> <img src="assets/img/capitulo2/Competidores-MyFitnessPal.png" alt="MyFitnessPal" width="200">](https://www.myfitnesspal.com/es)
 
