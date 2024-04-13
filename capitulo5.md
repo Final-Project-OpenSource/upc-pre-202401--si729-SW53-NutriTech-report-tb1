@@ -474,14 +474,18 @@ Esta sección revisará todo el proceso Sprint Backlog 1, donde nuestro equipo s
 
 ## 5.2.1.3 Development Evidence for Sprint Review
 
+En esta sección se detalla y presenta el progreso en la implementación de los productos de la solución, específicamente enfocándose en el alcance del Sprint de la Landing Page. Se registrarán todos los commits implementados en el repositorio de Github, junto con información detallada sobre los cambios realizados y los resultados obtenidos.
+
 | Repository | Branch | Commit ID | Commit Message | Commit Message Body | Commited on (Date)|
 |-|-|-|-|-|-|
+|LandingPageFitHub|Develop|5fd819f|feat: add testimonial link to navigation|En esta sección se añadió la barra e navegación| 02/04/24|
+|LandingPageFitHub|Develop|8c41ab5|Update styles and meta tags for FitHubPro landing page| En esta añadió el archivo styles.css| 02/04/24|
 |LandingPageFitHub|Develop|7c2adbe|feat: add testimonials| En esta sección se agregó la página de testimonios.| 06/04/24|
 |LandingPageFitHub|Develop|8c3d45b|feat(index.html): Update index.html| En esta sección se agregó la página de bienvenido.| 10/04/24|
 |LandingPageFitHub|Develop|4f5f0b9|feat(styles.css): Update styles.css| En esta sección se agregó los styles para la página de bienvenido.|10/04/24|
 |LandingPageFitHub|Develop|304ff0f|feat(index.html): Update index.html| En esta sección se agregó el header y footer de la landing page.|12/04/24|
 |LandingPageFitHub|Develop|ea1466d|feat (LandingPage) Add Contact|En esta sección se agrega el formulario de contacto de la landing page|12/04/24|
-
+|LandingPageFitHub|Develop|c0565ff|feat (LandingPage) add Contact|En esta sección se editó el formulario de contacto de la landing page|12/04/24|
 
 ## 5.2.1.4 Testing Suite Evidence for Sprint Review
 - Se han realizado pruebas de funcionalidad en los enlaces de navegación para asegurar que dirijan correctamente a las secciones correspondientes.
