@@ -79,11 +79,11 @@ Tabla de historias de usuario
 | 3      | US03          | Información detallada de planes |  **Como** usuario, **quiero** obtener información detallada sobre los planes de suscripción disponibles. | 5 |
 | 4      | US04          | Testimonios de usuarios | **Como** usuario, **quiero** leer testimonios de otros usuarios para conocer sus experiencias con FitHub. | 3 |
 | 5      | US05          | Contactar fácilmente | **Como** usuario, **quiero** poder contactar con FitHub para hacer preguntas o solicitar más información. | 3 |
-|6 | | | | |
-|7 | | | | |
-|8 | | | | |
-|9 | | | | |
-|10 | | | | |
+|6       |US06 |Seguimiento de progreso	 |**Como** usuario, **quiero** poder establecer metas de entrenamiento específicas para recibir recomendaciones personalizadas.|5|
+|7       |US07 |Asesoramiento nutricional |**Como** usuario, **quiero** un asesoramiento nutricional personalizado para ajustar mi dieta diaria.|5|
+|8       |US08 |Gamificacion para aumentar la motivación |**Como** usuario, **quiero** participar en desafíos de gamificación en donde pueda tener objetivos de entrenamiento. |5|
+|9       |US09 |Personalizacion de entrenamiento |**Como** usuario, **quiero** recibir planes de entrenamiento personalizadas basadas en mis preferencias para optimizar mi rendimiento y obtener resultados en mi salud.|5|
+|10      |US10 |Planificación de sesiones de entrenamiento |**quiero** poder planificar y programar mis sesiones de entrenamiento para mantener una rutina organizada.|3|
 |11 | | | | |
 |12 | | | | |
 |13 | | | | |
