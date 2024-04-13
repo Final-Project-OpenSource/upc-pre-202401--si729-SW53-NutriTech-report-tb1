@@ -163,31 +163,34 @@ En esta entrevista se puede resaltar que, el entrevistado es un coach profesiona
 - Duración: 02:23
 
 **Transcripción de la entrevista:** <br>
-Conversamos con un apasionado profesional del coaching en ejercicio y alimentación. Su motivación inicial fue la pasión por el bienestar y la salud. En el trabajo presencial, los desafíos principales son la adaptación a necesidades individuales y la motivación constante de los clientes. Sin embargo, ve grandes beneficios en ofrecer servicios en línea, como la accesibilidad global y la flexibilidad de horarios. Para mejorar la eficacia en línea, considera herramientas como seguimiento de progreso y videoconferencias. Al seleccionar una plataforma de coaching en línea, prioriza la seguridad de datos, facilidad de uso y opciones de pago seguras. Además, una aplicación web de coaching podría mejorar la experiencia mediante seguimiento personalizado y acceso a recursos educativos adicionales, así como recordatorios automáticos para los clientes. 
+Conversamos con un apasionado profesional del coaching en ejercicio y alimentación. Su motivación inicial fue la pasión por el bienestar y la salud. En el trabajo presencial, los desafíos principales son la adaptación a necesidades individuales y la motivación constante de los clientes. Sin embargo, ve grandes beneficios en ofrecer servicios en línea, como la accesibilidad global y la flexibilidad de horarios. Para mejorar la eficacia en línea, considera herramientas como mensajería, recursos educativos, seguimiento de progreso y videoconferencias. Al seleccionar una plataforma de coaching en línea, prioriza la seguridad de datos, facilidad de uso y opciones de pago seguras. Además, una aplicación web de coaching podría mejorar la experiencia mediante seguimiento personalizado y acceso a recursos educativos adicionales, así como recordatorios automáticos para los clientes. 
 
 ---
 
 **Entrevista N°6:**
-
 ###### Figura 6
-
-
+ ![Entrevista_smg02_Jose](assets/img/capitulo2/Entrevista_sgm02_Jose.png) <br>
 **Datos principales:**
+- Nombre completo del entrevistado: Jose Cossio Matta
+- Edad: 22
+- Distrito: Ica
+- Link: [URL de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120471_upc_edu_pe/EYyl_Hf8WaRLomRT6Y4l6ucBLsZm1ZgWV4fZmbzVLj0R2Q?e=7bbDv4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- Inicio de la entrevista: 00:05
+- Duración: 11:35
 
-		
-**Transcripción de la entrevista:**
+**Transcripción de la entrevista:** <br>
+Conversamos con un profesional en nutrición. Su motivación inicial fue por ayudar a su abuela y de ahi nació la motivación de ayudar a los demás. En el trabajo presencial, los desafíos principales son el tiempo y la locación. Sin embargo, ve grandes beneficios en ofrecer servicios en línea, como la accesibilidad, la flexibilidad de horarios, el ahorro de tiempo y costos. Para mejorar la eficacia en línea, considera herramientas como seguimiento de progreso y videoconferencias. Al seleccionar una plataforma de coaching en línea, prioriza la seguridad de datos, costo estandarizado, facilidad de uso y flexibilidad de horarios. Además, una aplicación web de coaching podría mejorar la experiencia mediante seguimiento constante del progreso, feedback y comunicación contínua, así como facilidad para distribuir material educativo de calidad. 
 
----
 
 ### 2.2.3. Análisis de entrevistas
 
-**Entrevista N°1:** 
+**Segmento 1 - Individuos interesados en mejorar su salud y condición física:** 
+Las tres entrevistas muestran que todos quieren mejorar su salud y estado físico, pero cada uno tiene su historia única. Diego, Max y Valeria están todos buscando un empujón extra para lograr sus objetivos. Les importa mucho recibir consejos personalizados, aprender más sobre alimentación y tener alguien que los anime constantemente. Todos piensan que una aplicación de coaching en línea sería genial para mantenerlos en el camino correcto. Aunque, cada uno ha tenido sus propios desafíos, como la falta de motivación o la dificultad para mantenerse constante. Aprecian mucho cuando el coach se toma el tiempo para tratarlos de manera individual y los desafía a seguir adelante. En conclusión, queda claro que ofrecer un servicio de coaching en línea que se adapte a las necesidades únicas de cada persona es clave para ayudarlos a alcanzar sus metas de salud y estado físico.
 
+**Segmento 2 - Profesionales del coaching en ejercicio y alimentación:**
 
-**Entrevista N°2:**
+Las entrevistas revelan que los profesionales del coaching en ejercicio y alimentación enfrentan dificultades al trabajar en persona debido a los horarios ajustados y las distancias geográficas. Sin embargo, están entusiasmados con la idea del coaching en línea, ya que les brinda la oportunidad de superar estas barreras y hacer que sus servicios sean más accesibles para una audiencia más amplia. Consideran que herramientas como el seguimiento del progreso son fundamentales para el éxito de sus servicios en línea, ya que les permiten mantenerse al tanto del progreso de sus clientes y ajustar sus planes en consecuencia. Además, la seguridad de los datos es una preocupación importante para ellos al elegir una plataforma en línea, ya que desean garantizar la confidencialidad y privacidad de la información de sus clientes. En cuanto a las aplicaciones web de coaching, creen que podrían mejorar significativamente la experiencia del cliente al proporcionar un seguimiento más constante del progreso, una comunicación más fluida y acceso a recursos educativos adicionales. En conclusión, están entusiasmados con las posibilidades que ofrece el coaching en línea y están comprometidos a aprovechar al máximo estas herramientas para brindar un servicio excepcional a sus clientes.
 
-
-**Entrevista N°3:** 
 
 
 
