@@ -2,15 +2,15 @@
 
 ## 2.1. Competidores
 - - -
-[<p align="center"> <img src="assets/img/capitulo2/Competidores-MyFitnessPal.png" alt="MyFitnessPal" width="200">](https://www.myfitnesspal.com/es)
+[<p align="center"> <img src="/assets/img/capitulo2/Competidores-MyFitnessPal.png" alt="MyFitnessPal" width="200">](https://www.myfitnesspal.com/es)
 
 ***MyFitnessPal:*** Es una de las aplicaciones líderes en el seguimiento de alimentos y ejercicio físico. Ofrece una amplia base de datos de alimentos y permite a los usuarios realizar un seguimiento de su ingesta calórica y actividad física para ayudarles a alcanzar sus objetivos de salud y fitness. Además del seguimiento básico, MyFitnessPal también proporciona herramientas para establecer metas personalizadas, crear planes de alimentación y recibir apoyo de una comunidad activa de usuarios.
 - - -
-[<p align="center"> <img src="assets/img/capitulo2/Competidores-Noom.png" alt="Noom" width="200">](https://www.noom.com/es/blog/cuanto-cuesta-noom/)
+[<p align="center"> <img src="/assets/img/capitulo2/Competidores-Noom.png" alt="Noom" width="200">](https://www.noom.com/es/blog/cuanto-cuesta-noom/)
 
 ***Noom:*** Es una aplicación de coaching en salud y bienestar que se centra en la pérdida de peso y el cambio de hábitos. Utiliza un enfoque basado en la psicología y la tecnología para ayudar a los usuarios a desarrollar hábitos saludables a largo plazo. Noom ofrece programas personalizados de pérdida de peso, seguimiento del progreso, educación sobre nutrición y ejercicio, así como apoyo de coaches certificados.
 - - -
-[<p align="center"> <img src="assets/img/capitulo2/Competidores-NikeTrainingClub.jpg" alt="NikeTrainingClub" width="200">](https://www.nike.com/es/ntc-app)
+[<p align="center"> <img src="/assets/img/capitulo2/Competidores-NikeTrainingClub.jpg" alt="NikeTrainingClub" width="200">](https://www.nike.com/es/ntc-app)
 
 ***NikeTrainingClub:*** Es una aplicación de entrenamiento de Nike que ofrece una amplia variedad de programas de ejercicio, desde entrenamientos de fuerza hasta yoga y cardio. La aplicación incluye entrenamientos guiados por expertos, seguimiento del progreso y una comunidad activa de usuarios que comparten sus logros y motivan a otros. Además, Nike Training Club está integrado con dispositivos Nike y ofrece acceso exclusivo a contenido de entrenamiento de atletas y celebridades patrocinados por Nike.
 - - -
@@ -88,7 +88,7 @@ Análisis Competitivo organizado para todos los competidores potenciales de FitH
 
 **Entrevista N°1:**
 ###### Figura 1
-![Entrevista_Seg01_DiegoPaulino](assets/img/capitulo2/Registro_Entrevista_Seg01_DiegoPaulino.png) <br>
+![Entrevista_Seg01_DiegoPaulino](/assets/img/capitulo2/Registro_Entrevista_Seg01_DiegoPaulino.png) <br>
 
 **Datos principales:** <br>
 - Nombre y apellidos: Diego Paulino <br>
@@ -105,7 +105,7 @@ El entrevistado revela una motivación actual para mejorar su salud y condición
 
 **Entrevista N°2:**
 ###### Figura 2
-![Entrevista_Seg01_MaxSabino](assets/img/capitulo2/Registro_entrevista_Seg1_MaxSabino.PNG) <br>
+![Entrevista_Seg01_MaxSabino](/assets/img/capitulo2/Registro_entrevista_Seg1_MaxSabino.PNG) <br>
 **Datos principales:**
 - Nombre completo del entrevistado: Max Sabino
 - Edad: 22
@@ -121,7 +121,7 @@ En la entrevista con Max Sabino, un estudiante universitario de 22 años, se evi
 
 **Entrevista N°3:**
 ###### Figura 3
-![Entrevista_Seg01_ValeriaMakino](assets/img/capitulo2//Registro_Entrevista_Seg1_ValeriaMakino.png) <br>
+![Entrevista_Seg01_ValeriaMakino](/assets/img/capitulo2//Registro_Entrevista_Seg1_ValeriaMakino.png) <br>
 **Datos principales:**
 - Nombre completo del entrevistado: Valeria Makino
 - Edad: 20
@@ -137,7 +137,7 @@ En esta entrevista se puede resaltar que, la entrevistada es una estudiante que 
 
 **Entrevista N°4:**
 ###### Figura 4
-![Entrevista_Seg02_JohnLuna](assets/img/capitulo2/Registro_Entrevista_Seg2_JohnLuna.png) <br>
+![Entrevista_Seg02_JohnLuna](/assets/img/capitulo2/Registro_Entrevista_Seg2_JohnLuna.png) <br>
 **Datos principales:**
 - Nombre completo del entrevistado: John Luna
 - Edad: 26
@@ -153,7 +153,7 @@ En esta entrevista se puede resaltar que, el entrevistado es un coach profesiona
 
 **Entrevista N°5:**
 ###### Figura 5
-![Entrevista_Seg02_Andrew](assets/img/capitulo2/Entrevista_Seg02_Andrew.jpg) <br>
+![Entrevista_Seg02_Andrew](/assets/img/capitulo2/Entrevista_Seg02_Andrew.jpg) <br>
 **Datos principales:**
 - Nombre completo del entrevistado: Andrew Agama
 - Edad: 24
@@ -169,7 +169,7 @@ Conversamos con un apasionado profesional del coaching en ejercicio y alimentaci
 
 **Entrevista N°6:**
 ###### Figura 6
- ![Entrevista_smg02_Jose](assets/img/capitulo2/Entrevista_sgm02_Jose.png) <br>
+ ![Entrevista_smg02_Jose](/assets/img/capitulo2/Entrevista_sgm02_Jose.png) <br>
 **Datos principales:**
 - Nombre completo del entrevistado: Jose Cossio Matta
 - Edad: 22

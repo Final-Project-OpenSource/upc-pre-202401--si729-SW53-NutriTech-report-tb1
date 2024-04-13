@@ -489,14 +489,14 @@ En esta sección se detalla y presenta el progreso en la implementación de los 
 
 ## 5.2.1.4 Testing Suite Evidence for Sprint Review
 - Se han realizado pruebas de funcionalidad en los enlaces de navegación para asegurar que dirijan correctamente a las secciones correspondientes.
-  <br> <img src="assets/img/capitulo5/Test1.png">
+  <br> <img src="/assets/img/capitulo5/Test1.png">
 - Se han verificado las imágenes y los textos de la página de inicio para garantizar que se muestren correctamente.
 - Se han realizado pruebas de visualización en diferentes dispositivos y resoluciones para asegurar la compatibilidad y la responsividad de la página.
-<br> <img src="assets/img/capitulo5/Test2.jpg">
-<br> <img src="assets/img/capitulo5/Test2.1.png">
+<br> <img src="/assets/assets/img/capitulo5/Test2.jpg">
+<br> <img src="/assets/img/capitulo5/Test2.1.png">
 - Se han probado los botones de suscripción en la sección de planes para verificar que redirijan correctamente.
 - Se han realizado pruebas de validación en el formulario de contacto para garantizar que los campos obligatorios funcionen correctamente.
-  <br> <img src="assets/img/capitulo5/Test3.png">
+  <br> <img src="/assets/img/capitulo5/Test3.png">
   
 ## 5.2.1.5 Execution Evidence for Sprint Review
 - Se ha llevado a cabo una reunión de revisión de sprint donde se han presentado los avances y se ha demostrado el funcionamiento de la landing page.
@@ -521,7 +521,7 @@ En esta sección se detalla y presenta el progreso en la implementación de los 
 
 ## 5.2.1.8 Team Collaboration Insights during Sprint
 
-<br><img src="assets/img/capitulo5/Insights.png">
+<br><img src="/assets/img/capitulo5/Insights.png">
 
 Comunicación efectiva: Observar cómo el equipo se comunica entre sí puede proporcionar información sobre la claridad y la eficiencia de la comunicación dentro del equipo. Una comunicación abierta y transparente es esencial para la colaboración exitosa.
 Resolución de problemas: Durante el sprint, pueden surgir problemas y desafíos inesperados. La forma en que el equipo trabaja en conjunto para resolver estos problemas puede indicar su capacidad para enfrentar desafíos y adaptarse a situaciones cambiantes.
