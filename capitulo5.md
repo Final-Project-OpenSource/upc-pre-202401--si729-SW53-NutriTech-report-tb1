@@ -391,7 +391,82 @@ https://final-project-opensource.github.io/LandingPageFitHub/
 | Sprint 1 Velocity               | 19 Velocity                                                                                                                                                                                             |
 | Sum of Story Points             | 19 Story points                                                                                                                                                                                         |
 
-## 5.2.1.2 Sprint Backlog n
+## 5.2.1.2 Sprint Backlog 1
+
+Esta sección revisará todo el proceso Sprint Backlog 1, donde nuestro equipo se centró principalmente en el diseño y la disposición de las páginas de inicio y lanzamiento del producto de software. Dividimos toda la página del Landing Page en cinco (5) historias de usuario, y cada miembro del equipo se encargó de una. A través de este proceso, al final del Sprint Backlog 1, creamos una página web estática para nuestra página principal.
+
+<table>
+        <tr>
+            <td colspan="2">Sprint #</td>
+            <td colspan="6">Sprint 1</td>
+        </tr>
+        <tr>
+            <td colspan="2">User Story</td>
+            <td colspan="6">Work-Item / Task</td>
+        </tr>
+        <tr>
+            <td>Id</td>
+            <td>Title</td>
+            <td>Id</td>
+            <td>Title</td>
+            <td>Descripcion</td>
+            <td>Estimation (Hours)</td>
+            <td>Assigned To</td>
+            <td>Status (To-do / In / Process / ToReview / Done)</td>
+        </tr>
+        <tr>
+            <td>US01</td>
+            <td>Introducción atractiva</td>
+            <td>T01</td>
+            <td>Sección con descripciones detalladas sobre la startup</td>
+            <td>Como usuario, quiero ver una introducción atractiva en la página de inicio.</td>
+            <td>1 hora y 30 minutos</td>
+            <td>Valenzuela Huillcaya, Aldhair Johan Juan</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US02</td>
+            <td>Navegación intuitiva</td>
+            <td>T02</td>
+            <td>Sección de navegación de facil uso para todos</td>
+            <td>Como usuario, quiero poder navegar fácilmente por las diferentes secciones del sitio web.</td>
+            <td>1 hora </td>
+            <td>Maguiña Corzo, Ricardo Jesus </td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US03</td>
+            <td>Información detallada de planes</td>
+            <td>T03</td>
+            <td>Sección con descripciones de los planes que se ofrecen</td>
+            <td>Como usuario, quiero obtener información detallada sobre los planes de suscripción disponibles.</td>
+            <td>1 hora y 50 minutos</td>
+            <td>Ponce Loyola, Jorge Sebastian</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US04</td>
+            <td>Testimonios de usuarios</td>
+            <td>T04</td>
+            <td>Testimonios con casos de uso real de la aplicación </td>
+            <td>Como usuario, quiero leer testimonios de otros usuarios para conocer sus experiencias con FitHub.</td>
+            <td>1 hora</td>
+            <td>Cueto Dominguez, Juan Diego</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US05</td>
+            <td>Contactar fácilmente</td>
+            <td>T05</td>
+            <td>Cuestionario de contacto de parte del cliente hacia los administradores.</td>
+            <td>Como usuario, quiero poder contactar con FitHub para hacer preguntas o solicitar más información.</td>
+            <td>40 minutos</td>
+            <td>Shimabukuro Uku, Carlos Joel </td>
+            <td>Done</td>
+        </tr>
+          
+  </table>
+
 ## 5.2.1.3 Development Evidence for Sprint Review
 ## 5.2.1.4 Testing Suite Evidence for Sprint Review
 - Se han realizado pruebas de funcionalidad en los enlaces de navegación para asegurar que dirijan correctamente a las secciones correspondientes.
