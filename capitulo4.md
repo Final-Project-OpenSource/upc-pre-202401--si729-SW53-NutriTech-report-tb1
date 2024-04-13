@@ -276,9 +276,9 @@ URL del diseño: https://miro.com/welcomeonboard/bVJRWnIzUXhnVHhnOGxhMnZmbUh0N3V
 
 ## 4.5 Web Applications Prototyping
 
-Link prototipo:
+URL prototipo: https://www.figma.com/proto/2PFr490tJXkkgkvzRfoe3B/FitHub-Aplicacion-Web?type=design&node-id=7-94&t=zxzZbFgfzoZNNSHI-1&scaling=contain&page-id=0%3A1&starting-point-node-id=7%3A2&mode=design
 
-Link video demostrativo:
+URL video demostrativo: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f572_upc_edu_pe/EexVUwCb6J9EshsGxMfe3vABtrtGVehEE8UCDp51O1dkkQ?e=n2kidl&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 ## 4.6 Domain-Driven Software Architecture
 ## 4.6.1 Software Architecture Context Diagram
