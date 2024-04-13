@@ -395,13 +395,14 @@ https://final-project-opensource.github.io/LandingPageFitHub/
 ## 5.2.1.3 Development Evidence for Sprint Review
 ## 5.2.1.4 Testing Suite Evidence for Sprint Review
 - Se han realizado pruebas de funcionalidad en los enlaces de navegación para asegurar que dirijan correctamente a las secciones correspondientes.
-  <br> <img src="">
+  <br> <img src="assets/img/capitulo5/Test1.png">
 - Se han verificado las imágenes y los textos de la página de inicio para garantizar que se muestren correctamente.
 - Se han realizado pruebas de visualización en diferentes dispositivos y resoluciones para asegurar la compatibilidad y la responsividad de la página.
-<br> <img src="">
+<br> <img src="assets/img/capitulo5/Test2.jpg">
+<br> <img src="assets/img/capitulo5/Test2.1.png">
 - Se han probado los botones de suscripción en la sección de planes para verificar que redirijan correctamente.
 - Se han realizado pruebas de validación en el formulario de contacto para garantizar que los campos obligatorios funcionen correctamente.
-  <br> <img src="">
+  <br> <img src="assets/img/capitulo5/Test3.png">
 ## 5.2.1.5 Execution Evidence for Sprint Review
 - Se ha llevado a cabo una reunión de revisión de sprint donde se han presentado los avances y se ha demostrado el funcionamiento de la landing page.
 - Se han realizado demostraciones de las funcionalidades implementadas, como los enlaces de navegación, las imágenes y textos, los botones de suscripción y el formulario de contacto.
