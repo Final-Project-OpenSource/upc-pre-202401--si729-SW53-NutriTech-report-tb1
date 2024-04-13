@@ -27,7 +27,7 @@ Tabla de épicas establecidas para las historias de usuarios.
 | EP01    | Experiencia del Visitante                 |
 | EP02    | Experiencia de entrenamiento y nutrición  |
 | EP03    | Desarrollo de Funcionalidades Principales |
-| EP04    |                                           |
+| EP04    | Mejoras de Interactividad y Experiencia del Usuario|
 | EP05    | Manejo de Cuenta de Usuario y de Busqueda |
 
 ###### Tabla 9.
