@@ -67,20 +67,28 @@ Análisis Competitivo organizado para todos los competidores potenciales de FitH
 
 ### 2.2.1. Diseño de entrevistas
 * **Individuos interesados en mejorar su salud y condición física:**
-1. ¿Qué te ha motivado a buscar maneras de mejorar tu salud y condición física en este momento?
-2. ¿Cuál ha sido tu experiencia previa al intentar adoptar un estilo de vida más saludable? ¿Qué obstáculos has enfrentado?
-3. ¿Qué tipo de apoyo o orientación te resultaría más útil para alcanzar tus objetivos de salud y condición física?
-4. ¿Cómo crees que una Aplicación web de coaching en línea podría ayudarte a mantenerte motivado y comprometido con tus metas de bienestar?
-5. ¿Qué características considerarías más importantes al elegir un servicio de coaching en línea para ayudarte a alcanzar tus objetivos de salud y condición física?
-6. ¿Qué esperas obtener de un coach profesional en términos de apoyo y seguimiento en tu viaje hacia un estilo de vida más saludable?
+1. ¿Cuál es tu nombre?
+2. ¿Qué edad tienes?
+3. ¿A que te dedicas actualmente?
+4. ¿En qué distrito vives?
+5. ¿Qué te ha motivado a buscar maneras de mejorar tu salud y condición física en este momento?
+6. ¿Cuál ha sido tu experiencia previa al intentar adoptar un estilo de vida más saludable? ¿Qué obstáculos has enfrentado?
+7. ¿Qué tipo de apoyo o orientación te resultaría más útil para alcanzar tus objetivos de salud y condición física?
+8. ¿Cómo crees que una Aplicación web de coaching en línea podría ayudarte a mantenerte motivado y comprometido con tus metas de bienestar?
+9. ¿Qué características considerarías más importantes al elegir un servicio de coaching en línea para ayudarte a alcanzar tus objetivos de salud y condición física?
+10. ¿Qué esperas obtener de un coach profesional en términos de apoyo y seguimiento en tu viaje hacia un estilo de vida más saludable?
 
 * **Profesionales del coaching en ejercicio y alimentación:**
-1. ¿Qué te llevó a convertirte en un profesional del coaching en ejercicio o alimentación?
-2. ¿Cuáles son los mayores desafíos que enfrentas al trabajar con clientes de manera presencial?
-3. ¿Qué beneficios ves en la posibilidad de ofrecer servicios de coaching en línea?
-4. ¿Qué herramientas o características crees que serían más útiles para ti al proporcionar servicios de coaching en línea a tus clientes?
-5. ¿Qué aspectos considerarías críticos al seleccionar una plataforma de coaching en línea para ofrecer tus servicios profesionales?
-6. ¿Cómo crees que una aplicación web de coaching  podría mejorar la eficacia de tu trabajo como coach y la experiencia de tus clientes?
+1. ¿Cuál es tu nombre?
+2. ¿Qué edad tienes?
+3. ¿A que te dedicas actualmente?
+4. ¿En qué distrito vives?
+5. ¿Qué te llevó a convertirte en un profesional del coaching en ejercicio o alimentación?
+6. ¿Cuáles son los mayores desafíos que enfrentas al trabajar con clientes de manera presencial?
+7. ¿Qué beneficios ves en la posibilidad de ofrecer servicios de coaching en línea?
+8. ¿Qué herramientas o características crees que serían más útiles para ti al proporcionar servicios de coaching en línea a tus clientes?
+9. ¿Qué aspectos considerarías críticos al seleccionar una plataforma de coaching en línea para ofrecer tus servicios profesionales?
+10. ¿Cómo crees que una aplicación web de coaching  podría mejorar la eficacia de tu trabajo como coach y la experiencia de tus clientes?
 
 
 
@@ -185,12 +193,25 @@ Conversamos con un profesional en nutrición. Su motivación inicial fue por ayu
 ### 2.2.3. Análisis de entrevistas
 
 **Segmento 1 - Individuos interesados en mejorar su salud y condición física:** 
-Las tres entrevistas muestran que todos quieren mejorar su salud y estado físico, pero cada uno tiene su historia única. Diego, Max y Valeria están todos buscando un empujón extra para lograr sus objetivos. Les importa mucho recibir consejos personalizados, aprender más sobre alimentación y tener alguien que los anime constantemente. Todos piensan que una aplicación de coaching en línea sería genial para mantenerlos en el camino correcto. Aunque, cada uno ha tenido sus propios desafíos, como la falta de motivación o la dificultad para mantenerse constante. Aprecian mucho cuando el coach se toma el tiempo para tratarlos de manera individual y los desafía a seguir adelante. En conclusión, queda claro que ofrecer un servicio de coaching en línea que se adapte a las necesidades únicas de cada persona es clave para ayudarlos a alcanzar sus metas de salud y estado físico.
+Las tres entrevistas muestran que todos quieren mejorar su salud y estado físico, pero cada uno tiene su historia única. Diego, Max y Valeria están todos buscando un empujón extra para lograr sus objetivos. Les importa mucho recibir consejos personalizados, aprender más sobre alimentación y tener alguien que los anime constantemente. Todos piensan que una aplicación de coaching en línea sería genial para mantenerlos en el camino correcto. Aunque, cada uno ha tenido sus propios desafíos, como la falta de motivación o la dificultad para mantenerse constante. Aprecian mucho cuando el coach se toma el tiempo para tratarlos de manera individual y los desafía a seguir adelante. En conclusión, queda claro que ofrecer un servicio de coaching en línea que se adapte a las necesidades únicas de cada persona es clave para ayudarlos a alcanzar sus metas de salud y estado físico.  Como señalan Gómez y Belmonte(2020), “El coaching educativo es una herramienta que guía a los estudiantes por su camino hacia el éxito educativo”, lo que resalta la importancia del coaching personalizado en el camino hacia la mejora de la salud y la condición física, ya que cada individuo tiene necesidades y objetivos únicos.
 
 **Segmento 2 - Profesionales del coaching en ejercicio y alimentación:**
 
-Las entrevistas revelan que los profesionales del coaching en ejercicio y alimentación enfrentan dificultades al trabajar en persona debido a los horarios ajustados y las distancias geográficas. Sin embargo, están entusiasmados con la idea del coaching en línea, ya que les brinda la oportunidad de superar estas barreras y hacer que sus servicios sean más accesibles para una audiencia más amplia. Consideran que herramientas como el seguimiento del progreso son fundamentales para el éxito de sus servicios en línea, ya que les permiten mantenerse al tanto del progreso de sus clientes y ajustar sus planes en consecuencia. Además, la seguridad de los datos es una preocupación importante para ellos al elegir una plataforma en línea, ya que desean garantizar la confidencialidad y privacidad de la información de sus clientes. En cuanto a las aplicaciones web de coaching, creen que podrían mejorar significativamente la experiencia del cliente al proporcionar un seguimiento más constante del progreso, una comunicación más fluida y acceso a recursos educativos adicionales. En conclusión, están entusiasmados con las posibilidades que ofrece el coaching en línea y están comprometidos a aprovechar al máximo estas herramientas para brindar un servicio excepcional a sus clientes.
+Las entrevistas revelan que los profesionales del coaching en ejercicio y alimentación enfrentan dificultades al trabajar en persona debido a los horarios ajustados y las distancias geográficas. Sin embargo, están entusiasmados con la idea del coaching en línea, ya que les brinda la oportunidad de superar estas barreras y hacer que sus servicios sean más accesibles para una audiencia más amplia. Consideran que herramientas como el seguimiento del progreso son fundamentales para el éxito de sus servicios en línea, ya que les permiten mantenerse al tanto del progreso de sus clientes y ajustar sus planes en consecuencia. Además, la seguridad de los datos es una preocupación importante para ellos al elegir una plataforma en línea, ya que desean garantizar la confidencialidad y privacidad de la información de sus clientes. En cuanto a las aplicaciones web de coaching, creen que podrían mejorar significativamente la experiencia del cliente al proporcionar un seguimiento más constante del progreso, una comunicación más fluida y acceso a recursos educativos adicionales. En conclusión, están entusiasmados con las posibilidades que ofrece el coaching en línea y están comprometidos a aprovechar al máximo estas herramientas para brindar un servicio excepcional a sus clientes.  Como señalan Gavilano, Ayasta et al.(2019), “Las organizaciones requieren de la implementación de estrategias gerenciales que le permitan garantizar el cumplimiento de objetivos y metas fundamentales en su gestión organizacional”, lo que se puede extrapolar a los profesionales del coaching en ejercicio y alimentación.
 
+###### Cuadros Estadísticos.
+<img src="/assets/img/capitulo2/Estadísticas-Segm1-1.png">
+<img src="/assets/img/capitulo2/Estadísticas-Segm1-2.png">
+<img src="/assets/img/capitulo2/Estadísticas-Segm1-3.png">
+<img src="/assets/img/capitulo2/Estadísticas-Segm1-4.png">
+<img src="/assets/img/capitulo2/Estadísticas-Segm1-5.png">
+<img src="/assets/img/capitulo2/Estadísticas-Segm1-6.png">
+<img src="/assets/img/capitulo2/Estadísticas-Segm2-1.png">
+<img src="/assets/img/capitulo2/Estadísticas-Segm2-2.png">
+<img src="/assets/img/capitulo2/Estadísticas-Segm2-3.png">
+<img src="/assets/img/capitulo2/Estadísticas-Segm2-4.png">
+<img src="/assets/img/capitulo2/Estadísticas-Segm2-5.png">
+<img src="/assets/img/capitulo2/Estadísticas-Segm2-6.png">
 
 
 
