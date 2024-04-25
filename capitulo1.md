@@ -231,7 +231,7 @@ Mi nombre es Juan Diego Cueto Dominguez, actualmente soy estudiante de la carrer
 #### Valenzuela Huillcaya, Aldhair Johan Juan - U20201F572 - Ingeniería de Software
 Soy estudiante de Ingeniería de software en la Universidad peruana de Ciencias Aplicadas (UPC). Me considero una persona altamente responsable, organizada, puntual y empática. Mi capacidad de adaptación a entornos cambiantes y habilidad para trabajar colaborativamente en equipo son aspectos destacados de mi perfil. Tengo conocimientos en Python, C++, HTML, CSS, Javascript, MySQL, MongoDB y SQLite.
 
-<img src="/assets/img/capitulo1/Profile-Aldhair-.png"  alt="Aldhair Johan Juan Valenzuela Huillcaya" width="200" height="250">
+<img src="/assets/img/capitulo1/Profile_Aldhair_2.jpg"  alt="Aldhair Johan Juan Valenzuela Huillcaya" width="200" height="250">
 
 ---
 
