@@ -528,7 +528,35 @@ Resolución de problemas: Durante el sprint, pueden surgir problemas y desafíos
 Apoyo mutuo: Observar cómo los miembros del equipo se apoyan entre sí puede revelar la fortaleza de las relaciones dentro del equipo y su capacidad para trabajar juntos hacia un objetivo común.
 Creatividad e innovación: La colaboración efectiva a menudo fomenta la creatividad y la innovación. Observar cómo el equipo genera nuevas ideas y enfoques para abordar problemas puede proporcionar información valiosa sobre su capacidad para pensar de manera creativa y adaptarse a nuevas situaciones.
 Toma de decisiones: Durante el sprint, el equipo puede enfrentarse a decisiones importantes que afectan el progreso del trabajo. Observar cómo el equipo toma decisiones colectivas puede proporcionar información sobre su capacidad para llegar a consensos y tomar decisiones informadas.
+## 5.2.2. Sprint 2
+## 5.2.2.1.Sprint Planning 2.
+| **Sprint**                      |                                                                                                                                                                                                         |
+|:--------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Sprint Planning Background      |                                                                                                                                                                                                         |
+| Date                            | 15/04/2023                                                                                                                                                                                              |
+| Time                            | 01:00 PM                                                                                                                                                                                                |
+| Location                        | Servidor de Discord del Equipo                                                                                                                                                                          |
+| Prepared By                     | Jorge Sebastian Ponce Loyola                                                                                                                                                                             |
+| Attendees (to planning meeting) | Ponce Loyola, Jorge Sebastian /Shimabukuro Uku, Carlos Joel / Cueto Dominguez, Juan Diego / Valenzuela Huillcaya, Aldhair Johan Juan / Maguiña Corzo, Ricardo Jesus                                     |
+| Sprint n Review Summary         | En la entrega anterior realizamos exitosamente la landing page de FitHub Pr                                                                                                                   |
+| Sprint n Retrospective Summary  | Realizamos un buen trabajo, pero con algunas mejoras por realizar                                                                                                                |
+| Sprint Goal & User Stories      |                                                                                                                                                                                                         |
+| Sprint 2 Goal                   | La meta de este Sprint es realizar el avance de la Aplicación Web de FitHub, tanto su visualización, creacion del repositorio, acceso al repositorio y funcionalidad |
+| Sprint 2 Velocity               | 43 Velocity                                                                                                                                                                                             |
+| Sum of Story Points             | 43 Story points                                                                                                                                                                                         |
+## 5.2.2.2.Sprint Backlog 2.
+## 5.2.2.3.Development Evidence for Sprint Review.
+| Repository | Branch | Commit ID | Commit Message | Commit Message Body | Commited on (Date)|
+|-|-|-|-|-|-|
+|FitHub-Web-Application|Develop|ed946a7|chore(setup): initial project structure|En esta sección se añadió la estructura inicial para el proyecto|22/04/24|
+|FitHub-Web-Application|Develop|746f6af|fix(structure): corrections in project structure| En esta se realizaron algunas correciones en la estructura del proyecto| 22/04/24|
+|FitHub-Web-Application|Develop|827564c|feat: add landing-page, login, register and recovery-passwords| En esta sección se agregó el login, register, recovery-password y la landing page, todo conectado entre sí.| 06/04/24|
 
+## 5.2.2.4.Testing Suite Evidence for Sprint Review.
+## 5.2.2.5.Execution Evidence for Sprint Review.
+## 5.2.2.6.Services Documentation Evidence for Sprint Review.
+## 5.2.2.7.Software Deployment Evidence for Sprint Review.
+## 5.2.2.8.Team Collaboration Insights during Sprint.
 # Conclusiones y Recomendaciones
 Conclusiones:
 
