@@ -556,8 +556,17 @@ Toma de decisiones: Durante el sprint, el equipo puede enfrentarse a decisiones 
 ## 5.2.2.4.Testing Suite Evidence for Sprint Review.
 ## 5.2.2.5.Execution Evidence for Sprint Review.
 ## 5.2.2.6.Services Documentation Evidence for Sprint Review.
+- Se ha creado la estructura inicial del proyecto en la rama Develop del repositorio FitHub-Web-Application, con el commit ID ed946a7, el cual incluye la configuración inicial del proyecto.
+- Se realizaron correcciones en la estructura del proyecto en la rama Develop del repositorio FitHub-Web-Application, con el commit ID 746f6af, abordando aspectos identificados para mejorar la organización del código.
+- Se agregaron funcionalidades clave, incluyendo la página de inicio, el inicio de sesión, el registro de usuarios y la recuperación de contraseñas en la rama Develop del repositorio FitHub-Web-Application, con el commit ID 827564c, interconectándolos para una experiencia de usuario fluida.
+- Se ha añadido la funcionalidad para visualizar información del coach y un formulario de contacto para comunicarse con el coach en la rama Develop del repositorio FitHub-Web-Application, con el commit ID ef1ec77, ampliando así las capacidades de la aplicación web.
 ## 5.2.2.7.Software Deployment Evidence for Sprint Review.
 ## 5.2.2.8.Team Collaboration Insights during Sprint.
+Comunicación efectiva: Observar cómo el equipo se comunica entre sí puede proporcionar información sobre la claridad y la eficiencia de la comunicación dentro del equipo. Una comunicación abierta y transparente es esencial para la colaboración exitosa.
+Resolución de problemas: Durante el sprint, pueden surgir problemas y desafíos inesperados. La forma en que el equipo trabaja en conjunto para resolver estos problemas puede indicar su capacidad para enfrentar desafíos y adaptarse a situaciones cambiantes.
+Apoyo mutuo: Observar cómo los miembros del equipo se apoyan entre sí puede revelar la fortaleza de las relaciones dentro del equipo y su capacidad para trabajar juntos hacia un objetivo común.
+Creatividad e innovación: La colaboración efectiva a menudo fomenta la creatividad y la innovación. Observar cómo el equipo genera nuevas ideas y enfoques para abordar problemas puede proporcionar información valiosa sobre su capacidad para pensar de manera creativa y adaptarse a nuevas situaciones.
+Toma de decisiones: Durante el sprint, el equipo puede enfrentarse a decisiones importantes que afectan el progreso del trabajo. Observar cómo el equipo toma decisiones colectivas puede proporcionar información sobre su capacidad para llegar a consensos y tomar decisiones informadas.
 # Conclusiones y Recomendaciones
 Conclusiones:
 
