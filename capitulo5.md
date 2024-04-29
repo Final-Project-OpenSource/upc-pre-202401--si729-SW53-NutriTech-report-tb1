@@ -562,11 +562,11 @@ Toma de decisiones: Durante el sprint, el equipo puede enfrentarse a decisiones 
 - Se ha añadido la funcionalidad para visualizar información del coach y un formulario de contacto para comunicarse con el coach en la rama Develop del repositorio FitHub-Web-Application, con el commit ID ef1ec77, ampliando así las capacidades de la aplicación web.
 ## 5.2.2.7.Software Deployment Evidence for Sprint Review.
 ## 5.2.2.8.Team Collaboration Insights during Sprint.
-Comunicación efectiva: Observar cómo el equipo se comunica entre sí puede proporcionar información sobre la claridad y la eficiencia de la comunicación dentro del equipo. Una comunicación abierta y transparente es esencial para la colaboración exitosa.<br>
-Resolución de problemas: Durante el sprint, pueden surgir problemas y desafíos inesperados. La forma en que el equipo trabaja en conjunto para resolver estos problemas puede indicar su capacidad para enfrentar desafíos y adaptarse a situaciones cambiantes.<br>
-Apoyo mutuo: Observar cómo los miembros del equipo se apoyan entre sí puede revelar la fortaleza de las relaciones dentro del equipo y su capacidad para trabajar juntos hacia un objetivo común.<br>
-Creatividad e innovación: La colaboración efectiva a menudo fomenta la creatividad y la innovación. Observar cómo el equipo genera nuevas ideas y enfoques para abordar problemas puede proporcionar información valiosa sobre su capacidad para pensar de manera creativa y adaptarse a nuevas situaciones.<br>
-Toma de decisiones: Durante el sprint, el equipo puede enfrentarse a decisiones importantes que afectan el progreso del trabajo. Observar cómo el equipo toma decisiones colectivas puede proporcionar información sobre su capacidad para llegar a consensos y tomar decisiones informadas.<br>
+Durante el sprint, se observó una alta interacción entre los miembros del equipo, evidenciada por la frecuente comunicación en el servidor de Discord del equipo.<br>
+Se notó un compromiso compartido hacia los objetivos del sprint, con los miembros trabajando de manera colaborativa para superar los desafíos y alcanzar los hitos establecidos.<br>
+La retroalimentación constructiva fue una parte integral del proceso, con los miembros proporcionando comentarios útiles sobre el progreso del trabajo y buscando constantemente mejorar la calidad del producto.<br>
+La distribución equitativa de tareas y responsabilidades promovió un ambiente de trabajo inclusivo y fomentó la participación activa de todos los miembros del equipo.<br>
+La transparencia en la comunicación y la disposición para compartir conocimientos contribuyeron a un flujo de trabajo eficiente y a una mayor cohesión dentro del equipo.<br>
 # Conclusiones y Recomendaciones
 Conclusiones:
 
