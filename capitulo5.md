@@ -697,7 +697,9 @@ Toma de decisiones: Durante el sprint, el equipo puede enfrentarse a decisiones 
             <td>Done</td>
         </tr>
   </table>
+  
 ## 5.2.2.3.Development Evidence for Sprint Review.
+
 | Repository | Branch | Commit ID | Commit Message | Commit Message Body | Commited on (Date)|
 |-|-|-|-|-|-|
 |FitHub-Web-Application|Develop|ed946a7|chore(setup): initial project structure|En esta sección se añadió la estructura inicial para el proyecto|22/04/24|
