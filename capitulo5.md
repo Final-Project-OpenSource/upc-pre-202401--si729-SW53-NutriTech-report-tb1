@@ -715,18 +715,13 @@ Toma de decisiones: Durante el sprint, el equipo puede enfrentarse a decisiones 
 - Se han llevado a cabo pruebas de rendimiento y optimización para garantizar que la aplicación web sea rápida y eficiente en su funcionamiento.
 - Se han realizado pruebas de compatibilidad y responsividad en diferentes dispositivos y navegadores para asegurar una experiencia de usuario consistente y de alta calidad.
 <br><br>
-- **Evidencia de pruebas de funcionalidad de la seccion de inicio de sesión.**
-![](assets/img/capitulo5/Execution-Evidence-for-Sprint-Review-1.PNG)
-![](assets/img/capitulo5/Execution-Evidence-for-Sprint-Review-2.PNG)
-![](assets/img/capitulo5/Execution-Evidence-for-Sprint-Review-6.PNG)
+- **Evidencia de pruebas de componentes de la aplicación web.**
+![](assets/img/capitulo5/Test-Suite-Evidence-1.PNG)
 <br><br>
-- **Evidencia de pruebas de funcionalidad del contacto de coach.**
-![](assets/img/capitulo5/Execution-Evidence-for-Sprint-Review-7.PNG)
-![](assets/img/capitulo5/Execution-Evidence-for-Sprint-Review-8.PNG)
-  <br><br>
-- **Evidencia de pruebas de funcionalidad de la página de perfil del coach y miembro.**
-![](assets/img/capitulo5/Execution-Evidence-for-Sprint-Review-9.PNG)
-![](assets/img/capitulo5/Execution-Evidence-for-Sprint-Review-10.PNG)
+- **Evidencia de pruebas de enrutamientos de secciones de la aplicación web.**
+![](assets/img/capitulo5/Test-Suite-Evidence-2.PNG)
+![](assets/img/capitulo5/Test-Suite-Evidence-3.PNG)
+![](assets/img/capitulo5/Test-Suite-Evidence-4.PNG)
   <br><br>
 ## 5.2.2.5.Execution Evidence for Sprint Review.
 - Se ha llevado a cabo una reunión de revisión de sprint donde se han presentado los avances y se ha demostrado el funcionamiento de la aplicación web.
@@ -736,7 +731,19 @@ Toma de decisiones: Durante el sprint, el equipo puede enfrentarse a decisiones 
 - Se ha preparado la documentación necesaria para la revisión del sprint, incluyendo los artefactos de desarrollo, pruebas y ejecución.
 - Se ha compartido el enlace de la aplicación web desplegada con el equipo para que puedan revisarla y proporcionar comentarios.
 - Se ha actualizado la documentación de despliegue con los detalles del proceso y los resultados obtenidos.
-
+  <br><br>
+- **Evidencia de ejecución de funcionalidad de la seccion de inicio de sesión.**
+  ![](assets/img/capitulo5/Execution-Evidence-for-Sprint-Review-1.PNG)
+  ![](assets/img/capitulo5/Execution-Evidence-for-Sprint-Review-2.PNG)
+  ![](assets/img/capitulo5/Execution-Evidence-for-Sprint-Review-6.PNG)
+  <br><br>
+- **Evidencia de ejecución de funcionalidad del contacto de coach.**
+  ![](assets/img/capitulo5/Execution-Evidence-for-Sprint-Review-7.PNG)
+  ![](assets/img/capitulo5/Execution-Evidence-for-Sprint-Review-8.PNG)
+  <br><br>
+- **Evidencia de ejecución de funcionalidad de la página de perfil del coach y miembro.**
+  ![](assets/img/capitulo5/Execution-Evidence-for-Sprint-Review-9.PNG)
+  ![](assets/img/capitulo5/Execution-Evidence-for-Sprint-Review-10.PNG)
 ## 5.2.2.6.Services Documentation Evidence for Sprint Review.
 - Se ha creado la estructura inicial del proyecto en la rama Develop del repositorio FitHub-Web-Application, con el commit ID ed946a7, el cual incluye la configuración inicial del proyecto.
 - Se realizaron correcciones en la estructura del proyecto en la rama Develop del repositorio FitHub-Web-Application, con el commit ID 746f6af, abordando aspectos identificados para mejorar la organización del código.
