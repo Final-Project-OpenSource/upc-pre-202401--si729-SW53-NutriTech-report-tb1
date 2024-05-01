@@ -706,6 +706,7 @@ Toma de decisiones: Durante el sprint, el equipo puede enfrentarse a decisiones 
 |FitHub-Web-Application|Develop|746f6af|fix(structure): corrections in project structure| En esta se realizaron algunas correciones en la estructura del proyecto| 22/04/24|
 |FitHub-Web-Application|Develop|827564c|feat: add landing-page, login, register and recovery-passwords| En esta sección se agregó el login, register, recovery-password y la landing page, todo conectado entre sí.| 25/04/24|
 |FitHub-Web-Application|Develop|ef1ec77|feat: add coach-information feat: add coach-contact| En esta sección se agregó la información del coach y el formulario para contactar al coach.|26/04/24|
+|FitHub-Web-Application|Develop|1d3a542|feat: add profile-components|En esta sección se la page de profile.|30/04/24|
 
 ## 5.2.2.4.Testing Suite Evidence for Sprint Review.
 ## 5.2.2.5.Execution Evidence for Sprint Review.
