@@ -284,9 +284,9 @@ URL video demostrativo: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201
 ## 4.6.1 Software Architecture Context Diagram
 ![Software Architecture Context Diagram](assets/img/capitulo4/context-diagram.png)
 ## 4.6.2 Software Architecture Container Diagrams
-![Software Architecture Container Diagrams](assets/img/capitulo4/container-diagram.png)
+![Software Architecture Container Diagrams](assets/img/capitulo4/conatiner-diagram-1.png)
 ## 4.6.3 Software Architecture Components Diagrams
-![Software Architecture Components Diagrams](assets/img/capitulo4/component-diagram.png)
+![Software Architecture Components Diagrams](assets/img/capitulo4/component-diagram-1.png)
 
 ## 4.7 Software Object-Oriented Design
 ## 4.7.1 Class Diagrams
