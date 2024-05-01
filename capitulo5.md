@@ -750,6 +750,11 @@ Toma de decisiones: Durante el sprint, el equipo puede enfrentarse a decisiones 
 - Se agregaron funcionalidades clave, incluyendo la página de inicio, el inicio de sesión, el registro de usuarios y la recuperación de contraseñas en la rama Develop del repositorio FitHub-Web-Application, con el commit ID 827564c, interconectándolos para una experiencia de usuario fluida.
 - Se ha añadido la funcionalidad para visualizar información del coach y un formulario de contacto para comunicarse con el coach en la rama Develop del repositorio FitHub-Web-Application, con el commit ID ef1ec77, ampliando así las capacidades de la aplicación web.
 ## 5.2.2.7.Software Deployment Evidence for Sprint Review.
+- El aplicativo web ha sido desplegado en un entorno de prueba para evaluar su funcionamiento en un entorno real y controlado.
+- Se han elaborado registros de despliegue que detallan el proceso de implementación.
+- Se ha llevado a cabo una revisión final del aplicativo web desplegado para garantizar que todas sus características y funcionalidades estén activas y cumplan con los requisitos establecidos durante el desarrollo.
+- Se ha compartido el enlace del aplicativo web desplegado con el equipo para que puedan examinarlo, ofrecer comentarios y realizar las modificaciones necesarias.
+- La documentación de despliegue ha sido actualizada con los detalles del proceso y los resultados obtenidos.
 ## 5.2.2.8.Team Collaboration Insights during Sprint.
 Durante el sprint, se observó una alta interacción entre los miembros del equipo, evidenciada por la frecuente comunicación en el servidor de Discord del equipo.<br>
 Se notó un compromiso compartido hacia los objetivos del sprint, con los miembros trabajando de manera colaborativa para superar los desafíos y alcanzar los hitos establecidos.<br>
