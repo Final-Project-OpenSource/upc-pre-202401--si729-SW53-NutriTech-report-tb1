@@ -528,7 +528,239 @@ Resolución de problemas: Durante el sprint, pueden surgir problemas y desafíos
 Apoyo mutuo: Observar cómo los miembros del equipo se apoyan entre sí puede revelar la fortaleza de las relaciones dentro del equipo y su capacidad para trabajar juntos hacia un objetivo común.
 Creatividad e innovación: La colaboración efectiva a menudo fomenta la creatividad y la innovación. Observar cómo el equipo genera nuevas ideas y enfoques para abordar problemas puede proporcionar información valiosa sobre su capacidad para pensar de manera creativa y adaptarse a nuevas situaciones.
 Toma de decisiones: Durante el sprint, el equipo puede enfrentarse a decisiones importantes que afectan el progreso del trabajo. Observar cómo el equipo toma decisiones colectivas puede proporcionar información sobre su capacidad para llegar a consensos y tomar decisiones informadas.
+## 5.2.2. Sprint 2
+## 5.2.2.1.Sprint Planning 2.
+| **Sprint**                      |                                                                                                                                                                                                         |
+|:--------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Sprint Planning Background      |                                                                                                                                                                                                         |
+| Date                            | 15/04/2023                                                                                                                                                                                              |
+| Time                            | 01:00 PM                                                                                                                                                                                                |
+| Location                        | Servidor de Discord del Equipo                                                                                                                                                                          |
+| Prepared By                     | Jorge Sebastian Ponce Loyola                                                                                                                                                                             |
+| Attendees (to planning meeting) | Ponce Loyola, Jorge Sebastian /Shimabukuro Uku, Carlos Joel / Cueto Dominguez, Juan Diego / Valenzuela Huillcaya, Aldhair Johan Juan / Maguiña Corzo, Ricardo Jesus                                     |
+| Sprint n Review Summary         | En la entrega anterior realizamos exitosamente la landing page de FitHub Pr                                                                                                                   |
+| Sprint n Retrospective Summary  | Realizamos un buen trabajo, pero con algunas mejoras por realizar                                                                                                                |
+| Sprint Goal & User Stories      |                                                                                                                                                                                                         |
+| Sprint 2 Goal                   | La meta de este Sprint es realizar el avance de la Aplicación Web de FitHub, tanto su visualización, creacion del repositorio, acceso al repositorio y funcionalidad |
+| Sprint 2 Velocity               | 43 Velocity                                                                                                                                                                                             |
+| Sum of Story Points             | 43 Story points                                                                                                                                                                                         |
+## 5.2.2.2.Sprint Backlog 2.
 
+
+<table>
+        <tr>
+            <td colspan="2">Sprint #</td>
+            <td colspan="6">Sprint 2</td>
+        </tr>
+        <tr>
+            <td colspan="2">User Story</td>
+            <td colspan="6">Work-Item / Task</td>
+        </tr>
+        <tr>
+            <td>Id</td>
+            <td>Title</td>
+            <td>Id</td>
+            <td>Title</td>
+            <td>Descripcion</td>
+            <td>Estimation (Hours)</td>
+            <td>Assigned To</td>
+            <td>Status (To-do / In / Process / ToReview / Done)</td>
+        </tr>
+        <tr>
+            <td>US06</td>
+            <td>Seguimiento de progreso al usuario en FitHub por medio de su coach encargado</td>
+            <td>T01</td>
+            <td>Página donde se muestra el seguimineto del progreso.</td>
+            <td>Como usuario de FitHub, quiero poder establecer metas de entrenamiento específicas para recibir recomendaciones personalizadas por parte del coach especializado.</td>
+            <td>1 hora y 30 minutos</td>
+            <td>Juan Diego Cueto</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US07</td>
+            <td>Asesoramiento nutricional dentro de FitHub con especialistas en nutrición</td>
+            <td>T02</td>
+            <td>Página donde se visualiza el asesoramiento nutricional del especialista.</td>
+            <td>Como usuario de FitHub, quiero poder acceder a un asesoramiento nutricional personalizado a mis metas para ajustar mi dieta diaria.</td>
+            <td>1 hora </td>
+            <td>Carlos Shimabukuro</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US08</td>
+            <td>Gamificación para aumentar la motivación a realizar actividades físicas en FitHub.</td>
+            <td>T03</td>
+            <td>Página donde se pueden inscribir a retos dentro de la aplicación.</td>
+            <td>Como usuario de FitHub, quiero participar en esafíos de gmaificacion en donde se pueda tener objetivos de entrenamientos.</td>
+            <td>1 hora y 50 minutos</td>
+            <td>Ricardo Maguiña</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US09</td>
+            <td>Personalización de entrenamiento por el coach.</td>
+            <td>T04</td>
+            <td>Página donde se puede personalizar el entrenamiento que te brinda tu coach.</td>
+            <td>Como usuario de FitHub, quiero recibir planes de entrenamiento personalizadas basadas en mis preferencias para optimizar mi rendimiento y obtener resultados en mi salud.</td>
+            <td>1 hora</td>
+            <td>Aldhair Valenzuela</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US10</td>
+            <td>Planificacion de sesiones de entrenamiento con un coach.</td>
+            <td>T05</td>
+            <td>Página donde se planifica las sesiones de entrenamiento.</td>
+            <td>Como usuario de FitHub, quiero poder planificar y programar mis sesiones de entrenamiento para mantener una rutina organizada.</td>
+            <td>1 hora</td>
+            <td>Aldhair Valenzuela</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US12</td>
+            <td>Refactorizar Código para Mejorar Mantenibilidad.</td>
+            <td>T06</td>
+            <td>Refactorización del código.</td>
+            <td>Como desarrollador, Quiero refactorizar el código existente, Para mejorar su estructura y facilitar el mantenimiento futuro.</td>
+            <td>1 hora 10 minutos</td>
+            <td>Juan Diego Cueto</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US14</td>
+            <td>Desarrollar Funcionalidad de Notificaciones.</td>
+            <td>T07</td>
+            <td>Página donde se visualizan las notificaciones de la aplicación.</td>
+            <td>Como desarrollador, Quiero desarrollar la funcionalidad de notificaciones, Para mantener a los usuarios informados sobre eventos importantes.</td>
+            <td>1 hora </td>
+            <td>Ricardo Maguiña</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US17</td>
+            <td>Filtrado de contenido por nivel de habilidad.</td>
+            <td>T08</td>
+            <td>Página donde se puede visualizar el contenido por nivel de habilidad.</td>
+            <td>Como usuario, quiero ver una introducción atractiva en la página de inicio.Para encontrar opciones adecuadas para mí.</td>
+            <td>50 minutos</td>
+            <td>Carlos Shimabukuro</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US21</td>
+            <td>Registro de nuevo usuario.</td>
+            <td>T09</td>
+            <td>Página en donde se puede registrar un nuevo usuario a la aplicación.</td>
+            <td>Como un nuevo usuario interesado en estar en forma utilizando FitHub, quiero poder registrarme en el aplicativo web, para acceder a las funcionalidades que se ofrece.</td>
+            <td>30 minutos</td>
+            <td>Jorge Ponce</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US22</td>
+            <td>Inicio de sesión con cuenta registrada.</td>
+            <td>T10</td>
+            <td>Página en donde se puede ingresar a la aplicación con una cuenta previamente registrada.</td>
+            <td>Como usuario previamente registrado en FitHub, quiero poder iniciar sesión de manera segura en mi cuenta personal, para acceder al contenido del aplicativo web.</td>
+            <td>30 minutos</td>
+            <td>Jorge Ponce</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US23</td>
+            <td>Recuperación de contraseña.</td>
+            <td>T11</td>
+            <td>Página en donde se puede recuperar la contraseña de una cuenta previamente registrada.</td>
+            <td>Como usuario registrado en FitHub, quiero tener la capacidad de restablecer mi contraseña en caso de olvidarla, para acceder a mi cuenta en cualquier momento.</td>
+            <td>20 minutos</td>
+            <td>Jorge ponce</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US24</td>
+            <td>Búsqueda de coach profesionales.</td>
+            <td>T12</td>
+            <td>Página en donde se puede visualizar a los coaches dentro de la aplicación.</td>
+            <td>Como un usuario interesado contáctame con un coach profesional, quiero poder realizar búsquedas de los coaches disponibles en la aplicación web, para comparar y encontrar al que mejor se adapte a mis necesidades y preferencias.</td>
+            <td>50 minutos</td>
+            <td>Aldhair Valenzuela</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US25</td>
+            <td>Visualización del perfil del coach profesional.</td>
+            <td>T13</td>
+            <td>Página en donde se puede visualizar los datos de los coaches dentro de la aplicación.</td>
+            <td>Como usuario interesado entrenar con la ayuda de un coach profesional, quiero poder ver perfiles detallados de los coaches disponibles en la aplicación web, para obtener información completa sobre ellos antes selección a quien contactar.</td>
+            <td>50 minutos</td>
+            <td>Aldhair Valenzuela</td>
+            <td>Done</td>
+        </tr>
+  </table>
+  
+## 5.2.2.3.Development Evidence for Sprint Review.
+
+| Repository | Branch | Commit ID | Commit Message | Commit Message Body | Commited on (Date)|
+|-|-|-|-|-|-|
+|FitHub-Web-Application|Develop|ed946a7|chore(setup): initial project structure|En esta sección se añadió la estructura inicial para el proyecto|22/04/24|
+|FitHub-Web-Application|Develop|746f6af|fix(structure): corrections in project structure| En esta se realizaron algunas correciones en la estructura del proyecto| 22/04/24|
+|FitHub-Web-Application|Develop|827564c|feat: add landing-page, login, register and recovery-passwords| En esta sección se agregó el login, register, recovery-password y la landing page, todo conectado entre sí.| 25/04/24|
+|FitHub-Web-Application|Develop|ef1ec77|feat: add coach-information feat: add coach-contact| En esta sección se agregó la información del coach y el formulario para contactar al coach.|26/04/24|
+|FitHub-Web-Application|Develop|1d3a542|feat: add profile-components|En esta sección se la page de profile.|30/04/24|
+
+## 5.2.2.4.Testing Suite Evidence for Sprint Review.
+- Se han realizado pruebas de funcionalidad en las páginas de seguimiento de progreso, asesoramiento nutricional, gamificación, personalización de entrenamiento y planificación de sesiones para verificar su funcionamiento.
+- Se han probado las páginas de registro, inicio de sesión y recuperación de contraseña para garantizar que los usuarios puedan acceder y gestionar sus cuentas de manera segura.
+- Se han realizado pruebas de búsqueda y visualización de perfiles de coach para verificar que los usuarios puedan encontrar y obtener información detallada sobre los coaches disponibles.
+- Se han llevado a cabo pruebas de rendimiento y optimización para garantizar que la aplicación web sea rápida y eficiente en su funcionamiento.
+- Se han realizado pruebas de compatibilidad y responsividad en diferentes dispositivos y navegadores para asegurar una experiencia de usuario consistente y de alta calidad.
+<br><br>
+- **Evidencia de pruebas de componentes de la aplicación web.**
+![](assets/img/capitulo5/Test-Suite-Evidence-1.PNG)
+<br><br>
+- **Evidencia de pruebas de enrutamientos de secciones de la aplicación web.**
+![](assets/img/capitulo5/Test-Suite-Evidence-2.PNG)
+![](assets/img/capitulo5/Test-Suite-Evidence-3.PNG)
+![](assets/img/capitulo5/Test-Suite-Evidence-4.PNG)
+  <br><br>
+## 5.2.2.5.Execution Evidence for Sprint Review.
+- Se ha llevado a cabo una reunión de revisión de sprint donde se han presentado los avances y se ha demostrado el funcionamiento de la aplicación web.
+- Se han realizado demostraciones de las funcionalidades implementadas, como el seguimiento de progreso, el asesoramiento nutricional, la gamificación y la planificación de sesiones.
+- Se ha recopilado el feedback del equipo y se han identificado posibles mejoras y ajustes para futuras iteraciones.
+- Se ha actualizado el tablero de proyecto con el progreso realizado durante el sprint.
+- Se ha preparado la documentación necesaria para la revisión del sprint, incluyendo los artefactos de desarrollo, pruebas y ejecución.
+- Se ha compartido el enlace de la aplicación web desplegada con el equipo para que puedan revisarla y proporcionar comentarios.
+- Se ha actualizado la documentación de despliegue con los detalles del proceso y los resultados obtenidos.
+  <br><br>
+- **Evidencia de ejecución de funcionalidad de la seccion de inicio de sesión.**
+  ![](assets/img/capitulo5/Execution-Evidence-for-Sprint-Review-1.PNG)
+  ![](assets/img/capitulo5/Execution-Evidence-for-Sprint-Review-2.PNG)
+  ![](assets/img/capitulo5/Execution-Evidence-for-Sprint-Review-6.PNG)
+  <br><br>
+- **Evidencia de ejecución de funcionalidad del contacto de coach.**
+  ![](assets/img/capitulo5/Execution-Evidence-for-Sprint-Review-7.PNG)
+  ![](assets/img/capitulo5/Execution-Evidence-for-Sprint-Review-8.PNG)
+  <br><br>
+- **Evidencia de ejecución de funcionalidad de la página de perfil del coach y miembro.**
+  ![](assets/img/capitulo5/Execution-Evidence-for-Sprint-Review-9.PNG)
+  ![](assets/img/capitulo5/Execution-Evidence-for-Sprint-Review-10.PNG)
+## 5.2.2.6.Services Documentation Evidence for Sprint Review.
+- Se ha creado la estructura inicial del proyecto en la rama Develop del repositorio FitHub-Web-Application, con el commit ID ed946a7, el cual incluye la configuración inicial del proyecto.
+- Se realizaron correcciones en la estructura del proyecto en la rama Develop del repositorio FitHub-Web-Application, con el commit ID 746f6af, abordando aspectos identificados para mejorar la organización del código.
+- Se agregaron funcionalidades clave, incluyendo la página de inicio, el inicio de sesión, el registro de usuarios y la recuperación de contraseñas en la rama Develop del repositorio FitHub-Web-Application, con el commit ID 827564c, interconectándolos para una experiencia de usuario fluida.
+- Se ha añadido la funcionalidad para visualizar información del coach y un formulario de contacto para comunicarse con el coach en la rama Develop del repositorio FitHub-Web-Application, con el commit ID ef1ec77, ampliando así las capacidades de la aplicación web.
+## 5.2.2.7.Software Deployment Evidence for Sprint Review.
+- El aplicativo web ha sido desplegado en un entorno de prueba para evaluar su funcionamiento en un entorno real y controlado.
+- Se han elaborado registros de despliegue que detallan el proceso de implementación.
+- Se ha llevado a cabo una revisión final del aplicativo web desplegado para garantizar que todas sus características y funcionalidades estén activas y cumplan con los requisitos establecidos durante el desarrollo.
+- Se ha compartido el enlace del aplicativo web desplegado con el equipo para que puedan examinarlo, ofrecer comentarios y realizar las modificaciones necesarias.
+- La documentación de despliegue ha sido actualizada con los detalles del proceso y los resultados obtenidos.
+## 5.2.2.8.Team Collaboration Insights during Sprint.
+Durante el sprint, se observó una alta interacción entre los miembros del equipo, evidenciada por la frecuente comunicación en el servidor de Discord del equipo.<br>
+Se notó un compromiso compartido hacia los objetivos del sprint, con los miembros trabajando de manera colaborativa para superar los desafíos y alcanzar los hitos establecidos.<br>
+La retroalimentación constructiva fue una parte integral del proceso, con los miembros proporcionando comentarios útiles sobre el progreso del trabajo y buscando constantemente mejorar la calidad del producto.<br>
+La distribución equitativa de tareas y responsabilidades promovió un ambiente de trabajo inclusivo y fomentó la participación activa de todos los miembros del equipo.<br>
+La transparencia en la comunicación y la disposición para compartir conocimientos contribuyeron a un flujo de trabajo eficiente y a una mayor cohesión dentro del equipo.<br>
 # Conclusiones y Recomendaciones
 Conclusiones:
 
