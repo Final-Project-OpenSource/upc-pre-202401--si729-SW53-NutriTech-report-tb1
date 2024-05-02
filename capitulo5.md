@@ -573,7 +573,7 @@ Toma de decisiones: Durante el sprint, el equipo puede enfrentarse a decisiones 
             <td>Página donde se muestra el seguimineto del progreso.</td>
             <td>Como usuario de FitHub, quiero poder establecer metas de entrenamiento específicas para recibir recomendaciones personalizadas por parte del coach especializado.</td>
             <td>1 hora y 30 minutos</td>
-            <td></td>
+            <td>Juan Diego Cueto</td>
             <td>Done</td>
         </tr>
         <tr>
@@ -583,7 +583,7 @@ Toma de decisiones: Durante el sprint, el equipo puede enfrentarse a decisiones 
             <td>Página donde se visualiza el asesoramiento nutricional del especialista.</td>
             <td>Como usuario de FitHub, quiero poder acceder a un asesoramiento nutricional personalizado a mis metas para ajustar mi dieta diaria.</td>
             <td>1 hora </td>
-            <td> </td>
+            <td>Carlos Shimabukuro</td>
             <td>Done</td>
         </tr>
         <tr>
@@ -593,7 +593,7 @@ Toma de decisiones: Durante el sprint, el equipo puede enfrentarse a decisiones 
             <td>Página donde se pueden inscribir a retos dentro de la aplicación.</td>
             <td>Como usuario de FitHub, quiero participar en esafíos de gmaificacion en donde se pueda tener objetivos de entrenamientos.</td>
             <td>1 hora y 50 minutos</td>
-            <td> </td>
+            <td>Ricardo Maguiña</td>
             <td>Done</td>
         </tr>
         <tr>
@@ -603,7 +603,7 @@ Toma de decisiones: Durante el sprint, el equipo puede enfrentarse a decisiones 
             <td>Página donde se puede personalizar el entrenamiento que te brinda tu coach.</td>
             <td>Como usuario de FitHub, quiero recibir planes de entrenamiento personalizadas basadas en mis preferencias para optimizar mi rendimiento y obtener resultados en mi salud.</td>
             <td>1 hora</td>
-            <td> </td>
+            <td>Aldhair Valenzuela</td>
             <td>Done</td>
         </tr>
         <tr>
@@ -612,8 +612,8 @@ Toma de decisiones: Durante el sprint, el equipo puede enfrentarse a decisiones 
             <td>T05</td>
             <td>Página donde se planifica las sesiones de entrenamiento.</td>
             <td>Como usuario de FitHub, quiero poder planificar y programar mis sesiones de entrenamiento para mantener una rutina organizada.</td>
-            <td>40 minutos</td>
-            <td> </td>
+            <td>1 hora</td>
+            <td>Aldhair Valenzuela</td>
             <td>Done</td>
         </tr>
         <tr>
@@ -622,8 +622,8 @@ Toma de decisiones: Durante el sprint, el equipo puede enfrentarse a decisiones 
             <td>T06</td>
             <td>Refactorización del código.</td>
             <td>Como desarrollador, Quiero refactorizar el código existente, Para mejorar su estructura y facilitar el mantenimiento futuro.</td>
-            <td>40 minutos</td>
-            <td> </td>
+            <td>1 hora 10 minutos</td>
+            <td>Juan Diego Cueto</td>
             <td>Done</td>
         </tr>
         <tr>
@@ -632,8 +632,8 @@ Toma de decisiones: Durante el sprint, el equipo puede enfrentarse a decisiones 
             <td>T07</td>
             <td>Página donde se visualizan las notificaciones de la aplicación.</td>
             <td>Como desarrollador, Quiero desarrollar la funcionalidad de notificaciones, Para mantener a los usuarios informados sobre eventos importantes.</td>
-            <td>40 minutos</td>
-            <td> </td>
+            <td>1 hora </td>
+            <td>Ricardo Maguiña</td>
             <td>Done</td>
         </tr>
         <tr>
@@ -642,8 +642,8 @@ Toma de decisiones: Durante el sprint, el equipo puede enfrentarse a decisiones 
             <td>T08</td>
             <td>Página donde se puede visualizar el contenido por nivel de habilidad.</td>
             <td>Como usuario, quiero ver una introducción atractiva en la página de inicio.Para encontrar opciones adecuadas para mí.</td>
-            <td>40 minutos</td>
-            <td> </td>
+            <td>50 minutos</td>
+            <td>Carlos Shimabukuro</td>
             <td>Done</td>
         </tr>
         <tr>
@@ -652,8 +652,8 @@ Toma de decisiones: Durante el sprint, el equipo puede enfrentarse a decisiones 
             <td>T09</td>
             <td>Página en donde se puede registrar un nuevo usuario a la aplicación.</td>
             <td>Como un nuevo usuario interesado en estar en forma utilizando FitHub, quiero poder registrarme en el aplicativo web, para acceder a las funcionalidades que se ofrece.</td>
-            <td>40 minutos</td>
-            <td> </td>
+            <td>30 minutos</td>
+            <td>Jorge Ponce</td>
             <td>Done</td>
         </tr>
         <tr>
@@ -662,8 +662,8 @@ Toma de decisiones: Durante el sprint, el equipo puede enfrentarse a decisiones 
             <td>T10</td>
             <td>Página en donde se puede ingresar a la aplicación con una cuenta previamente registrada.</td>
             <td>Como usuario previamente registrado en FitHub, quiero poder iniciar sesión de manera segura en mi cuenta personal, para acceder al contenido del aplicativo web.</td>
-            <td>40 minutos</td>
-            <td> </td>
+            <td>30 minutos</td>
+            <td>Jorge Ponce</td>
             <td>Done</td>
         </tr>
         <tr>
@@ -672,8 +672,8 @@ Toma de decisiones: Durante el sprint, el equipo puede enfrentarse a decisiones 
             <td>T11</td>
             <td>Página en donde se puede recuperar la contraseña de una cuenta previamente registrada.</td>
             <td>Como usuario registrado en FitHub, quiero tener la capacidad de restablecer mi contraseña en caso de olvidarla, para acceder a mi cuenta en cualquier momento.</td>
-            <td>40 minutos</td>
-            <td> </td>
+            <td>20 minutos</td>
+            <td>Jorge ponce</td>
             <td>Done</td>
         </tr>
         <tr>
@@ -682,8 +682,8 @@ Toma de decisiones: Durante el sprint, el equipo puede enfrentarse a decisiones 
             <td>T12</td>
             <td>Página en donde se puede visualizar a los coaches dentro de la aplicación.</td>
             <td>Como un usuario interesado contáctame con un coach profesional, quiero poder realizar búsquedas de los coaches disponibles en la aplicación web, para comparar y encontrar al que mejor se adapte a mis necesidades y preferencias.</td>
-            <td>40 minutos</td>
-            <td> </td>
+            <td>50 minutos</td>
+            <td>Aldhair Valenzuela</td>
             <td>Done</td>
         </tr>
         <tr>
@@ -692,8 +692,8 @@ Toma de decisiones: Durante el sprint, el equipo puede enfrentarse a decisiones 
             <td>T13</td>
             <td>Página en donde se puede visualizar los datos de los coaches dentro de la aplicación.</td>
             <td>Como usuario interesado entrenar con la ayuda de un coach profesional, quiero poder ver perfiles detallados de los coaches disponibles en la aplicación web, para obtener información completa sobre ellos antes selección a quien contactar.</td>
-            <td>40 minutos</td>
-            <td> </td>
+            <td>50 minutos</td>
+            <td>Aldhair Valenzuela</td>
             <td>Done</td>
         </tr>
   </table>
