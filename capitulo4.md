@@ -154,7 +154,7 @@ Los wireframes son representaciones visuales simplificadas que muestran cómo se
 
 URL del diseño: https://www.figma.com/file/0zyX4JRoTxb9i0ODg6MRJj/Desarrollo-de-Aplicaciones-Open-Source?type=design&node-id=78%3A171&mode=design&t=HRqcjWGZ5V4KuicZ-1 <br>
 
-![Landing Page Wireframe](/assets/img/capitulo4/LandingPageWireframe.png)
+![Landing Page Wireframe](assets/img/capitulo4/LandingPageWireframe.png)
 
 ## 4.3.2 Landing Page Mock-up
 
@@ -162,7 +162,7 @@ Un landing page mockup es una representación visual simplificada, de mayor fide
 
 URL del diseño: https://www.figma.com/file/0zyX4JRoTxb9i0ODg6MRJj/Desarrollo-de-Aplicaciones-Open-Source?type=design&node-id=78%3A171&mode=design&t=HRqcjWGZ5V4KuicZ-1
 
-![Landing Page Mockup](/assets/img/capitulo4/LandingPageMockup.png)
+![Landing Page Mockup](assets/img/capitulo4/LandingPageMockup.png)
 
 ## 4.4 Web Applications UX/UI Design
 En esta sección, abordaremos aspectos internos donde detallaremos y describiremos la propuesta visual y de interacción para las aplicaciones que conforman la experiencia del usuario en nuestros productos digitales.
@@ -172,54 +172,54 @@ En esta sección, abordaremos aspectos internos donde detallaremos y describirem
 URL del diseño: https://www.figma.com/file/2PFr490tJXkkgkvzRfoe3B/FitHub-Aplicacion-Web?type=design&node-id=0%3A1&mode=design&t=WG55e2n91hRk1ep0-1
 
 ### Inicio de sesión
-![Wireframe Inicio de seción](/assets/img/capitulo4/Wireframe-InicioSesión.png)
+![Wireframe Inicio de seción](assets/img/capitulo4/Wireframe-InicioSesión.png)
 
 ### Registro
-![Wireframe Registro](/assets/img/capitulo4/Wireframe-Registro.png)
+![Wireframe Registro](assets/img/capitulo4/Wireframe-Registro.png)
 
 ### Recuperacion de contraseña
-![Wireframe Recuperacion de contraseña](/assets/img/capitulo4/Wireframe-RecuperarContraseña.png)
+![Wireframe Recuperacion de contraseña](assets/img/capitulo4/Wireframe-RecuperarContraseña.png)
 
 ### Inicio
-![Wireframe Inicio](/assets/img/capitulo4/Wireframe-Inicio.png)
+![Wireframe Inicio](assets/img/capitulo4/Wireframe-Inicio.png)
 
 ### Perfil
-![Wireframe Perfil](/assets/img/capitulo4/Wireframe-Perfil.png)
+![Wireframe Perfil](assets/img/capitulo4/Wireframe-Perfil.png)
 
 ### Busqueda de ejercicios
-![Wireframe Busqueda de ejercicios](/assets/img/capitulo4/Wireframe-BúsquedaEjercicios.png)
+![Wireframe Busqueda de ejercicios](assets/img/capitulo4/Wireframe-BúsquedaEjercicios.png)
 
 ### Busqueda de dietas
-![Wireframe Busqueda de dietas](/assets/img/capitulo4/Wireframe-BúsquedaDietas.png)
+![Wireframe Busqueda de dietas](assets/img/capitulo4/Wireframe-BúsquedaDietas.png)
 
 ### Busqueda de profesionales
-![Wireframe Busqueda de profesionales](/assets/img/capitulo4/Wireframe-BúsquedaProfesional.png)
+![Wireframe Busqueda de profesionales](assets/img/capitulo4/Wireframe-BúsquedaProfesional.png)
 
 ### Rutina
-![Wireframe Rutina](/assets/img/capitulo4/Wireframe-Rutina.png)
+![Wireframe Rutina](assets/img/capitulo4/Wireframe-Rutina.png)
 
 ### Dieta
-![Wireframe Dieta](/assets/img/capitulo4/Wireframe-Dieta.png)
+![Wireframe Dieta](assets/img/capitulo4/Wireframe-Dieta.png)
 
 ### Profesional
-![Wireframe Profesional](/assets/img/capitulo4/Wireframe-Profesional.png)
+![Wireframe Profesional](assets/img/capitulo4/Wireframe-Profesional.png)
 
 ### Contacto con el profesional
-![Wireframe Contacto con el profesional](/assets/img/capitulo4/Wireframe-ContactoProfesional.png)
+![Wireframe Contacto con el profesional](assets/img/capitulo4/Wireframe-ContactoProfesional.png)
 
 ## 4.4.2 Web Applications Wireflow Diagrams
 
 ### Registro e inicio de sesión
-![Wireflow Registro e Inicio de Sesión](/assets/img/capitulo4/Wireflow1.png)
+![Wireflow Registro e Inicio de Sesión](assets/img/capitulo4/Wireflow1.png)
 
 ### Búsqueda de un profesional
-![Wireflow Búsqueda de un profesional](/assets/img/capitulo4/Wireflow2.png)
+![Wireflow Búsqueda de un profesional](assets/img/capitulo4/Wireflow2.png)
 
 ### Recuperar contraseña
-![Wireflow Recuperar contraseña](/assets/img/capitulo4/Wireflow3.png)
+![Wireflow Recuperar contraseña](assets/img/capitulo4/Wireflow3.png)
 
 ### Visualizacion de perfil
-![Wireflow Visualizacion de perfil](/assets/img/capitulo4/Wireflow4.png)
+![Wireflow Visualizacion de perfil](assets/img/capitulo4/Wireflow4.png)
 
 ## 4.4.3 Web Applications Mock-ups
 
@@ -282,16 +282,16 @@ URL video demostrativo: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201
 
 ## 4.6 Domain-Driven Software Architecture
 ## 4.6.1 Software Architecture Context Diagram
-![Software Architecture Context Diagram](/assets/img/capitulo4/context-diagram.png)
+![Software Architecture Context Diagram](assets/img/capitulo4/context-diagram.png)
 ## 4.6.2 Software Architecture Container Diagrams
-![Software Architecture Container Diagrams](/assets/img/capitulo4/container-diagram.png)
+![Software Architecture Container Diagrams](assets/img/capitulo4/conatiner-diagram-1.png)
 ## 4.6.3 Software Architecture Components Diagrams
-![Software Architecture Components Diagrams](/assets/img/capitulo4/component-diagram.png)
+![Software Architecture Components Diagrams](assets/img/capitulo4/component-diagram-1.png)
 
 ## 4.7 Software Object-Oriented Design
 ## 4.7.1 Class Diagrams
 ###### Figura
-<img src="/assets/img/capitulo4/Diagrama UML - OPSRC.png">
+<img src="assets/img/capitulo4/Diagrama UML - OPSRC.png">
 
 
 
