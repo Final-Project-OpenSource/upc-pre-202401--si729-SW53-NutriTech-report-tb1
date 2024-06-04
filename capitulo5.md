@@ -533,7 +533,7 @@ Toma de decisiones: Durante el sprint, el equipo puede enfrentarse a decisiones 
 | **Sprint**                      |                                                                                                                                                                                                         |
 |:--------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Sprint Planning Background      |                                                                                                                                                                                                         |
-| Date                            | 15/04/2023                                                                                                                                                                                              |
+| Date                            | 15/04/2024                                                                                                                                                                                              |
 | Time                            | 01:00 PM                                                                                                                                                                                                |
 | Location                        | Servidor de Discord del Equipo                                                                                                                                                                          |
 | Prepared By                     | Jorge Sebastian Ponce Loyola                                                                                                                                                                             |
@@ -761,6 +761,31 @@ Se notó un compromiso compartido hacia los objetivos del sprint, con los miembr
 La retroalimentación constructiva fue una parte integral del proceso, con los miembros proporcionando comentarios útiles sobre el progreso del trabajo y buscando constantemente mejorar la calidad del producto.<br>
 La distribución equitativa de tareas y responsabilidades promovió un ambiente de trabajo inclusivo y fomentó la participación activa de todos los miembros del equipo.<br>
 La transparencia en la comunicación y la disposición para compartir conocimientos contribuyeron a un flujo de trabajo eficiente y a una mayor cohesión dentro del equipo.<br>
+
+## 5.2.3 Sprint 3
+## 5.2.3.1 Sprint Planning 3
+| **Sprint**                      |                                                                                                                                                                                                         |
+|:--------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Sprint Planning Background      |                                                                                                                                                                                                         |
+| Date                            | 03/06/2024                                                                                                                                                                                              |
+| Time                            | 06:00 PM                                                                                                                                                                                                |
+| Location                        | Grupo de WhatsApp del Equipo                                                                                                                                                                        |
+| Prepared By                     | Jorge Sebastian Ponce Loyola                                                                                                                                                                             |
+| Attendees (to planning meeting) | Ponce Loyola, Jorge Sebastian /Shimabukuro Uku, Carlos Joel / Cueto Dominguez, Juan Diego / Valenzuela Huillcaya, Aldhair Johan Juan / Maguiña Corzo, Ricardo Jesus                                     |
+| Sprint 2 Review Summary         | En la entrega anterior le faltaban detalles y cosas para adicionar a nuestro proyecto, para este sprint 3, ya tenemos realizado todo el frontEnd                                                                                                              |
+| Sprint 2 Retrospective Summary  | Realizamos un buen trabajo, pero con algunas mejoras por realizar                                                                                                                |
+| Sprint Goal & User Stories      |                                                                                                                                                                                                         |
+| Sprint 3 Goal                   | La meta de este Sprint es realizar un buen avance del Web Services de FitHubPro, un 60% de avance de todas nuestras tablas(endpoints), las más importantes |
+| Sprint 3 Velocity               | 43 Velocity                                                                                                                                                                                             |
+| Sum of Story Points             | 43 Story points                                                                                                                                                                                         |
+## 5.2.3.2 Sprint Backlog 3
+
+## 5.2.3.3 Development Evidence for Sprint Review
+## 5.2.3.4 Testing Suite Evidence for Sprint Review
+## 5.2.3.5 Execution Evidence for Sprint Review
+## 5.2.3.6 Services Documentation Evidence for Sprint Review
+## 5.2.3.7 Software Deployment Evidence for Sprint Review
+## 5.2.3.8 Team Collaboration Insights during Sprint
 # Conclusiones y Recomendaciones
 Conclusiones:
 
