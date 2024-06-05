@@ -779,8 +779,85 @@ La transparencia en la comunicación y la disposición para compartir conocimien
 | Sprint 3 Velocity               | 43 Velocity                                                                                                                                                                                             |
 | Sum of Story Points             | 43 Story points                                                                                                                                                                                         |
 ## 5.2.3.2 Sprint Backlog 3
+<table>
+        <tr>
+            <td colspan="2">Sprint #</td>
+            <td colspan="6">Sprint 1</td>
+        </tr>
+        <tr>
+            <td colspan="2">User Story</td>
+            <td colspan="6">Work-Item / Task</td>
+        </tr>
+        <tr>
+            <td>Id</td>
+            <td>Title</td>
+            <td>Id</td>
+            <td>Title</td>
+            <td>Descripcion</td>
+            <td>Estimation (Hours)</td>
+            <td>Assigned To</td>
+            <td>Status (To-do / In / Process / ToReview / Done)</td>
+        </tr>
+        <tr>
+            <td>TS01</td>
+            <td>Consumir el endpoint User (Login/Register)</td>
+            <td>T01</td>
+            <td>Consumir el endpoint User (Login/Register)</td>
+            <td>Como desarrollador, quiero consumir eficazmente el endpoint 'User (Login/Register)' para implementar un proceso de autenticación y registro de usuarios fluido y seguro en la aplicación.</td>
+            <td>8 horas</td>
+            <td>Cueto Dominguez, Juan Diego</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TS05</td>
+            <td>Seguimiento del progreso de clientes</td>
+            <td>T02</td>
+            <td>Seguimiento del progreso de clientes</td>
+            <td>Como desarrollador, quiero implementar la funcionalidad para registrar y visualizar el progreso de los clientes en sus entrenamientos y planes nutricionales.</td>
+            <td>5 horas </td>
+            <td>Maguiña Corzo, Ricardo Jesus </td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TS04</td>
+            <td>Gestionar rutinas de entrenamiento</td>
+            <td>T03</td>
+            <td>Gestionar rutinas de entrenamiento</td>
+            <td>Como desarrollador, quiero implementar la creación y gestión de rutinas de entrenamiento para los clientes.</td>
+            <td>5 horas</td>
+            <td>Valenzuela Huillcaya, Aldhair Johan Juan</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TS06</td>
+            <td>Gestión de planes nutricionales</td>
+            <td>T04</td>
+            <td>Gestión de planes nutricionales
+            <td>Como desarrollador, quiero implementar la creación y gestión de planes nutricionales personalizados para los clientes.</td>
+            <td>5 horas</td>
+            <td>Ponce Loyola, Jorge Sebastian</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TS02</td>
+            <td>Gestionar perfiles de usuarios</td>
+            <td>T05</td>
+            <td>Gestionar perfiles de usuarios</td>
+            <td>Como desarrollador, quiero implementar la gestión de perfiles de usuarios para que puedan actualizar su información personal, foto de perfil y datos de contacto.</td>
+            <td>5 horas</td>
+            <td>Shimabukuro Uku, Carlos Joel </td>
+            <td>Done</td>
+        </tr>
+          
+  </table>
 
 ## 5.2.3.3 Development Evidence for Sprint Review
+| Repository | Branch | Commit ID | Commit Message | Commit Message Body | Commited on (Date)|
+|-|-|-|-|-|-|
+|FitHub-Web-Service|Develop|d3df5e2|first commit|En esta sección se añadió la estructura del proyecto| 03/06/24|
+|FitHub-Web-Service|Develop|6865c25|chore: refactor packages|En esta sección se refactorizaró la estructura del proyecto| 03/06/24|
+|FitHub-Web-Service|Develop|c88c7da|feat: add NutritionPlan Endpoint|En esta sección se creó el endpoint NutritionPlan| 04/06/24|
+
 ## 5.2.3.4 Testing Suite Evidence for Sprint Review
 ## 5.2.3.5 Execution Evidence for Sprint Review
 ## 5.2.3.6 Services Documentation Evidence for Sprint Review
