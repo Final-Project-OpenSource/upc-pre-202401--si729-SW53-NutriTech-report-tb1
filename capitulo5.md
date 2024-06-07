@@ -533,7 +533,7 @@ Toma de decisiones: Durante el sprint, el equipo puede enfrentarse a decisiones 
 | **Sprint**                      |                                                                                                                                                                                                         |
 |:--------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Sprint Planning Background      |                                                                                                                                                                                                         |
-| Date                            | 15/04/2023                                                                                                                                                                                              |
+| Date                            | 15/04/2024                                                                                                                                                                                              |
 | Time                            | 01:00 PM                                                                                                                                                                                                |
 | Location                        | Servidor de Discord del Equipo                                                                                                                                                                          |
 | Prepared By                     | Jorge Sebastian Ponce Loyola                                                                                                                                                                             |
@@ -761,6 +761,138 @@ Se notó un compromiso compartido hacia los objetivos del sprint, con los miembr
 La retroalimentación constructiva fue una parte integral del proceso, con los miembros proporcionando comentarios útiles sobre el progreso del trabajo y buscando constantemente mejorar la calidad del producto.<br>
 La distribución equitativa de tareas y responsabilidades promovió un ambiente de trabajo inclusivo y fomentó la participación activa de todos los miembros del equipo.<br>
 La transparencia en la comunicación y la disposición para compartir conocimientos contribuyeron a un flujo de trabajo eficiente y a una mayor cohesión dentro del equipo.<br>
+
+## 5.2.3 Sprint 3
+## 5.2.3.1 Sprint Planning 3
+| **Sprint**                      |                                                                                                                                                                                                         |
+|:--------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Sprint Planning Background      |                                                                                                                                                                                                         |
+| Date                            | 03/06/2024                                                                                                                                                                                              |
+| Time                            | 06:00 PM                                                                                                                                                                                                |
+| Location                        | Grupo de WhatsApp del Equipo                                                                                                                                                                        |
+| Prepared By                     | Jorge Sebastian Ponce Loyola                                                                                                                                                                             |
+| Attendees (to planning meeting) | Ponce Loyola, Jorge Sebastian /Shimabukuro Uku, Carlos Joel / Cueto Dominguez, Juan Diego / Valenzuela Huillcaya, Aldhair Johan Juan / Maguiña Corzo, Ricardo Jesus                                     |
+| Sprint 2 Review Summary         | En la entrega anterior le faltaban detalles y cosas para adicionar a nuestro proyecto, para este sprint 3, ya tenemos realizado todo el frontEnd                                                                                                              |
+| Sprint 2 Retrospective Summary  | Realizamos un buen trabajo, pero con algunas mejoras por realizar                                                                                                                |
+| Sprint Goal & User Stories      |                                                                                                                                                                                                         |
+| Sprint 3 Goal                   | La meta de este Sprint es realizar un buen avance del Web Services de FitHubPro, un 60% de avance de todas nuestras tablas(endpoints), las más importantes |
+| Sprint 3 Velocity               | 43 Velocity                                                                                                                                                                                             |
+| Sum of Story Points             | 43 Story points                                                                                                                                                                                         |
+## 5.2.3.2 Sprint Backlog 3
+<table>
+        <tr>
+            <td colspan="2">Sprint #</td>
+            <td colspan="6">Sprint 1</td>
+        </tr>
+        <tr>
+            <td colspan="2">User Story</td>
+            <td colspan="6">Work-Item / Task</td>
+        </tr>
+        <tr>
+            <td>Id</td>
+            <td>Title</td>
+            <td>Id</td>
+            <td>Title</td>
+            <td>Descripcion</td>
+            <td>Estimation (Hours)</td>
+            <td>Assigned To</td>
+            <td>Status (To-do / In / Process / ToReview / Done)</td>
+        </tr>
+        <tr>
+            <td>TS01</td>
+            <td>Consumir el endpoint User (Login/Register)</td>
+            <td>T01</td>
+            <td>Consumir el endpoint User (Login/Register)</td>
+            <td>Como desarrollador, quiero consumir eficazmente el endpoint 'User (Login/Register)' para implementar un proceso de autenticación y registro de usuarios fluido y seguro en la aplicación.</td>
+            <td>8 horas</td>
+            <td>Cueto Dominguez, Juan Diego</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TS05</td>
+            <td>Seguimiento del progreso de clientes</td>
+            <td>T02</td>
+            <td>Seguimiento del progreso de clientes</td>
+            <td>Como desarrollador, quiero implementar la funcionalidad para registrar y visualizar el progreso de los clientes en sus entrenamientos y planes nutricionales.</td>
+            <td>5 horas </td>
+            <td>Maguiña Corzo, Ricardo Jesus </td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TS04</td>
+            <td>Gestionar rutinas de entrenamiento</td>
+            <td>T03</td>
+            <td>Gestionar rutinas de entrenamiento</td>
+            <td>Como desarrollador, quiero implementar la creación y gestión de rutinas de entrenamiento para los clientes.</td>
+            <td>5 horas</td>
+            <td>Valenzuela Huillcaya, Aldhair Johan Juan</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TS06</td>
+            <td>Gestión de planes nutricionales</td>
+            <td>T04</td>
+            <td>Gestión de planes nutricionales
+            <td>Como desarrollador, quiero implementar la creación y gestión de planes nutricionales personalizados para los clientes.</td>
+            <td>5 horas</td>
+            <td>Ponce Loyola, Jorge Sebastian</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TS02</td>
+            <td>Gestionar perfiles de usuarios</td>
+            <td>T05</td>
+            <td>Gestionar perfiles de usuarios</td>
+            <td>Como desarrollador, quiero implementar la gestión de perfiles de usuarios para que puedan actualizar su información personal, foto de perfil y datos de contacto.</td>
+            <td>5 horas</td>
+            <td>Shimabukuro Uku, Carlos Joel </td>
+            <td>Done</td>
+        </tr>
+          
+  </table>
+
+## 5.2.3.3 Development Evidence for Sprint Review
+| Repository | Branch | Commit ID | Commit Message | Commit Message Body | Commited on (Date)|
+|-|-|-|-|-|-|
+|FitHub-Web-Service|Develop|d3df5e2|first commit|En esta sección se añadió la estructura del proyecto| 03/06/24|
+|FitHub-Web-Service|Develop|6865c25|chore: refactor packages|En esta sección se refactorizaró la estructura del proyecto| 03/06/24|
+|FitHub-Web-Service|Develop|c88c7da|feat: add NutritionPlan Endpoint|En esta sección se creó el endpoint NutritionPlan| 04/06/24|
+
+## 5.2.3.4 Testing Suite Evidence for Sprint Review
+## 5.2.3.5 Execution Evidence for Sprint Review
+## 5.2.3.6 Services Documentation Evidence for Sprint Review
+## 5.2.3.7 Software Deployment Evidence for Sprint Review
+## 5.2.3.8 Team Collaboration Insights during Sprint
+## 5.3 Validation Interviews
+## 5.3.1 Diseño de Entrevistas
+El equipo es responsable de definir, para cada segmento objetivo identificado, los elementos que deben incluirse en la sesión de validación. Esto incluye tanto el análisis de la Landing Page como de las aplicaciones asociadas. Además, se describe el diseño de los flujos de usuario de las aplicaciones, los cuales serán esenciales en el proceso de validación. Estos flujos de usuario, que representan la secuencia de acciones que los usuarios realizarán dentro de las aplicaciones, son fundamentales para asegurar una experiencia de usuario óptima. De esta forma, se garantiza que cada paso que los usuarios den a través de las aplicaciones sea coherente, intuitivo y cumpla con los objetivos de diseño establecidos previamente.
+
+**Preguntas generales:**
+1. ¿Qué tan satisfecho estás con la experiencia general en nuestra plataforma?
+2. ¿Encontraste algún problema o dificultad mientras usabas nuestra aplicación? Si es así, ¿cuál?
+3. ¿Le recomendarías a otros usuarios el uso de nuestra plataforma?
+
+**Segmento 1: Personas que buscan mejorar su salud y forma física:**
+1. ¿Cuál fue tu impresión inicial al usar FitHub? ¿Te pareció intuitivo y fácil de manejar?
+2. ¿Qué tan sencillo te resultó encontrar la información y las funciones que necesitabas?
+3. ¿Qué tan simple te resultó encontrar a tu coach ideal?
+4. ¿Hubo alguna parte de la aplicación que te pareciera confusa o difícil de entender?
+5. ¿Te parece útil la función de recibir recomendaciones de un coach?
+6. ¿Qué características o herramientas de la aplicación te resultaron más valiosas? ¿Por qué?
+7. ¿Qué mejoras o nuevas funcionalidades te gustaría ver en FitHub para que sea más útil para ti?
+
+**Segmento 2: Coaches profesionales en entrenamiento físico y nutrición:**
+1. ¿Cómo te imaginas tu experiencia al publicar tus servicios de coach en nuestra plataforma? ¿Te parecería un proceso sencillo?
+2. ¿Las herramientas disponibles para gestionar notificaciones y progresos (como editar información, publicar avances, etc.) son adecuadas y fáciles de usar?
+3. ¿Consideras que la plataforma proporciona suficiente información para que un usuario conozca todo lo que puedes ofrecer como coach?
+4. ¿Estás satisfecho con el alcance y visibilidad de tus publicaciones en nuestra plataforma?
+5. Comparado con otros sitios similares, ¿cómo evaluarías nuestra plataforma en términos de efectividad y usabilidad para ofrecer tus servicios?
+6. ¿Qué herramientas o características de la plataforma encuentras más útiles para tus necesidades como coach online?
+7. ¿Hay alguna característica adicional que te gustaría tener para mejorar la efectividad de tus publicaciones?
+8. ¿Qué cambios o mejoras recomendarías para hacer nuestra plataforma más efectiva para quienes brindan servicios?
+   
+## 5.3.2 Registro de Entrevistas
+## 5.3.3 Evaluación según heurísticas
 # Conclusiones y Recomendaciones
 Conclusiones:
 
