@@ -863,6 +863,36 @@ La transparencia en la comunicación y la disposición para compartir conocimien
 ## 5.2.3.6 Services Documentation Evidence for Sprint Review
 ## 5.2.3.7 Software Deployment Evidence for Sprint Review
 ## 5.2.3.8 Team Collaboration Insights during Sprint
+## 5.3 Validation Interviews
+## 5.3.1 Diseño de Entrevistas
+El equipo es responsable de definir, para cada segmento objetivo identificado, los elementos que deben incluirse en la sesión de validación. Esto incluye tanto el análisis de la Landing Page como de las aplicaciones asociadas. Además, se describe el diseño de los flujos de usuario de las aplicaciones, los cuales serán esenciales en el proceso de validación. Estos flujos de usuario, que representan la secuencia de acciones que los usuarios realizarán dentro de las aplicaciones, son fundamentales para asegurar una experiencia de usuario óptima. De esta forma, se garantiza que cada paso que los usuarios den a través de las aplicaciones sea coherente, intuitivo y cumpla con los objetivos de diseño establecidos previamente.
+
+**Preguntas generales:**
+1. ¿Qué tan satisfecho estás con la experiencia general en nuestra plataforma?
+2. ¿Encontraste algún problema o dificultad mientras usabas nuestra aplicación? Si es así, ¿cuál?
+3. ¿Le recomendarías a otros usuarios el uso de nuestra plataforma?
+
+**Segmento 1: Personas que buscan mejorar su salud y forma física:**
+1. ¿Cuál fue tu impresión inicial al usar FitHub? ¿Te pareció intuitivo y fácil de manejar?
+2. ¿Qué tan sencillo te resultó encontrar la información y las funciones que necesitabas?
+3. ¿Qué tan simple te resultó encontrar a tu coach ideal?
+4. ¿Hubo alguna parte de la aplicación que te pareciera confusa o difícil de entender?
+5. ¿Te parece útil la función de recibir recomendaciones de un coach?
+6. ¿Qué características o herramientas de la aplicación te resultaron más valiosas? ¿Por qué?
+7. ¿Qué mejoras o nuevas funcionalidades te gustaría ver en FitHub para que sea más útil para ti?
+
+**Segmento 2: Coaches profesionales en entrenamiento físico y nutrición:**
+1. ¿Cómo te imaginas tu experiencia al publicar tus servicios de coach en nuestra plataforma? ¿Te parecería un proceso sencillo?
+2. ¿Las herramientas disponibles para gestionar notificaciones y progresos (como editar información, publicar avances, etc.) son adecuadas y fáciles de usar?
+3. ¿Consideras que la plataforma proporciona suficiente información para que un usuario conozca todo lo que puedes ofrecer como coach?
+4. ¿Estás satisfecho con el alcance y visibilidad de tus publicaciones en nuestra plataforma?
+5. Comparado con otros sitios similares, ¿cómo evaluarías nuestra plataforma en términos de efectividad y usabilidad para ofrecer tus servicios?
+6. ¿Qué herramientas o características de la plataforma encuentras más útiles para tus necesidades como coach online?
+7. ¿Hay alguna característica adicional que te gustaría tener para mejorar la efectividad de tus publicaciones?
+8. ¿Qué cambios o mejoras recomendarías para hacer nuestra plataforma más efectiva para quienes brindan servicios?
+   
+## 5.3.2 Registro de Entrevistas
+## 5.3.3 Evaluación según heurísticas
 # Conclusiones y Recomendaciones
 Conclusiones:
 
