@@ -782,7 +782,7 @@ La transparencia en la comunicación y la disposición para compartir conocimien
 <table>
         <tr>
             <td colspan="2">Sprint #</td>
-            <td colspan="6">Sprint 1</td>
+            <td colspan="6">Sprint 3</td>
         </tr>
         <tr>
             <td colspan="2">User Story</td>
