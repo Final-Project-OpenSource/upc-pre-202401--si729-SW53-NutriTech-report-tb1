@@ -925,7 +925,22 @@ En las tablas, se detallan las acciones disponibles para cada Endpoint, especifi
 |GET | Obtener las rutinas meidante el Exercise | GET/{Exercise} | ID del Exercise |Datos de las rutinas con el Exercise brindado | 
 |GET | Obtener las rutinas meidante el Instruction | GET/{Instruction} | ID de las Instruction |Datos de las rutinas con el Instruction brindado | 
 ## 5.2.3.7 Software Deployment Evidence for Sprint Review
+
+Durante el Sprint 3, se realizaron las siguientes actividades de implementación de software:<br>
+El servicio backend ha sido desplegado en un entorno de prueba, permitiendo la evaluación de su funcionalidad en un entorno controlado.<br>
+Se han creado registros detallados del despliegue que documentan cada paso del proceso de implementación.<br>
+Se ha realizado una revisión exhaustiva del backend desplegado, asegurando que todas las funcionalidades operen correctamente y cumplan con los requisitos establecidos.<br>
+Se ha compartido el enlace del servicio backend desplegado con el equipo, permitiendo la revisión, retroalimentación y realización de ajustes necesarios.<br>
+La documentación de despliegue ha sido actualizada, incluyendo los detalles del proceso de implementación y los resultados obtenidos.<br>
+
 ## 5.2.3.8 Team Collaboration Insights during Sprint
+
+Durante el sprint, se observó una notable interacción entre los miembros del equipo, destacada por la constante comunicación en el servidor de Discord del equipo.<br>
+Hubo un compromiso colectivo con los objetivos del sprint, con los miembros colaborando para superar los desafíos y alcanzar los hitos establecidos.<br>
+La retroalimentación constructiva fue fundamental en el proceso, con los miembros proporcionando comentarios valiosos sobre el progreso del trabajo y buscando continuamente mejorar la calidad del producto.<br>
+La distribución equitativa de tareas y responsabilidades fomentó un ambiente de trabajo inclusivo y promovió la participación activa de todos los miembros del equipo.<br>
+La transparencia en la comunicación y la disposición para compartir conocimientos contribuyeron a un flujo de trabajo eficiente y a una mayor cohesión dentro del equipo.<br>
+
 ## 5.3 Validation Interviews
 ## 5.3.1 Diseño de Entrevistas
 El equipo es responsable de definir, para cada segmento objetivo identificado, los elementos que deben incluirse en la sesión de validación. Esto incluye tanto el análisis de la Landing Page como de las aplicaciones asociadas. Además, se describe el diseño de los flujos de usuario de las aplicaciones, los cuales serán esenciales en el proceso de validación. Estos flujos de usuario, que representan la secuencia de acciones que los usuarios realizarán dentro de las aplicaciones, son fundamentales para asegurar una experiencia de usuario óptima. De esta forma, se garantiza que cada paso que los usuarios den a través de las aplicaciones sea coherente, intuitivo y cumpla con los objetivos de diseño establecidos previamente.
