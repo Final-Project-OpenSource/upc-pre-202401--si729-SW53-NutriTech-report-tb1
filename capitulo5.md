@@ -776,8 +776,8 @@ La transparencia en la comunicación y la disposición para compartir conocimien
 | Sprint 2 Retrospective Summary  | Realizamos un buen trabajo, pero con algunas mejoras por realizar                                                                                                                |
 | Sprint Goal & User Stories      |                                                                                                                                                                                                         |
 | Sprint 3 Goal                   | La meta de este Sprint es realizar un buen avance del Web Services de FitHubPro, un 60% de avance de todas nuestras tablas(endpoints), las más importantes |
-| Sprint 3 Velocity               | 43 Velocity                                                                                                                                                                                             |
-| Sum of Story Points             | 43 Story points                                                                                                                                                                                         |
+| Sprint 3 Velocity               | 28 Velocity                                                                                                                                                                                             |
+| Sum of Story Points             | 28 Story points                                                                                                                                                                                         |
 ## 5.2.3.2 Sprint Backlog 3
 <table>
         <tr>
@@ -840,10 +840,10 @@ La transparencia en la comunicación y la disposición para compartir conocimien
         </tr>
         <tr>
             <td>TS02</td>
-            <td>Gestionar perfiles de usuarios</td>
-            <td>T05</td>
-            <td>Gestionar perfiles de usuarios</td>
-            <td>Como desarrollador, quiero implementar la gestión de perfiles de usuarios para que puedan actualizar su información personal, foto de perfil y datos de contacto.</td>
+            <td>Asignar membresias a clientes</td>
+            <td>T03</td>
+            <td>Asignar membresias a clientes</td>
+            <td>Como desarrollador, quiero implementar la funcionalidad para asignar y gestionar membresías de clientes, incluyendo fechas de inicio, fin y pagos.</td>
             <td>5 horas</td>
             <td>Shimabukuro Uku, Carlos Joel </td>
             <td>Done</td>
@@ -854,9 +854,19 @@ La transparencia en la comunicación y la disposición para compartir conocimien
 ## 5.2.3.3 Development Evidence for Sprint Review
 | Repository | Branch | Commit ID | Commit Message | Commit Message Body | Commited on (Date)|
 |-|-|-|-|-|-|
-|FitHub-Web-Service|Develop|d3df5e2|first commit|En esta sección se añadió la estructura del proyecto| 03/06/24|
-|FitHub-Web-Service|Develop|6865c25|chore: refactor packages|En esta sección se refactorizaró la estructura del proyecto| 03/06/24|
-|FitHub-Web-Service|Develop|c88c7da|feat: add NutritionPlan Endpoint|En esta sección se creó el endpoint NutritionPlan| 04/06/24|
+|FitHub-Web-Service|Develop|d3df5e2|first commit|En este commit se añadió la estructura del proyecto| 03/06/24|
+|FitHub-Web-Service|Develop|6865c25|chore: refactor packages|En este commit se refactorizaró la estructura del proyecto| 03/06/24|
+|FitHub-Web-Service|Develop|c88c7da|feat: add NutritionPlan Endpoint|En este commit se creó el endpoint NutritionPlan| 04/06/24|
+|FitHub-Web-Service|Develop|134520d|feat(iam): added user entity class, getters and setter.|En este commit se añadió el user entity class| 07/06/24|
+|FitHub-Web-Service|Develop|5b063b9|feat(iam): added user aggregate and commands.|En este commit se añadió el agreggate y commands de user| 07/06/24|
+|FitHub-Web-Service|Develop|c5d0c9d|feat(iam): implemented controllers, commands services and repository.|En este commit se implementó el controller, command service y repository de user| 07/06/24|
+|FitHub-Web-Service|Develop|970d28e|docs(iam): implemented code documentation.|En este commit se implementó documentación de codigo(java docs) para user| 07/06/24|
+|FitHub-Web-Service|Develop|0856f25|refactor: removed unused annotations.|En este commit se eliminaron annotations que no se usaban| 07/06/24|
+|FitHub-Web-Service|Develop|57d0b5d|feat add rutines model|En este commit se añadió rutines | 07/06/24|
+|FitHub-Web-Service|Develop|74b9646|feat Upate Rutines controller.|En este commit se actualizó el controller de rutines | 08/06/24|
+|FitHub-Web-Service|Develop|b176071|feat: add membership|En este commit se añadió el endpoint membership | 08/06/24|
+|FitHub-Web-Service|Develop|3237243|Merge branch 'feat/membership' into develop|En este commit se mergeó la branch membership en develop | 08/06/24|
+
 
 ## 5.2.3.4 Testing Suite Evidence for Sprint Review
 - Se han realizado pruebas de consumo del endpoint 'User (Login/Register)' para verificar la autenticación y el registro de usuarios en la aplicación.
