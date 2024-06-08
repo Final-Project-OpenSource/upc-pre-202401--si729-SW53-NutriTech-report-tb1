@@ -776,13 +776,13 @@ La transparencia en la comunicación y la disposición para compartir conocimien
 | Sprint 2 Retrospective Summary  | Realizamos un buen trabajo, pero con algunas mejoras por realizar                                                                                                                |
 | Sprint Goal & User Stories      |                                                                                                                                                                                                         |
 | Sprint 3 Goal                   | La meta de este Sprint es realizar un buen avance del Web Services de FitHubPro, un 60% de avance de todas nuestras tablas(endpoints), las más importantes |
-| Sprint 3 Velocity               | 43 Velocity                                                                                                                                                                                             |
-| Sum of Story Points             | 43 Story points                                                                                                                                                                                         |
+| Sprint 3 Velocity               | 28 Velocity                                                                                                                                                                                             |
+| Sum of Story Points             | 28 Story points                                                                                                                                                                                         |
 ## 5.2.3.2 Sprint Backlog 3
 <table>
         <tr>
             <td colspan="2">Sprint #</td>
-            <td colspan="6">Sprint 1</td>
+            <td colspan="6">Sprint 3</td>
         </tr>
         <tr>
             <td colspan="2">User Story</td>
@@ -840,10 +840,10 @@ La transparencia en la comunicación y la disposición para compartir conocimien
         </tr>
         <tr>
             <td>TS02</td>
-            <td>Gestionar perfiles de usuarios</td>
-            <td>T05</td>
-            <td>Gestionar perfiles de usuarios</td>
-            <td>Como desarrollador, quiero implementar la gestión de perfiles de usuarios para que puedan actualizar su información personal, foto de perfil y datos de contacto.</td>
+            <td>Asignar membresias a clientes</td>
+            <td>T03</td>
+            <td>Asignar membresias a clientes</td>
+            <td>Como desarrollador, quiero implementar la funcionalidad para asignar y gestionar membresías de clientes, incluyendo fechas de inicio, fin y pagos.</td>
             <td>5 horas</td>
             <td>Shimabukuro Uku, Carlos Joel </td>
             <td>Done</td>
@@ -854,9 +854,19 @@ La transparencia en la comunicación y la disposición para compartir conocimien
 ## 5.2.3.3 Development Evidence for Sprint Review
 | Repository | Branch | Commit ID | Commit Message | Commit Message Body | Commited on (Date)|
 |-|-|-|-|-|-|
-|FitHub-Web-Service|Develop|d3df5e2|first commit|En esta sección se añadió la estructura del proyecto| 03/06/24|
-|FitHub-Web-Service|Develop|6865c25|chore: refactor packages|En esta sección se refactorizaró la estructura del proyecto| 03/06/24|
-|FitHub-Web-Service|Develop|c88c7da|feat: add NutritionPlan Endpoint|En esta sección se creó el endpoint NutritionPlan| 04/06/24|
+|FitHub-Web-Service|Develop|d3df5e2|first commit|En este commit se añadió la estructura del proyecto| 03/06/24|
+|FitHub-Web-Service|Develop|6865c25|chore: refactor packages|En este commit se refactorizaró la estructura del proyecto| 03/06/24|
+|FitHub-Web-Service|Develop|c88c7da|feat: add NutritionPlan Endpoint|En este commit se creó el endpoint NutritionPlan| 04/06/24|
+|FitHub-Web-Service|Develop|134520d|feat(iam): added user entity class, getters and setter.|En este commit se añadió el user entity class| 07/06/24|
+|FitHub-Web-Service|Develop|5b063b9|feat(iam): added user aggregate and commands.|En este commit se añadió el agreggate y commands de user| 07/06/24|
+|FitHub-Web-Service|Develop|c5d0c9d|feat(iam): implemented controllers, commands services and repository.|En este commit se implementó el controller, command service y repository de user| 07/06/24|
+|FitHub-Web-Service|Develop|970d28e|docs(iam): implemented code documentation.|En este commit se implementó documentación de codigo(java docs) para user| 07/06/24|
+|FitHub-Web-Service|Develop|0856f25|refactor: removed unused annotations.|En este commit se eliminaron annotations que no se usaban| 07/06/24|
+|FitHub-Web-Service|Develop|57d0b5d|feat add rutines model|En este commit se añadió rutines | 07/06/24|
+|FitHub-Web-Service|Develop|74b9646|feat Upate Rutines controller.|En este commit se actualizó el controller de rutines | 08/06/24|
+|FitHub-Web-Service|Develop|b176071|feat: add membership|En este commit se añadió el endpoint membership | 08/06/24|
+|FitHub-Web-Service|Develop|3237243|Merge branch 'feat/membership' into develop|En este commit se mergeó la branch membership en develop | 08/06/24|
+
 
 ## 5.2.3.4 Testing Suite Evidence for Sprint Review
 - Se han realizado pruebas de consumo del endpoint 'User (Login/Register)' para verificar la autenticación y el registro de usuarios en la aplicación.
@@ -883,8 +893,54 @@ La transparencia en la comunicación y la disposición para compartir conocimien
 - Se ha preparado la documentación necesaria para la revisión del sprint, incluyendo los artefactos de desarrollo, pruebas y ejecución.
 
 ## 5.2.3.6 Services Documentation Evidence for Sprint Review
+En las tablas, se detallan las acciones disponibles para cada Endpoint, especificando el verbo HTTP correspondiente (GET, POST, PUT, DELETE, PATCH), la estructura de la llamada, y la descripción de los parámetros posibles. Se incluye también un ejemplo de cada llamada y una explicación del response obtenido. Además de la tabla, se muestran capturas de pantalla que ilustran cómo interactuar con la documentación creada, utilizando datos de ejemplo para demostrar el uso de cada Endpoint.
+*Tabla del modelo de escritura para el EndPoinrt del DBJson con respecto a la base de los usuarios.*
+| Método | Descripción | Ejemplo de llamada | Parámetros | Respuesta |
+|--------|-------------|---------------------|------------|-----------|
+|GET |Obtener todos los usuarios mediante el username|Get/{username}|Username|Usuario completo que coincide con el username brindado|
+|POST|Agregar usuario| POST/ | Datos del usuario a crear en formato JSON en el cuerpo de la solicitud, incluyendo nombre, correo, contraseña, etc. |Mensaje de éxito o error en formato JSON, junto con el ID asignado al nuevo usuario creado.|
+|GET |Lista de usuarios | GET/ | Ninguno | Brinda una lista de usuarios con todos los parámetros completos|
+
+*Tabla del modelo de escritura para el EndPoinrt del DBJson con respecto a la base de los planes de nutrición.*
+| Método | Descripción | Ejemplo de llamada | Parámetros | Respuesta |
+|--------|-------------|---------------------|------------|-----------|
+|POST | Agregar plan de nutrición | POST/ | Datos del plan de nutrición | Mensaje de éxito o error en formato JSON, junto con el ID asignado al plan de nutrición       |
+|GET | Obtener los planes de nutrición | GET/ | Ninguno | Lista con todos los planes de nutrición |
+|GET | Obtener el plan de nutrición meidante el ID | GET/{id} | ID del plan de nutrición |Datos del plan de nutrición con el ID brindado | 
+|GET | Obtener el plan de nutrición meidante el title | GET/{title} | Title del plan de nutrición | Datos del plan de nutrición con el title brindado |
+|GET | Obtener el plan de nutrición meidante el goalHealth | GET/{goalHealth} | goalHealth del plan de nutrición | Datos del plan de nutrición con el goalHealth brindado |
+|GET | Obtener el plan de nutrición meidante el restriction | GET/{restriction} | restriction del plan de nutrición |Datos del plan de nutrición con el restriction brindado | 
+|GET | Obtener el plan de nutrición meidante las calories | GET/{calories} | calories del plan de nutrición |Datos del plan de nutrición con las calories brindado | 
+|GET | Obtener el plan de nutrición meidante los ingredients | GET/{ingredients} | ingredients del plan de nutrición | Datos del plan de nutrición con los ingredients brindado |
+|GET | Obtener el plan de nutrición meidante el description | GET/{description} | description del plan de nutrición | Datos del plan de nutrición con el description brindado |
+|GET | Obtener el plan de nutrición meidante el TitleAndGoalHealth | GET/{TitleAndGoalHealth} | TitleAndGoalHealth del plan de nutrición | Datos del plan de nutrición con el TitleAndGoalHealth brindado |
+|GET | Obtener el plan de nutrición meidante el parameters | GET/{parameters} | parameters del plan de nutrición | Datos del plan de nutrición con el parameters brindado |
+
+*Tabla del modelo de escritura para el EndPoinrt del DBJson con respecto a la base de las rutinas.*
+| Método | Descripción | Ejemplo de llamada | Parámetros | Respuesta |
+|--------|-------------|---------------------|------------|-----------|
+|POST | Agregar rutina | POST/ | Datos de la rutina | Mensaje de éxito o error en formato JSON, junto con el ID asignado a la rutina |
+|GET | Obtener las rutinas | GET/ | Ninguno | Lista con todas las rutinas|
+|GET | Obtener las rutinas meidante el ID | GET/{id} | ID de las rutinas |Datos de las rutinas con el ID brindado | 
+|GET | Obtener las rutinas meidante el Exercise | GET/{Exercise} | ID del Exercise |Datos de las rutinas con el Exercise brindado | 
+|GET | Obtener las rutinas meidante el Instruction | GET/{Instruction} | ID de las Instruction |Datos de las rutinas con el Instruction brindado | 
 ## 5.2.3.7 Software Deployment Evidence for Sprint Review
+
+Durante el Sprint 3, se realizaron las siguientes actividades de implementación de software:<br>
+El servicio backend ha sido desplegado en un entorno de prueba, permitiendo la evaluación de su funcionalidad en un entorno controlado.<br>
+Se han creado registros detallados del despliegue que documentan cada paso del proceso de implementación.<br>
+Se ha realizado una revisión exhaustiva del backend desplegado, asegurando que todas las funcionalidades operen correctamente y cumplan con los requisitos establecidos.<br>
+Se ha compartido el enlace del servicio backend desplegado con el equipo, permitiendo la revisión, retroalimentación y realización de ajustes necesarios.<br>
+La documentación de despliegue ha sido actualizada, incluyendo los detalles del proceso de implementación y los resultados obtenidos.<br>
+
 ## 5.2.3.8 Team Collaboration Insights during Sprint
+
+Durante el sprint, se observó una notable interacción entre los miembros del equipo, destacada por la constante comunicación en el servidor de Discord del equipo.<br>
+Hubo un compromiso colectivo con los objetivos del sprint, con los miembros colaborando para superar los desafíos y alcanzar los hitos establecidos.<br>
+La retroalimentación constructiva fue fundamental en el proceso, con los miembros proporcionando comentarios valiosos sobre el progreso del trabajo y buscando continuamente mejorar la calidad del producto.<br>
+La distribución equitativa de tareas y responsabilidades fomentó un ambiente de trabajo inclusivo y promovió la participación activa de todos los miembros del equipo.<br>
+La transparencia en la comunicación y la disposición para compartir conocimientos contribuyeron a un flujo de trabajo eficiente y a una mayor cohesión dentro del equipo.<br>
+
 ## 5.3 Validation Interviews
 ## 5.3.1 Diseño de Entrevistas
 El equipo es responsable de definir, para cada segmento objetivo identificado, los elementos que deben incluirse en la sesión de validación. Esto incluye tanto el análisis de la Landing Page como de las aplicaciones asociadas. Además, se describe el diseño de los flujos de usuario de las aplicaciones, los cuales serán esenciales en el proceso de validación. Estos flujos de usuario, que representan la secuencia de acciones que los usuarios realizarán dentro de las aplicaciones, son fundamentales para asegurar una experiencia de usuario óptima. De esta forma, se garantiza que cada paso que los usuarios den a través de las aplicaciones sea coherente, intuitivo y cumpla con los objetivos de diseño establecidos previamente.
@@ -912,9 +968,139 @@ El equipo es responsable de definir, para cada segmento objetivo identificado, l
 6. ¿Qué herramientas o características de la plataforma encuentras más útiles para tus necesidades como coach online?
 7. ¿Hay alguna característica adicional que te gustaría tener para mejorar la efectividad de tus publicaciones?
 8. ¿Qué cambios o mejoras recomendarías para hacer nuestra plataforma más efectiva para quienes brindan servicios?
+
    
 ## 5.3.2 Registro de Entrevistas
+**Entrevista N°1**<br>
+<!-- <img src="/assets/img/.png" alt="Entrevista Validación" width="550" height="300"> --> <br>
+ **Datos principales:**
+ - Nombre completo de la entrevistada: 
+ - Edad: 
+ - Distrito: 
+ - Link: 
+ - Inicio de la entrevista: 
+ - Duración: 
+ - Entrevistador:
+ - Resumen:
+
+**Entrevista N°2**<br>
+<!-- <img src="/assets/img/.png" alt="Entrevista Validación" width="550" height="300"> --> <br>
+ **Datos principales:**
+ - Nombre completo de la entrevistada: 
+ - Edad: 
+ - Distrito: 
+ - Link: 
+ - Inicio de la entrevista: 
+ - Duración: 
+ - Entrevistador:
+ - Resumen: 
+
+**Entrevista N°3**<br>
+<!-- <img src="/assets/img/.png" alt="Entrevista Validación" width="550" height="300"> --> <br>
+ **Datos principales:**<br>
+ - Nombre completo de la entrevistada: 
+ - Edad: 
+ - Distrito: 
+ - Link: 
+ - Inicio de la entrevista: 
+ - Duración: 
+ - Entrevistador:
+ - Resumen: 
+
+
 ## 5.3.3 Evaluación según heurísticas
+Esta sección detalla el proceso de evaluación de sesiones de validación, basado en principios que abordan aspectos como usabilidad e información. El objetivo es garantizar una evaluación exhaustiva de la experiencia del usuario, identificando fortalezas y áreas de mejora en el diseño de aplicaciones para mejorar su calidad y eficacia.
+
+Site o app a evaluar: FitHub 
+
+Tareas a evaluar: El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+1. Funciones de gestión de cuentas de usuario
+2. Adecuada secuencia y coherencia al desplazarse entre las distintas páginas de la aplicación web
+3. Visualización de lista de ejercicios
+4. Acceso a perfil de usuario
+
+Escala de severidad: Los errores serán puntuados tomando en cuenta la siguiente escala de severidad.
+
+| Nivel | Descripción                                                                                                                                      |
+|-------|--------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1     | Problema superficial: Este tipo de problema es fácilmente manejable por el usuario o se presenta con escasa frecuencia. No es prioritario resolverlo a menos que exista disponibilidad de tiempo. |
+| 2     | Problema menor: Estos problemas pueden ocurrir con más frecuencia o pueden ser un poco más desafiantes para el usuario. Se les debe asignar una baja prioridad para su resolución en el próximo lanzamiento.   |
+| 3     | Problema mayor: Ocurre con frecuencia o los usuarios tienen dificultades para resolverlo. Es crucial abordarlos y se les debe asignar una prioridad alta para su corrección.                             |
+| 4     | Problema muy grave: Se trata de un error de gran impacto que impide al usuario continuar utilizando la herramienta. Es esencial que se corrija antes del lanzamiento.                                           |
+
+Tabla resumen:
+
+| Número | Problema                                                                                                      | Escala de severidad | Heurística/Principio violada(o)               |
+|--------|---------------------------------------------------------------------------------------------------------------|---------------------|----------------------------------------------|
+| 1      | Incluye un botón “Registrar” pero no existe contenido al que dirigirse                                        | 3                   | Information Architecture: Is it usable?     |
+| 2      | Incluye un botón “Recuperar Contraseña” pero no existe contenido al que dirigirse                            | 3                   | Information Architecture: Is it usable?     |
+| 3      | En la sección de perfil de usuario, los datos no han sido reemplazados por contenido real.                    | 2                   | Usability: Consistencia y estándares         |
+| 4      | Ausencia de restricciones y comprobaciones en ciertas entradas de datos.                                      | 3                   | Usability: Prevención de errores            |
+| 5      | Se muestran algunos títulos y etiquetas en inglés, mientras que el resto del contenido está en español.      | 1                   | Usability: Compatibilidad entre el sistema y el mundo real |
+
+PROBLEMA #1: Incluye un botón “Registrar” pero no existe contenido al que dirigirse<br>
+Severidad: 3<br>
+Heurística violada: Information Architecture: Is it usable?<br>
+Problema:<br>
+En la sección de registro se encuentra un botón etiquetado como "Registrar", sin embargo, al hacer clic en él, no hay contenido al que dirigirse. Esta situación puede generar confusión en los usuarios, ya que esperan que el botón los lleve a una página o formulario para completar el proceso de registro, pero en su lugar no encuentran ninguna acción asociada.<br>
+<img src="assets/img/capitulo5/Evidencia-Problema1.png" height="350" width="600"><br>
+Recomendación:<br>
+ - Desactivar temporalmente el botón "Registrar" si la funcionalidad aún no está disponible.
+ - Cambiar la etiqueta del botón para reflejar su estado actual, por ejemplo, "Próximamente" o "Registro Próximamente".
+ - Incluir un mensaje o indicación junto al botón para informar a los usuarios sobre la situación actual y evitar confusiones.
+ - Priorizar la implementación de la funcionalidad de registro lo antes posible para ofrecer una experiencia de usuario completa y satisfactoria.
+
+PROBLEMA #2: Incluye un botón “Recuperar Contraseña” pero no existe contenido al que dirigirse<br>
+Severidad: 3<br>
+Heurística violada: Information Architecture: Is it usable?<br>
+Problema:<br>
+Se identifica la presencia de un botón "Recuperar Contraseña" en la sección correspondiente, pero al seleccionarlo, no se redirige a ningún contenido. Esto puede resultar confuso para los usuarios, ya que esperan acceder a un formulario o proceso para iniciar la recuperación de su contraseña.<br>
+<img src="assets/img/capitulo5/Evidencia-Problema2.png" height="350" width="600"><br>
+Recomendaciones:<br>
+ - Junto al botón "Recuperar Contraseña", incluir un mensaje que indique claramente que la función aún no está disponible pero que próximamente lo estará. Esto ayudará a mitigar la confusión de los usuarios.
+ - En lugar de simplemente no llevar a ningún contenido, hacer que el botón "Recuperar Contraseña" esté inactivo o atenuado para indicar visualmente que no está disponible en este momento.
+ - Ofrecer a los usuarios una alternativa para recibir asistencia si necesita recuperar su contraseña de inmediato. Esto podría incluir un enlace directo al soporte técnico o una página de contacto donde puedan obtener ayuda personalizada.
+ - Mantener a los usuarios informados sobre el progreso de la implementación de la función de recuperación de contraseña a través de actualizaciones periódicas en la plataforma o a través de correos electrónicos si están suscritos.
+
+PROBLEMA #3: En la sección de perfil de usuario, los datos no han sido reemplazados por contenido real.<br>
+Severidad: 2<br>
+Heurística violada: Usability: Consistencia y estándares<br>
+Problema:<br>
+Esta situación incumple con la expectativa del usuario de ver información precisa y actualizada en su perfil, lo que puede generar confusión y desconfianza. La falta de actualización de los datos puede afectar la credibilidad de la plataforma y perjudicar la experiencia del usuario.<br>
+<img src="assets/img/capitulo5/Evidencia-Problema3.png" height="350" width="600"><br>
+Recomendaciones:<br>
+ - Asegurarse de que los datos mostrados en la sección de perfil de usuario estén siempre actualizados y reflejan con precisión la información del usuario. Esto garantizará una experiencia consistente y confiable para los usuarios.
+ - Realizar pruebas regulares para verificar que los datos en el perfil de usuario se actualicen correctamente después de cualquier modificación realizada por el usuario o por el sistema. Esto ayudará a mantener la coherencia y la precisión de la información en todo momento.
+ - Implementar un sistema de notificaciones para informar a los usuarios cuando se actualicen sus datos en el perfil. Esto les permitirá estar al tanto de cualquier cambio y confirmar que la información reflejada es precisa y actualizada.
+ - Establecer procedimientos internos para monitorear y garantizar la precisión de los datos en el perfil de usuario. Esto puede incluir la revisión regular de los datos por parte del equipo de soporte o la implementación de herramientas automáticas de verificación de datos.
+
+PROBLEMA #4: Ausencia de restricciones y comprobaciones en ciertas entradas de datos.<br>
+Severidad: 3<br>
+Heurística violada: Usability: Prevención de errores<br>
+Problema:<br>
+En la plataforma, se carece de validaciones en ciertas áreas donde los usuarios ingresan datos, lo que puede resultar en errores y frustración. La falta de medidas preventivas compromete la precisión y consistencia de los datos, afectando la experiencia del usuario y la funcionalidad general de la plataforma.<br>
+<img src="assets/img/capitulo5/Evidencia-Problema4.1.png" height="350" width="600">
+<img src="assets/img/capitulo5/Evidencia-Problema4.2.png" height="350" width="600"><br>
+Recomendaciones:<br>
+ - Establecer validaciones en las áreas donde los usuarios ingresan datos para garantizar que la información proporcionada cumpla con ciertos criterios, como formato correcto, longitud adecuada, y valores permitidos. Esto ayudará a prevenir la introducción de datos incorrectos o incoherentes.
+ - En caso de que se produzca un error debido a datos incorrectos, mostrar mensajes de error claros y descriptivos que indiquen al usuario cuál fue el problema y cómo corregirlo. Esto ayudará a guiar al usuario a través del proceso de corrección de errores de manera efectiva.
+ - Realizar validaciones tanto en el lado del cliente como en el lado del servidor para garantizar una mayor seguridad y consistencia en la entrada de datos.
+ - Realizar pruebas exhaustivas de todas las funcionalidades relacionadas con la entrada de datos para identificar posibles vulnerabilidades y asegurar que las validaciones funcionen correctamente en diferentes escenarios y condiciones.
+
+PROBLEMA #5: Se muestran algunos títulos y etiquetas en inglés, mientras que el resto del contenido está en español.<br>
+Severidad: 1<br>
+Heurística violada: Usability: Compatibilidad entre el sistema y el mundo real.<br>
+Problema:<br>
+La presencia de títulos y etiquetas en inglés dentro de un entorno predominantemente en español puede generar confusión en los usuarios, ya que rompe la coherencia y la fluidez del sistema. Esto puede resultar en una experiencia desarticulada y dificultar la comprensión del contenido para los usuarios que no hablan inglés con fluidez.<br>
+<img src="assets/img/capitulo5/Evidencia-Problema5.png" height="350" width="600"><br>
+Recomendaciones:<br>
+ - Asegurarse de que todos los elementos de la interfaz de usuario, incluyendo títulos, etiquetas y mensajes, están en el mismo idioma, preferiblemente en español para mantener coherencia y facilitar la comprensión para los usuarios.
+ - Realizar una revisión exhaustiva de todo el contenido para identificar y corregir cualquier título o etiqueta que esté en inglés, reemplazandolos por su equivalente en español.
+ - Realizar pruebas de usabilidad con usuarios representativos para identificar cualquier confusión o dificultad que puedan experimentar al encontrar títulos o etiquetas en inglés. Esto ayudará a validar la importancia de corregir el problema y guiará los esfuerzos de mejora.
+ - Implementar un proceso de localización completo para asegurar que todos los elementos de la interfaz de usuario estén traducidos correctamente al español y mantener esta consistencia en futuras actualizaciones o adiciones de contenido.
+
+
 # Conclusiones y Recomendaciones
 Conclusiones:
 
