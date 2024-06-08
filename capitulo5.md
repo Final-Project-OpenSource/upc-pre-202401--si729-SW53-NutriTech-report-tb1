@@ -893,6 +893,37 @@ La transparencia en la comunicación y la disposición para compartir conocimien
 - Se ha preparado la documentación necesaria para la revisión del sprint, incluyendo los artefactos de desarrollo, pruebas y ejecución.
 
 ## 5.2.3.6 Services Documentation Evidence for Sprint Review
+En las tablas, se detallan las acciones disponibles para cada Endpoint, especificando el verbo HTTP correspondiente (GET, POST, PUT, DELETE, PATCH), la estructura de la llamada, y la descripción de los parámetros posibles. Se incluye también un ejemplo de cada llamada y una explicación del response obtenido. Además de la tabla, se muestran capturas de pantalla que ilustran cómo interactuar con la documentación creada, utilizando datos de ejemplo para demostrar el uso de cada Endpoint.
+*Tabla del modelo de escritura para el EndPoinrt del DBJson con respecto a la base de los usuarios.*
+| Método | Descripción | Ejemplo de llamada | Parámetros | Respuesta |
+|--------|-------------|---------------------|------------|-----------|
+|GET |Obtener todos los usuarios mediante el username|Get/{username}|Username|Usuario completo que coincide con el username brindado|
+|POST|Agregar usuario| POST/ | Datos del usuario a crear en formato JSON en el cuerpo de la solicitud, incluyendo nombre, correo, contraseña, etc. |Mensaje de éxito o error en formato JSON, junto con el ID asignado al nuevo usuario creado.|
+|GET |Lista de usuarios | GET/ | Ninguno | Brinda una lista de usuarios con todos los parámetros completos|
+
+*Tabla del modelo de escritura para el EndPoinrt del DBJson con respecto a la base de los planes de nutrición.*
+| Método | Descripción | Ejemplo de llamada | Parámetros | Respuesta |
+|--------|-------------|---------------------|------------|-----------|
+|POST | Agregar plan de nutrición | POST/ | Datos del plan de nutrición | Mensaje de éxito o error en formato JSON, junto con el ID asignado al plan de nutrición       |
+|GET | Obtener los planes de nutrición | GET/ | Ninguno | Lista con todos los planes de nutrición |
+|GET | Obtener el plan de nutrición meidante el ID | GET/{id} | ID del plan de nutrición |Datos del plan de nutrición con el ID brindado | 
+|GET | Obtener el plan de nutrición meidante el title | GET/{title} | Title del plan de nutrición | Datos del plan de nutrición con el title brindado |
+|GET | Obtener el plan de nutrición meidante el goalHealth | GET/{goalHealth} | goalHealth del plan de nutrición | Datos del plan de nutrición con el goalHealth brindado |
+|GET | Obtener el plan de nutrición meidante el restriction | GET/{restriction} | restriction del plan de nutrición |Datos del plan de nutrición con el restriction brindado | 
+|GET | Obtener el plan de nutrición meidante las calories | GET/{calories} | calories del plan de nutrición |Datos del plan de nutrición con las calories brindado | 
+|GET | Obtener el plan de nutrición meidante los ingredients | GET/{ingredients} | ingredients del plan de nutrición | Datos del plan de nutrición con los ingredients brindado |
+|GET | Obtener el plan de nutrición meidante el description | GET/{description} | description del plan de nutrición | Datos del plan de nutrición con el description brindado |
+|GET | Obtener el plan de nutrición meidante el TitleAndGoalHealth | GET/{TitleAndGoalHealth} | TitleAndGoalHealth del plan de nutrición | Datos del plan de nutrición con el TitleAndGoalHealth brindado |
+|GET | Obtener el plan de nutrición meidante el parameters | GET/{parameters} | parameters del plan de nutrición | Datos del plan de nutrición con el parameters brindado |
+
+*Tabla del modelo de escritura para el EndPoinrt del DBJson con respecto a la base de las rutinas.*
+| Método | Descripción | Ejemplo de llamada | Parámetros | Respuesta |
+|--------|-------------|---------------------|------------|-----------|
+|POST | Agregar rutina | POST/ | Datos de la rutina | Mensaje de éxito o error en formato JSON, junto con el ID asignado a la rutina |
+|GET | Obtener las rutinas | GET/ | Ninguno | Lista con todas las rutinas|
+|GET | Obtener las rutinas meidante el ID | GET/{id} | ID de las rutinas |Datos de las rutinas con el ID brindado | 
+|GET | Obtener las rutinas meidante el Exercise | GET/{Exercise} | ID del Exercise |Datos de las rutinas con el Exercise brindado | 
+|GET | Obtener las rutinas meidante el Instruction | GET/{Instruction} | ID de las Instruction |Datos de las rutinas con el Instruction brindado | 
 ## 5.2.3.7 Software Deployment Evidence for Sprint Review
 ## 5.2.3.8 Team Collaboration Insights during Sprint
 ## 5.3 Validation Interviews
