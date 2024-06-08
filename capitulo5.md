@@ -859,7 +859,29 @@ La transparencia en la comunicación y la disposición para compartir conocimien
 |FitHub-Web-Service|Develop|c88c7da|feat: add NutritionPlan Endpoint|En esta sección se creó el endpoint NutritionPlan| 04/06/24|
 
 ## 5.2.3.4 Testing Suite Evidence for Sprint Review
+- Se han realizado pruebas de consumo del endpoint 'User (Login/Register)' para verificar la autenticación y el registro de usuarios en la aplicación.
+- Se han probado las funcionalidades de seguimiento de progreso de clientes, gestión de rutinas de entrenamiento y planes nutricionales para garantizar su correcto funcionamiento.
+- Se han realizado pruebas de gestión de perfiles de usuarios para verificar que los usuarios puedan actualizar su información personal y datos de contacto.
+- Se han llevado a cabo pruebas de rendimiento y optimización para garantizar que los endpoints sean eficientes y respondan rápidamente.
+- Se han realizado pruebas de compatibilidad y responsividad en diferentes dispositivos y navegadores para asegurar una experiencia de usuario consistente y de alta calidad.
+- Se han verificado los registros de despliegue para asegurar que los endpoints se hayan implementado correctamente y estén disponibles para su uso.
+  <br> <br>**Organización de los bounded context.** <br>
+  ![](assets/img/capitulo5/Sprint-3-Test-iam.PNG)
+  ![](assets/img/capitulo5/Sprint-3-Test-counseling.PNG)
+<br> <br>**Evidencia de implementacion del bounded context IAM.**<br>
+![](assets/img/capitulo5/Sprint-3-code-IAM.PNG) 
+<br> <br>**Evidencia de implementacion del bounded context Counseling.** <br>
+![](assets/img/capitulo5/Sprint-3-code-COUNSELING.PNG)
+
+
+
 ## 5.2.3.5 Execution Evidence for Sprint Review
+- Se ha llevado a cabo una reunión de revisión de sprint donde se han presentado los avances y se ha demostrado el funcionamiento de los endpoints implementados.
+- Se han realizado demostraciones de las funcionalidades de consumo de endpoints, registro, login, gestión de rutinas de entrenamiento y planes nutricionales.
+- Se ha recopilado el feedback del equipo y se han identificado posibles mejoras y ajustes para futuras iteraciones.
+- Se ha actualizado el tablero de proyecto con el progreso realizado durante el sprint.
+- Se ha preparado la documentación necesaria para la revisión del sprint, incluyendo los artefactos de desarrollo, pruebas y ejecución.
+
 ## 5.2.3.6 Services Documentation Evidence for Sprint Review
 ## 5.2.3.7 Software Deployment Evidence for Sprint Review
 ## 5.2.3.8 Team Collaboration Insights during Sprint
