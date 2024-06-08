@@ -471,4 +471,4 @@ URL video demostrativo: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201
 
 
 ###### figura
-<img src="/assets/img/capitulo4/DataBase FitHub.PNG" alt="Database Diagram">
+<img src="/assets/img/capitulo4/DB-TB3.jpg" alt="Database Diagram">
