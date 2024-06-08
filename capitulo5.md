@@ -953,8 +953,46 @@ El equipo es responsable de definir, para cada segmento objetivo identificado, l
 6. ¿Qué herramientas o características de la plataforma encuentras más útiles para tus necesidades como coach online?
 7. ¿Hay alguna característica adicional que te gustaría tener para mejorar la efectividad de tus publicaciones?
 8. ¿Qué cambios o mejoras recomendarías para hacer nuestra plataforma más efectiva para quienes brindan servicios?
+
    
 ## 5.3.2 Registro de Entrevistas
+**Entrevista N°1**<br>
+<!-- <img src="/assets/img/.png" alt="Entrevista Validación" width="550" height="300"> --> <br>
+ **Datos principales:**
+ - Nombre completo de la entrevistada: 
+ - Edad: 
+ - Distrito: 
+ - Link: 
+ - Inicio de la entrevista: 
+ - Duración: 
+ - Entrevistador:
+ - Resumen:
+
+**Entrevista N°2**<br>
+<!-- <img src="/assets/img/.png" alt="Entrevista Validación" width="550" height="300"> --> <br>
+ **Datos principales:**
+ - Nombre completo de la entrevistada: 
+ - Edad: 
+ - Distrito: 
+ - Link: 
+ - Inicio de la entrevista: 
+ - Duración: 
+ - Entrevistador:
+ - Resumen: 
+
+**Entrevista N°3**<br>
+<!-- <img src="/assets/img/.png" alt="Entrevista Validación" width="550" height="300"> --> <br>
+ **Datos principales:**<br>
+ - Nombre completo de la entrevistada: 
+ - Edad: 
+ - Distrito: 
+ - Link: 
+ - Inicio de la entrevista: 
+ - Duración: 
+ - Entrevistador:
+ - Resumen: 
+
+
 ## 5.3.3 Evaluación según heurísticas
 Esta sección detalla el proceso de evaluación de sesiones de validación, basado en principios que abordan aspectos como usabilidad e información. El objetivo es garantizar una evaluación exhaustiva de la experiencia del usuario, identificando fortalezas y áreas de mejora en el diseño de aplicaciones para mejorar su calidad y eficacia.
 
