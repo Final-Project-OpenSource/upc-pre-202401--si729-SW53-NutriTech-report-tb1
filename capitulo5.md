@@ -991,7 +991,7 @@ Severidad: 3<br>
 Heurística violada: Information Architecture: Is it usable?<br>
 Problema:<br>
 En la sección de registro se encuentra un botón etiquetado como "Registrar", sin embargo, al hacer clic en él, no hay contenido al que dirigirse. Esta situación puede generar confusión en los usuarios, ya que esperan que el botón los lleve a una página o formulario para completar el proceso de registro, pero en su lugar no encuentran ninguna acción asociada.<br>
-<img src="/assets/.png" height="400" width="600"><br>
+<img src="assets/img/capitulo5/Evidencia-Problema1.png" height="350" width="600"><br>
 Recomendación:<br>
  - Desactivar temporalmente el botón "Registrar" si la funcionalidad aún no está disponible.
  - Cambiar la etiqueta del botón para reflejar su estado actual, por ejemplo, "Próximamente" o "Registro Próximamente".
@@ -1003,7 +1003,7 @@ Severidad: 3<br>
 Heurística violada: Information Architecture: Is it usable?<br>
 Problema:<br>
 Se identifica la presencia de un botón "Recuperar Contraseña" en la sección correspondiente, pero al seleccionarlo, no se redirige a ningún contenido. Esto puede resultar confuso para los usuarios, ya que esperan acceder a un formulario o proceso para iniciar la recuperación de su contraseña.<br>
-<img src="/assets/.png" height="400" width="600"><br>
+<img src="assets/img/capitulo5/Evidencia-Problema2.png" height="350" width="600"><br>
 Recomendaciones:<br>
  - Junto al botón "Recuperar Contraseña", incluir un mensaje que indique claramente que la función aún no está disponible pero que próximamente lo estará. Esto ayudará a mitigar la confusión de los usuarios.
  - En lugar de simplemente no llevar a ningún contenido, hacer que el botón "Recuperar Contraseña" esté inactivo o atenuado para indicar visualmente que no está disponible en este momento.
@@ -1015,7 +1015,7 @@ Severidad: 2<br>
 Heurística violada: Usability: Consistencia y estándares<br>
 Problema:<br>
 Esta situación incumple con la expectativa del usuario de ver información precisa y actualizada en su perfil, lo que puede generar confusión y desconfianza. La falta de actualización de los datos puede afectar la credibilidad de la plataforma y perjudicar la experiencia del usuario.<br>
-<img src="/assets/.png" height="400" width="600"><br>
+<img src="assets/img/capitulo5/Evidencia-Problema3.png" height="350" width="600"><br>
 Recomendaciones:<br>
  - Asegurarse de que los datos mostrados en la sección de perfil de usuario estén siempre actualizados y reflejan con precisión la información del usuario. Esto garantizará una experiencia consistente y confiable para los usuarios.
  - Realizar pruebas regulares para verificar que los datos en el perfil de usuario se actualicen correctamente después de cualquier modificación realizada por el usuario o por el sistema. Esto ayudará a mantener la coherencia y la precisión de la información en todo momento.
@@ -1027,7 +1027,8 @@ Severidad: 3<br>
 Heurística violada: Usability: Prevención de errores<br>
 Problema:<br>
 En la plataforma, se carece de validaciones en ciertas áreas donde los usuarios ingresan datos, lo que puede resultar en errores y frustración. La falta de medidas preventivas compromete la precisión y consistencia de los datos, afectando la experiencia del usuario y la funcionalidad general de la plataforma.<br>
-<img src="/assets/.png" height="400" width="600"><br>
+<img src="assets/img/capitulo5/Evidencia-Problema4.1.png" height="350" width="600">
+<img src="assets/img/capitulo5/Evidencia-Problema4.2.png" height="350" width="600"><br>
 Recomendaciones:<br>
  - Establecer validaciones en las áreas donde los usuarios ingresan datos para garantizar que la información proporcionada cumpla con ciertos criterios, como formato correcto, longitud adecuada, y valores permitidos. Esto ayudará a prevenir la introducción de datos incorrectos o incoherentes.
  - En caso de que se produzca un error debido a datos incorrectos, mostrar mensajes de error claros y descriptivos que indiquen al usuario cuál fue el problema y cómo corregirlo. Esto ayudará a guiar al usuario a través del proceso de corrección de errores de manera efectiva.
@@ -1039,7 +1040,7 @@ Severidad: 1<br>
 Heurística violada: Usability: Compatibilidad entre el sistema y el mundo real.<br>
 Problema:<br>
 La presencia de títulos y etiquetas en inglés dentro de un entorno predominantemente en español puede generar confusión en los usuarios, ya que rompe la coherencia y la fluidez del sistema. Esto puede resultar en una experiencia desarticulada y dificultar la comprensión del contenido para los usuarios que no hablan inglés con fluidez.<br>
-<img src="/assets/.png" height="400" width="600"><br>
+<img src="assets/img/capitulo5/Evidencia-Problema5.png" height="350" width="600"><br>
 Recomendaciones:<br>
  - Asegurarse de que todos los elementos de la interfaz de usuario, incluyendo títulos, etiquetas y mensajes, están en el mismo idioma, preferiblemente en español para mantener coherencia y facilitar la comprensión para los usuarios.
  - Realizar una revisión exhaustiva de todo el contenido para identificar y corregir cualquier título o etiqueta que esté en inglés, reemplazandolos por su equivalente en español.
