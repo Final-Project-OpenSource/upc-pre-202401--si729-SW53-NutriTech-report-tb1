@@ -974,14 +974,14 @@ El equipo es responsable de definir, para cada segmento objetivo identificado, l
 **Entrevista N°1**<br>
 <!-- <img src="/assets/img/.png" alt="Entrevista Validación" width="550" height="300"> --> <br>
  **Datos principales:**
- - Nombre completo de la entrevistada: 
- - Edad: 
- - Distrito: 
- - Link: 
- - Inicio de la entrevista: 
- - Duración: 
- - Entrevistador:
- - Resumen:
+ - Nombre completo de la entrevistada: Andrew Jesus Contreras Cahuapas
+ - Edad: 25
+ - Distrito: San Isidro
+ - Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202121858_upc_edu_pe/EQ5_mO_QJFFJihAEQ0yd4-UBrIE-brSihyjSa78Z6iS6Hw?e=EnGFTH
+ - Inicio de la entrevista: 10:00 AM
+ - Duración: 3:04
+ - Entrevistador: Ricardo Jesus Maguiña Corzo
+ - Resumen: La entrevista con Andrew Contreras proporcionó una perspectiva muy positiva sobre la experiencia de usuario en FitHub Pro. Andrew destacó la facilidad de navegación, la claridad de la interfaz y la utilidad de las recomendaciones personalizadas y la sección de seguimiento de progreso. No experimentó ningún problema durante el uso de la aplicación y no sugirió mejoras específicas, indicando una alta satisfacción con las funcionalidades actuales. Este feedback positivo refuerza la calidad de nuestro diseño y nos motiva a continuar ofreciendo una experiencia de usuario excelente.<br>
 
 **Entrevista N°2**<br>
 <!-- <img src="/assets/img/.png" alt="Entrevista Validación" width="550" height="300"> --> <br>
