@@ -986,14 +986,14 @@ El equipo es responsable de definir, para cada segmento objetivo identificado, l
 **Entrevista N°2**<br>
 <!-- <img src="/assets/img/.png" alt="Entrevista Validación" width="550" height="300"> --> <br>
  **Datos principales:**
- - Nombre completo de la entrevistada: 
- - Edad: 
- - Distrito: 
- - Link: 
- - Inicio de la entrevista: 
- - Duración: 
- - Entrevistador:
- - Resumen: 
+ - Nombre completo de la entrevistada: Max Sabino Arostegui
+ - Edad: 23
+ - Distrito: Chorrillos
+ - Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f572_upc_edu_pe/EfLVhTYMKS1Ls6BgoXZKeOsBVPo504AU9OFOPAPXVZugiA?e=9T4hOh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D 
+ - Inicio de la entrevista: 0:05
+ - Duración: 6:50
+ - Entrevistador: Aldhair Valenzuela Huillcaya
+ - Resumen: La entrevista con Max Sabino reveló una experiencia de usuario positiva en Fithub, destacando la claridad de la landing page, la facilidad de navegación y la utilidad de las funciones esenciales como los planes nutricionales y los entrenamientos. Aunque sugirió aumentar el tamaño de algunos textos y una visualización más gráfica del progreso de entrenamiento, valoró la posibilidad de contactar con profesionales y recibir recomendaciones del coach. En general, mostró alta satisfacción con las funcionalidades actuales, reafirmando la eficacia del diseño y usabilidad de Fithub, con algunas áreas para mejorar.<br>
 
 **Entrevista N°3**<br>
 <!-- <img src="/assets/img/.png" alt="Entrevista Validación" width="550" height="300"> --> <br>
