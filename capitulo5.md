@@ -1100,6 +1100,13 @@ Recomendaciones:<br>
  - Realizar pruebas de usabilidad con usuarios representativos para identificar cualquier confusión o dificultad que puedan experimentar al encontrar títulos o etiquetas en inglés. Esto ayudará a validar la importancia de corregir el problema y guiará los esfuerzos de mejora.
  - Implementar un proceso de localización completo para asegurar que todos los elementos de la interfaz de usuario estén traducidos correctamente al español y mantener esta consistencia en futuras actualizaciones o adiciones de contenido.
 
+## 5.4 Video Acerca del Producto
+
+En el siguiente video, te presentamos una visión general de nuestro producto, FitHub Pro. Descubre cómo nuestra plataforma puede ayudarte a mejorar tu salud y condición física, así como a alcanzar tus metas de entrenamiento y nutrición. Exploraremos las características clave de FitHub Pro y cómo puede beneficiarte tanto si eres un usuario que busca mejorar tu bienestar, como si eres un entrenador profesional en el campo del fitness. ¡No te lo pierdas!
+
+[Ver video aquí](https://www.youtube.com/watch?v=Rp-navuTCNY&ab_channel=RicardoJesusMagui%C3%B1aCorzo)
+
+
 
 # Conclusiones y Recomendaciones
 Conclusiones:
