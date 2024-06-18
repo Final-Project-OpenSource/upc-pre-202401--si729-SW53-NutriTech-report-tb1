@@ -984,7 +984,7 @@ El equipo es responsable de definir, para cada segmento objetivo identificado, l
  - Resumen: La entrevista con Andrew Contreras proporcionó una perspectiva muy positiva sobre la experiencia de usuario en FitHub Pro. Andrew destacó la facilidad de navegación, la claridad de la interfaz y la utilidad de las recomendaciones personalizadas y la sección de seguimiento de progreso. No experimentó ningún problema durante el uso de la aplicación y no sugirió mejoras específicas, indicando una alta satisfacción con las funcionalidades actuales. Este feedback positivo refuerza la calidad de nuestro diseño y nos motiva a continuar ofreciendo una experiencia de usuario excelente.<br>
 
 **Entrevista N°2**<br>
-<!-- <img src="/assets/img/.png" alt="Entrevista Validación" width="550" height="300"> --> <br>
+ <img src="/assets/img/capitulo5/Validation interviews 2 Sprint 3.jpg" alt="Entrevista Validación 2" width="550" height="300">  <br>
  **Datos principales:**
  - Nombre completo de la entrevistada: Max Sabino Arostegui
  - Edad: 23
