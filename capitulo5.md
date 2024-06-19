@@ -974,7 +974,7 @@ El equipo es responsable de definir, para cada segmento objetivo identificado, l
 **Entrevista N°1**<br>
 <!-- <img src="/assets/img/.png" alt="Entrevista Validación" width="550" height="300"> --> <br>
  **Datos principales:**
- - Nombre completo de la entrevistada: Andrew Jesus Contreras Cahuapas
+ - Nombre completo del entrevistado: Andrew Jesus Contreras Cahuapas
  - Edad: 25
  - Distrito: San Isidro
  - Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202121858_upc_edu_pe/EQ5_mO_QJFFJihAEQ0yd4-UBrIE-brSihyjSa78Z6iS6Hw?e=EnGFTH
@@ -986,7 +986,7 @@ El equipo es responsable de definir, para cada segmento objetivo identificado, l
 **Entrevista N°2**<br>
  <img src="/assets/img/capitulo5/Validation interviews 2 Sprint 3.jpg" alt="Entrevista Validación 2" width="550" height="300">  <br>
  **Datos principales:**
- - Nombre completo de la entrevistada: Max Sabino Arostegui
+ - Nombre completo del entrevistado: Max Sabino Arostegui
  - Edad: 23
  - Distrito: Chorrillos
  - Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f572_upc_edu_pe/EfLVhTYMKS1Ls6BgoXZKeOsBVPo504AU9OFOPAPXVZugiA?e=9T4hOh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D 
@@ -996,16 +996,16 @@ El equipo es responsable de definir, para cada segmento objetivo identificado, l
  - Resumen: La entrevista con Max Sabino reveló una experiencia de usuario positiva en Fithub, destacando la claridad de la landing page, la facilidad de navegación y la utilidad de las funciones esenciales como los planes nutricionales y los entrenamientos. Aunque sugirió aumentar el tamaño de algunos textos y una visualización más gráfica del progreso de entrenamiento, valoró la posibilidad de contactar con profesionales y recibir recomendaciones del coach. En general, mostró alta satisfacción con las funcionalidades actuales, reafirmando la eficacia del diseño y usabilidad de Fithub, con algunas áreas para mejorar.<br>
 
 **Entrevista N°3**<br>
-<!-- <img src="/assets/img/.png" alt="Entrevista Validación" width="550" height="300"> --> <br>
+ <img src="/assets/img/capitulo5/EntrevistaValidacion3-Jesus.PNG" alt="Entrevista Validación 2" width="550" height="300">  <br>
  **Datos principales:**<br>
- - Nombre completo de la entrevistada: 
- - Edad: 
- - Distrito: 
- - Link: 
- - Inicio de la entrevista: 
- - Duración: 
- - Entrevistador:
- - Resumen: 
+ - Nombre completo de la entrevistado: Jesus Stefano Torres Reeyes
+ - Edad: 22
+ - Distrito: Ica
+ - Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120471_upc_edu_pe/EYUMSPxO3tVMgT-KQJMFzFEBWR0D7sslnBsy6Iq6pak3Nw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=tmCAqu
+ - Inicio de la entrevista: 0:02
+ - Duración: 6:26
+ - Entrevistador: Jorge Sebastian Ponce Loyola
+ - Resumen: En la entrevista con Jesus Torres, calificó la aplicación con un 8/10. Encontró la experiencia de publicación de servicios sencilla y clara, y las herramientas para gestionar notificaciones y progresos adecuadas y fáciles de usar. Considera que la plataforma proporciona información básica, pero sugiere más detalles. Está satisfecho con el alcance y visibilidad de las publicaciones, aunque faltan métricas específicas. La plataforma es efectiva y fácil de usar comparada con otras similares. Destacó como útiles las herramientas para administrar rutinas, progreso y ver clientes. Sugirió agregar mensajes personalizados, carga de videos de entrenamiento, un blog, integración con redes sociales y un mejor sistema de notificaciones
 
 
 ## 5.3.3 Evaluación según heurísticas
@@ -1100,7 +1100,7 @@ Recomendaciones:<br>
  - Realizar pruebas de usabilidad con usuarios representativos para identificar cualquier confusión o dificultad que puedan experimentar al encontrar títulos o etiquetas en inglés. Esto ayudará a validar la importancia de corregir el problema y guiará los esfuerzos de mejora.
  - Implementar un proceso de localización completo para asegurar que todos los elementos de la interfaz de usuario estén traducidos correctamente al español y mantener esta consistencia en futuras actualizaciones o adiciones de contenido.
 
-## 5.4 Video Acerca del Producto
+## 5.4 Video About The Product
 
 En el siguiente video, te presentamos una visión general de nuestro producto, FitHub Pro. Descubre cómo nuestra plataforma puede ayudarte a mejorar tu salud y condición física, así como a alcanzar tus metas de entrenamiento y nutrición. Exploraremos las características clave de FitHub Pro y cómo puede beneficiarte tanto si eres un usuario que busca mejorar tu bienestar, como si eres un entrenador profesional en el campo del fitness. ¡No te lo pierdas!
 
