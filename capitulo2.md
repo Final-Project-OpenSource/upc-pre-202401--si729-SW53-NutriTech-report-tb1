@@ -128,22 +128,6 @@ En la entrevista con Max Sabino, un estudiante universitario de 22 años, se evi
 - - -
 
 **Entrevista N°3:**
-###### Figura 3
-![Entrevista_Seg01_ValeriaMakino](assets/img/capitulo2//Registro_Entrevista_Seg1_ValeriaMakino.png) <br>
-**Datos principales:**
-- Nombre completo del entrevistado: Valeria Makino
-- Edad: 20
-- Distrito: Lima
-- Link:[URL de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201912407_upc_edu_pe/Ec6MBwEXcG9NhIrsjLWVqNoBHEKp97zoRreYc8x8Xl2utQ?e=8JvAba&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
-- Inicio de la entrevista: 00:05
-- Duración: : 06:58
-
-**Transcripción de la entrevista:** <br>
-En esta entrevista se puede resaltar que, la entrevistada es una estudiante que tras recuperarse de una lesión en la rodilla se sintió en la necesidad de mantener una rutina de ejercicios a modo de rehabilitación. Sin embargo, al comenzar con los ejercicios ha notado que le cuesta ser constante. Por lo que le entusiasma la idea que presenta Fithub y nos proporciona su opinión y lo que le gustaría que NutriTech ofrezca a sus usuarios.
-
-- - -
-
-**Entrevista N°4:**
 ###### Figura 4
 ![Entrevista_Seg02_JohnLuna](assets/img/capitulo2/Registro_Entrevista_Seg2_JohnLuna.png) <br>
 **Datos principales:**
@@ -159,7 +143,7 @@ En esta entrevista se puede resaltar que, el entrevistado es un coach profesiona
 
 ---
 
-**Entrevista N°5:**
+**Entrevista N°4:**
 ###### Figura 5
 ![Entrevista_Seg02_Andrew](assets/img/capitulo2/Entrevista_Seg02_Andrew.jpg) <br>
 **Datos principales:**
@@ -175,7 +159,7 @@ Conversamos con un apasionado profesional del coaching en ejercicio y alimentaci
 
 ---
 
-**Entrevista N°6:**
+**Entrevista N°5:**
 ###### Figura 6
  ![Entrevista_smg02_Jose](assets/img/capitulo2/Entrevista_sgm02_Jose.png) <br>
 **Datos principales:**
