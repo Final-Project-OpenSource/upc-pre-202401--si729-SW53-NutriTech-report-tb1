@@ -941,6 +941,160 @@ La retroalimentación constructiva fue fundamental en el proceso, con los miembr
 La distribución equitativa de tareas y responsabilidades fomentó un ambiente de trabajo inclusivo y promovió la participación activa de todos los miembros del equipo.<br>
 La transparencia en la comunicación y la disposición para compartir conocimientos contribuyeron a un flujo de trabajo eficiente y a una mayor cohesión dentro del equipo.<br>
 
+## 5.2.4 Sprint 4
+## 5.2.4.1 Sprint Planning 4
+| **Sprint**                      |                                                                                                                                                                                                         |
+|:--------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Sprint Planning Background      |                                                                                                                                                                                                         |
+| Date                            | 03/06/2024                                                                                                                                                                                              |
+| Time                            | 06:00 PM                                                                                                                                                                                                |
+| Location                        | Grupo de WhatsApp del Equipo                                                                                                                                                                        |
+| Prepared By                     | Jorge Sebastian Ponce Loyola                                                                                                                                                                             |
+| Attendees (to planning meeting) | Ponce Loyola, Jorge Sebastian /Shimabukuro Uku, Carlos Joel / Cueto Dominguez, Juan Diego / Valenzuela Huillcaya, Aldhair Johan Juan / Maguiña Corzo, Ricardo Jesus                                     |
+| Sprint 2 Review Summary         | En la entrega anterior le faltaban detalles y cosas para adicionar a nuestro proyecto, para este sprint 3, ya tenemos realizado todo el frontEnd                                                                                                              |
+| Sprint 2 Retrospective Summary  | Realizamos un buen trabajo, pero con algunas mejoras por realizar                                                                                                                |
+| Sprint Goal & User Stories      |                                                                                                                                                                                                         |
+| Sprint 3 Goal                   | La meta de este Sprint es realizar un buen avance del Web Services de FitHubPro, un 60% de avance de todas nuestras tablas(endpoints), las más importantes |
+| Sprint 3 Velocity               | 28 Velocity                                                                                                                                                                                             |
+| Sum of Story Points             | 28 Story points                                                                                                                                                                                         |
+## 5.2.4.2 Sprint Backlog 4
+<table>
+        <tr>
+            <td colspan="2">Sprint #</td>
+            <td colspan="6">Sprint 3</td>
+        </tr>
+        <tr>
+            <td colspan="2">User Story</td>
+            <td colspan="6">Work-Item / Task</td>
+        </tr>
+        <tr>
+            <td>Id</td>
+            <td>Title</td>
+            <td>Id</td>
+            <td>Title</td>
+            <td>Descripcion</td>
+            <td>Estimation (Hours)</td>
+            <td>Assigned To</td>
+            <td>Status (To-do / In / Process / ToReview / Done)</td>
+        </tr>
+        <tr>
+            <td>TS01</td>
+            <td>Consumir el endpoint User (Login/Register)</td>
+            <td>T01</td>
+            <td>Consumir el endpoint User (Login/Register)</td>
+            <td>Como desarrollador, quiero consumir eficazmente el endpoint 'User (Login/Register)' para implementar un proceso de autenticación y registro de usuarios fluido y seguro en la aplicación.</td>
+            <td>8 horas</td>
+            <td>Cueto Dominguez, Juan Diego</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TS05</td>
+            <td>Seguimiento del progreso de clientes</td>
+            <td>T02</td>
+            <td>Seguimiento del progreso de clientes</td>
+            <td>Como desarrollador, quiero implementar la funcionalidad para registrar y visualizar el progreso de los clientes en sus entrenamientos y planes nutricionales.</td>
+            <td>5 horas </td>
+            <td>Maguiña Corzo, Ricardo Jesus </td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TS04</td>
+            <td>Gestionar rutinas de entrenamiento</td>
+            <td>T03</td>
+            <td>Gestionar rutinas de entrenamiento</td>
+            <td>Como desarrollador, quiero implementar la creación y gestión de rutinas de entrenamiento para los clientes.</td>
+            <td>5 horas</td>
+            <td>Valenzuela Huillcaya, Aldhair Johan Juan</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TS06</td>
+            <td>Gestión de planes nutricionales</td>
+            <td>T04</td>
+            <td>Gestión de planes nutricionales
+            <td>Como desarrollador, quiero implementar la creación y gestión de planes nutricionales personalizados para los clientes.</td>
+            <td>5 horas</td>
+            <td>Ponce Loyola, Jorge Sebastian</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TS02</td>
+            <td>Asignar membresias a clientes</td>
+            <td>T03</td>
+            <td>Asignar membresias a clientes</td>
+            <td>Como desarrollador, quiero implementar la funcionalidad para asignar y gestionar membresías de clientes, incluyendo fechas de inicio, fin y pagos.</td>
+            <td>5 horas</td>
+            <td>Shimabukuro Uku, Carlos Joel </td>
+            <td>Done</td>
+        </tr>
+          
+  </table>
+
+## 5.2.3.3 Development Evidence for Sprint Review
+| Repository | Branch | Commit ID | Commit Message | Commit Message Body | Commited on (Date)|
+|-|-|-|-|-|-|
+|FitHub-Web-Service|Develop|d3df5e2|first commit|En este commit se añadió la estructura del proyecto| 03/06/24|
+|FitHub-Web-Service|Develop|6865c25|chore: refactor packages|En este commit se refactorizaró la estructura del proyecto| 03/06/24|
+|FitHub-Web-Service|Develop|c88c7da|feat: add NutritionPlan Endpoint|En este commit se creó el endpoint NutritionPlan| 04/06/24|
+|FitHub-Web-Service|Develop|134520d|feat(iam): added user entity class, getters and setter.|En este commit se añadió el user entity class| 07/06/24|
+|FitHub-Web-Service|Develop|5b063b9|feat(iam): added user aggregate and commands.|En este commit se añadió el agreggate y commands de user| 07/06/24|
+|FitHub-Web-Service|Develop|c5d0c9d|feat(iam): implemented controllers, commands services and repository.|En este commit se implementó el controller, command service y repository de user| 07/06/24|
+|FitHub-Web-Service|Develop|970d28e|docs(iam): implemented code documentation.|En este commit se implementó documentación de codigo(java docs) para user| 07/06/24|
+|FitHub-Web-Service|Develop|0856f25|refactor: removed unused annotations.|En este commit se eliminaron annotations que no se usaban| 07/06/24|
+|FitHub-Web-Service|Develop|57d0b5d|feat add rutines model|En este commit se añadió rutines | 07/06/24|
+|FitHub-Web-Service|Develop|74b9646|feat Upate Rutines controller.|En este commit se actualizó el controller de rutines | 08/06/24|
+|FitHub-Web-Service|Develop|b176071|feat: add membership|En este commit se añadió el endpoint membership | 08/06/24|
+|FitHub-Web-Service|Develop|3237243|Merge branch 'feat/membership' into develop|En este commit se mergeó la branch membership en develop | 08/06/24|
+
+
+## 5.2.4.4 Testing Suite Evidence for Sprint Review
+
+
+
+
+## 5.2.4.5 Execution Evidence for Sprint Review
+
+
+## 5.2.4.6 Services Documentation Evidence for Sprint Review
+En las tablas, se detallan las acciones disponibles para cada Endpoint, especificando el verbo HTTP correspondiente (GET, POST, PUT, DELETE, PATCH), la estructura de la llamada, y la descripción de los parámetros posibles. Se incluye también un ejemplo de cada llamada y una explicación del response obtenido. Además de la tabla, se muestran capturas de pantalla que ilustran cómo interactuar con la documentación creada, utilizando datos de ejemplo para demostrar el uso de cada Endpoint.
+*Tabla del modelo de escritura para el EndPoinrt del DBJson con respecto a la base de los usuarios.*
+| Método | Descripción | Ejemplo de llamada | Parámetros | Respuesta |
+|--------|-------------|---------------------|------------|-----------|
+|GET |Obtener todos los usuarios mediante el username|Get/{username}|Username|Usuario completo que coincide con el username brindado|
+|POST|Agregar usuario| POST/ | Datos del usuario a crear en formato JSON en el cuerpo de la solicitud, incluyendo nombre, correo, contraseña, etc. |Mensaje de éxito o error en formato JSON, junto con el ID asignado al nuevo usuario creado.|
+|GET |Lista de usuarios | GET/ | Ninguno | Brinda una lista de usuarios con todos los parámetros completos|
+
+*Tabla del modelo de escritura para el EndPoinrt del DBJson con respecto a la base de los planes de nutrición.*
+| Método | Descripción | Ejemplo de llamada | Parámetros | Respuesta |
+|--------|-------------|---------------------|------------|-----------|
+|POST | Agregar plan de nutrición | POST/ | Datos del plan de nutrición | Mensaje de éxito o error en formato JSON, junto con el ID asignado al plan de nutrición       |
+|GET | Obtener los planes de nutrición | GET/ | Ninguno | Lista con todos los planes de nutrición |
+|GET | Obtener el plan de nutrición meidante el ID | GET/{id} | ID del plan de nutrición |Datos del plan de nutrición con el ID brindado | 
+|GET | Obtener el plan de nutrición meidante el title | GET/{title} | Title del plan de nutrición | Datos del plan de nutrición con el title brindado |
+|GET | Obtener el plan de nutrición meidante el goalHealth | GET/{goalHealth} | goalHealth del plan de nutrición | Datos del plan de nutrición con el goalHealth brindado |
+|GET | Obtener el plan de nutrición meidante el restriction | GET/{restriction} | restriction del plan de nutrición |Datos del plan de nutrición con el restriction brindado | 
+|GET | Obtener el plan de nutrición meidante las calories | GET/{calories} | calories del plan de nutrición |Datos del plan de nutrición con las calories brindado | 
+|GET | Obtener el plan de nutrición meidante los ingredients | GET/{ingredients} | ingredients del plan de nutrición | Datos del plan de nutrición con los ingredients brindado |
+|GET | Obtener el plan de nutrición meidante el description | GET/{description} | description del plan de nutrición | Datos del plan de nutrición con el description brindado |
+|GET | Obtener el plan de nutrición meidante el TitleAndGoalHealth | GET/{TitleAndGoalHealth} | TitleAndGoalHealth del plan de nutrición | Datos del plan de nutrición con el TitleAndGoalHealth brindado |
+|GET | Obtener el plan de nutrición meidante el parameters | GET/{parameters} | parameters del plan de nutrición | Datos del plan de nutrición con el parameters brindado |
+
+*Tabla del modelo de escritura para el EndPoinrt del DBJson con respecto a la base de las rutinas.*
+| Método | Descripción | Ejemplo de llamada | Parámetros | Respuesta |
+|--------|-------------|---------------------|------------|-----------|
+|POST | Agregar rutina | POST/ | Datos de la rutina | Mensaje de éxito o error en formato JSON, junto con el ID asignado a la rutina |
+|GET | Obtener las rutinas | GET/ | Ninguno | Lista con todas las rutinas|
+|GET | Obtener las rutinas meidante el ID | GET/{id} | ID de las rutinas |Datos de las rutinas con el ID brindado | 
+|GET | Obtener las rutinas meidante el Exercise | GET/{Exercise} | ID del Exercise |Datos de las rutinas con el Exercise brindado | 
+|GET | Obtener las rutinas meidante el Instruction | GET/{Instruction} | ID de las Instruction |Datos de las rutinas con el Instruction brindado | 
+
+## 5.2.4.7 Software Deployment Evidence for Sprint Review
+
+
+## 5.2.4.8 Team Collaboration Insights during Sprint
+
+
+
 ## 5.3 Validation Interviews
 ## 5.3.1 Diseño de Entrevistas
 El equipo es responsable de definir, para cada segmento objetivo identificado, los elementos que deben incluirse en la sesión de validación. Esto incluye tanto el análisis de la Landing Page como de las aplicaciones asociadas. Además, se describe el diseño de los flujos de usuario de las aplicaciones, los cuales serán esenciales en el proceso de validación. Estos flujos de usuario, que representan la secuencia de acciones que los usuarios realizarán dentro de las aplicaciones, son fundamentales para asegurar una experiencia de usuario óptima. De esta forma, se garantiza que cada paso que los usuarios den a través de las aplicaciones sea coherente, intuitivo y cumpla con los objetivos de diseño establecidos previamente.
@@ -1117,7 +1271,10 @@ En el siguiente video, te presentamos una visión general de nuestro producto, F
 
 [Ver video aquí](https://www.youtube.com/watch?v=Rp-navuTCNY&ab_channel=RicardoJesusMagui%C3%B1aCorzo)
 
+## 5.5 Video About The Team
 
+En el siguiente video, verás como fue nuestra experiencia como grupo y desempeño para llegar a realizar este proyecto.
+[Video About The Team](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120471_upc_edu_pe/EcS03BpTZBpAlMeY2Dan-ZgBs8v0GqREoheazjyWwq1y6g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=stVQvv)
 
 # Conclusiones y Recomendaciones
 Conclusiones:
