@@ -974,7 +974,7 @@ El equipo es responsable de definir, para cada segmento objetivo identificado, l
 **Entrevista N°1**<br>
 <!-- <img src="/assets/img/.png" alt="Entrevista Validación" width="550" height="300"> --> <br>
  **Datos principales:**
- - Nombre completo de la entrevistada: Andrew Jesus Contreras Cahuapas
+ - Nombre completo del entrevistado: Andrew Jesus Contreras Cahuapas
  - Edad: 25
  - Distrito: San Isidro
  - Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202121858_upc_edu_pe/EQ5_mO_QJFFJihAEQ0yd4-UBrIE-brSihyjSa78Z6iS6Hw?e=EnGFTH
@@ -984,29 +984,40 @@ El equipo es responsable de definir, para cada segmento objetivo identificado, l
  - Resumen: La entrevista con Andrew Contreras proporcionó una perspectiva muy positiva sobre la experiencia de usuario en FitHub Pro. Andrew destacó la facilidad de navegación, la claridad de la interfaz y la utilidad de las recomendaciones personalizadas y la sección de seguimiento de progreso. No experimentó ningún problema durante el uso de la aplicación y no sugirió mejoras específicas, indicando una alta satisfacción con las funcionalidades actuales. Este feedback positivo refuerza la calidad de nuestro diseño y nos motiva a continuar ofreciendo una experiencia de usuario excelente.<br>
 
 **Entrevista N°2**<br>
-<!-- <img src="/assets/img/.png" alt="Entrevista Validación" width="550" height="300"> --> <br>
+ <img src="/assets/img/capitulo5/Validation interviews 2 Sprint 3.jpg" alt="Entrevista Validación 2" width="550" height="300">  <br>
  **Datos principales:**
- - Nombre completo de la entrevistada: 
- - Edad: 
- - Distrito: 
- - Link: 
- - Inicio de la entrevista: 
- - Duración: 
- - Entrevistador:
- - Resumen: 
+ - Nombre completo del entrevistado: Max Sabino Arostegui
+ - Edad: 23
+ - Distrito: Chorrillos
+ - Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f572_upc_edu_pe/EfLVhTYMKS1Ls6BgoXZKeOsBVPo504AU9OFOPAPXVZugiA?e=9T4hOh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D 
+ - Inicio de la entrevista: 0:05
+ - Duración: 6:50
+ - Entrevistador: Aldhair Valenzuela Huillcaya
+ - Resumen: La entrevista con Max Sabino reveló una experiencia de usuario positiva en Fithub, destacando la claridad de la landing page, la facilidad de navegación y la utilidad de las funciones esenciales como los planes nutricionales y los entrenamientos. Aunque sugirió aumentar el tamaño de algunos textos y una visualización más gráfica del progreso de entrenamiento, valoró la posibilidad de contactar con profesionales y recibir recomendaciones del coach. En general, mostró alta satisfacción con las funcionalidades actuales, reafirmando la eficacia del diseño y usabilidad de Fithub, con algunas áreas para mejorar.<br>
 
 **Entrevista N°3**<br>
-<!-- <img src="/assets/img/.png" alt="Entrevista Validación" width="550" height="300"> --> <br>
+ <img src="/assets/img/capitulo5/EntrevistaValidacion3-Jesus.PNG" alt="Entrevista Validación 3" width="550" height="300">  <br>
  **Datos principales:**<br>
- - Nombre completo de la entrevistada: 
- - Edad: 
- - Distrito: 
- - Link: 
- - Inicio de la entrevista: 
- - Duración: 
- - Entrevistador:
- - Resumen: 
+ - Nombre completo de la entrevistado: Jesus Stefano Torres Reeyes
+ - Edad: 22
+ - Distrito: Ica
+ - Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120471_upc_edu_pe/EYUMSPxO3tVMgT-KQJMFzFEBWR0D7sslnBsy6Iq6pak3Nw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=tmCAqu
+ - Inicio de la entrevista: 0:02
+ - Duración: 6:26
+ - Entrevistador: Jorge Sebastian Ponce Loyola
+ - Resumen: En la entrevista con Jesus Torres, calificó la aplicación con un 8/10. Encontró la experiencia de publicación de servicios sencilla y clara, y las herramientas para gestionar notificaciones y progresos adecuadas y fáciles de usar. Considera que la plataforma proporciona información básica, pero sugiere más detalles. Está satisfecho con el alcance y visibilidad de las publicaciones, aunque faltan métricas específicas. La plataforma es efectiva y fácil de usar comparada con otras similares. Destacó como útiles las herramientas para administrar rutinas, progreso y ver clientes. Sugirió agregar mensajes personalizados, carga de videos de entrenamiento, un blog, integración con redes sociales y un mejor sistema de notificaciones.<br>
 
+**Entrevista N°4**<br>
+ <img src="/assets/img/capitulo5/EntrevistaValidacion4.PNG" alt="Entrevista Validación 4" width="700" height="200">  <br>
+ **Datos principales:**<br>
+ - Nombre completo de la entrevistado: Valeria Makino Rojas
+ - Edad: 25
+ - Distrito:  Lima
+ - Link: https://upcedupe-my.sharepoint.com/personal/u201912407_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201912407%5Fupc%5Fedu%5Fpe%2FDocuments%2FOS%20%2D%20Entrevista%20Validacion%201%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E677dae3e%2D203d%2D4510%2D827e%2Df3f6e91826da
+ - Inicio de la entrevista: 0:00
+ - Duración: 7:20
+ - Entrevistador: Carlos Joel Shimabukuro Uku
+ - Resumen: Durante la entrevista con Valeria, mencionó que la aplicación fue intuitiva y fácil de navegar. Encontró las funcionalidades actuales muy útiles, lo que contribuyó a una experiencia positiva y satisfactoria. Valeria también destacó que la capacidad de publicación es especialmente beneficiosa para los servicios que ofrece. Además, recomendó añadir un sistema de feedback detallado para que los clientes puedan dejar comentarios específicos sobre los servicios recibidos.<br>
 
 ## 5.3.3 Evaluación según heurísticas
 Esta sección detalla el proceso de evaluación de sesiones de validación, basado en principios que abordan aspectos como usabilidad e información. El objetivo es garantizar una evaluación exhaustiva de la experiencia del usuario, identificando fortalezas y áreas de mejora en el diseño de aplicaciones para mejorar su calidad y eficacia.
@@ -1100,7 +1111,7 @@ Recomendaciones:<br>
  - Realizar pruebas de usabilidad con usuarios representativos para identificar cualquier confusión o dificultad que puedan experimentar al encontrar títulos o etiquetas en inglés. Esto ayudará a validar la importancia de corregir el problema y guiará los esfuerzos de mejora.
  - Implementar un proceso de localización completo para asegurar que todos los elementos de la interfaz de usuario estén traducidos correctamente al español y mantener esta consistencia en futuras actualizaciones o adiciones de contenido.
 
-## 5.4 Video Acerca del Producto
+## 5.4 Video About The Product
 
 En el siguiente video, te presentamos una visión general de nuestro producto, FitHub Pro. Descubre cómo nuestra plataforma puede ayudarte a mejorar tu salud y condición física, así como a alcanzar tus metas de entrenamiento y nutrición. Exploraremos las características clave de FitHub Pro y cómo puede beneficiarte tanto si eres un usuario que busca mejorar tu bienestar, como si eres un entrenador profesional en el campo del fitness. ¡No te lo pierdas!
 
