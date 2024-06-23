@@ -1047,6 +1047,17 @@ La transparencia en la comunicación y la disposición para compartir conocimien
 
 
 ## 5.2.4.5 Execution Evidence for Sprint Review
+- Se ha llevado a cabo una reunión de revisión de sprint donde se han presentado los avances y se ha demostrado el funcionamiento de los endpoints implementados.
+- Se han realizado demostraciones de las funcionalidades de consumo de endpoints, registro, login, gestión de rutinas de entrenamiento y planes nutricionales.
+- Evidencia de despliegue de la base de datos: <br>
+    ![Base de datos](assets/img/capitulo5/sprint-4-bd.PNG)
+    ![Base de datos](assets/img/capitulo5/sprint-5-db-2.PNG)
+    ![Base de datos](assets/img/capitulo5/sprint-4-db-3.PNG)
+- Evidencia de despliegue de la API: <br>
+    ![API](assets/img/capitulo5/sprint-4-deploy.PNG)
+- Evidencia de despliegue de la aplicación web: <br>
+    ![Aplicación web](assets/img/capitulo5/sprint-4-app.PNG)
+
 
 
 ## 5.2.4.6 Services Documentation Evidence for Sprint Review
