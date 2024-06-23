@@ -45,9 +45,9 @@ Ruta de descarga: https://desktop.github.com
 **Repositorios en Github:**
 | Repositorio                         | URL                                            |
 |-------------------------------------|------------------------------------------------|
-| Landing Page Repository             | https://github.com/Final-Project-OpenSource/LandingPageFitHub      |
-| Web Services Repository             |       |
-| Frontend Web Applications Repository| |
+| Landing Page Repository             | https://github.com/Final-Project-OpenSource/LandingPageFitHub   |
+| Web Services Repository             | https://github.com/Final-Project-OpenSource/FitHub-Web-Service  |
+| Frontend Web Applications Repository| https://github.com/Final-Project-OpenSource/FitHub-Web-Application|
 
 **GitFlow Workflow:**
 
