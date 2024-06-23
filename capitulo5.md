@@ -1068,7 +1068,7 @@ Además, se desplegó nuevamente el frontend, incorporando nuevas característic
 
 ## 5.2.4.8 Team Collaboration Insights during Sprint
 
-![Team Collaborations Insights](image.png)
+![Team Collaborations Insights](/assets/img/capitulo5/TeamCollaboration.png)
 
 ## 5.3 Validation Interviews
 ## 5.3.1 Diseño de Entrevistas
