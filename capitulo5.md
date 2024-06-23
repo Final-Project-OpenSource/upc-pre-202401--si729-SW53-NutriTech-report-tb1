@@ -1052,11 +1052,23 @@ La transparencia en la comunicación y la disposición para compartir conocimien
 ## 5.2.4.6 Services Documentation Evidence for Sprint Review
 
 ## 5.2.4.7 Software Deployment Evidence for Sprint Review
+Durante el Sprint 4, se llevaron a cabo las siguientes actividades de implementación de software:
 
+Se desplegó el servicio backend en un entorno de prueba, lo que permitió evaluar su funcionalidad en un ambiente controlado.
+
+Se crearon registros detallados del despliegue, documentando cada paso del proceso de implementación.
+
+Se realizó una revisión exhaustiva del backend desplegado para asegurar que todas las funcionalidades operaran correctamente y cumplieran con los requisitos establecidos.
+
+Se compartió el enlace del servicio backend desplegado con el equipo, facilitando la revisión, retroalimentación y ajustes necesarios.
+
+Se actualizó la documentación de despliegue, incluyendo los detalles del proceso de implementación y los resultados obtenidos.
+
+Además, se desplegó nuevamente el frontend, incorporando nuevas características y mejoras a la aplicación.
 
 ## 5.2.4.8 Team Collaboration Insights during Sprint
 
-
+![Team Collaborations Insights](image.png)
 
 ## 5.3 Validation Interviews
 ## 5.3.1 Diseño de Entrevistas
