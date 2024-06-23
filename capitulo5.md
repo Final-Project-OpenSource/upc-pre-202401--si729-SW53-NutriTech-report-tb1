@@ -45,9 +45,9 @@ Ruta de descarga: https://desktop.github.com
 **Repositorios en Github:**
 | Repositorio                         | URL                                            |
 |-------------------------------------|------------------------------------------------|
-| Landing Page Repository             | https://github.com/Final-Project-OpenSource/LandingPageFitHub      |
-| Web Services Repository             |       |
-| Frontend Web Applications Repository| |
+| Landing Page Repository             | https://github.com/Final-Project-OpenSource/LandingPageFitHub   |
+| Web Services Repository             | https://github.com/Final-Project-OpenSource/FitHub-Web-Service  |
+| Frontend Web Applications Repository| https://github.com/Final-Project-OpenSource/FitHub-Web-Application|
 
 **GitFlow Workflow:**
 
@@ -1013,7 +1013,7 @@ La transparencia en la comunicación y la disposición para compartir conocimien
             <td>Administración de Clientes</td>
             <td>Como desarrollador, quiero implementar la administración de la información de los clientes para permitir actualizaciones y gestión eficaz de sus perfiles.</td>
             <td>5 horas</td>
-            <td>Maguiña Corzo, Ricardo Jesus</td>
+            <td>Cueto Dominguez, Juan Diego</td>
             <td>Done</td>
         </tr>
           
@@ -1050,6 +1050,41 @@ La transparencia en la comunicación y la disposición para compartir conocimien
 
 
 ## 5.2.4.6 Services Documentation Evidence for Sprint Review
+Las tablas proporcionan un desglose de las operaciones posibles para cada Endpoint, detallando el verbo HTTP utilizado (GET, POST, PUT, DELETE, PATCH), la estructura de la solicitud y la descripción de los parámetros aplicables. También se presentan ejemplos de cada tipo de solicitud y una explicación de las respuestas esperadas. Junto a las tablas, se incluyen capturas de pantalla que muestran cómo utilizar la documentación, con datos de ejemplo que demuestran el funcionamiento de cada Endpoint.
+
+*Tabla del modelo de escritura para el EndPoinrt del DBJson con respecto a la base de los usuarios.*
+| Método | Descripción | Ejemplo de llamada | Parámetros | Respuesta |
+|--------|-------------|---------------------|------------|-----------|
+|GET |Obtener una lista de todos los usuarios|Get/|none|Lista de todos los usuarios registrados en la aplicación.|
+|GET |Obtener el usuario por id|Get/{userId}|userId|Usuario completo que coincide con el userId brindado|
+|POST|Agregar usuario| POST/ | Datos del usuario a crear en formato JSON en el cuerpo de la solicitud, incluyendo nombre, correo, contraseña, etc. |Mensaje de éxito o error en formato JSON, junto con el ID asignado al nuevo usuario creado.|
+
+*Tabla del modelo de escritura para el EndPoinrt del DBJson con respecto a la base de los roles.*
+| Método | Descripción | Ejemplo de llamada | Parámetros | Respuesta |
+|--------|-------------|---------------------|------------|-----------|
+|GET | Obtiene una lista de los roles de la aplicación. | none | Get/  | Lista de roles |
+
+*Tabla del modelo de escritura para el EndPoinrt del DBJson con respecto a la base de los progresos.*
+| Método | Descripción | Ejemplo de llamada | Parámetros | Respuesta |
+|--------|-------------|---------------------|------------|-----------|
+|POST |Agregar un nuevo progreso. | Post/  |Datos del progreso |Mensaje de éxito o error en formato JSON, junto con el ID asignado al nuevo progreso creado.|
+|GET |Obtiene un progreso mediante su Id | Get/{clientId} | clientId | Obtiene un progreso mediante el Id del cliente. |
+|GET | Obtiene una lista de todos los progresos | Get/ | none | Obtiene una lsita con todos los progresos publicados.        |
+
+*Tabla del modelo de escritura para el EndPoinrt del DBJson con respecto a la base de los planes de nutrición.*
+| Método | Descripción | Ejemplo de llamada | Parámetros | Respuesta |
+|--------|-------------|---------------------|------------|-----------|
+|POST | Agregar plan de nutrición | POST/ | Datos del plan de nutrición | Mensaje de éxito o error en formato JSON, junto con el ID asignado al plan de nutrición       |
+|GET | Obtener los planes de nutrición | GET/ | Ninguno | Lista con todos los planes de nutrición |
+|GET | Obtener el plan de nutrición meidante el ID | GET/{id} | ID del plan de nutrición |Datos del plan de nutrición con el ID brindado | 
+|GET | Obtener el plan de nutrición meidante el title | GET/{title} | Title del plan de nutrición | Datos del plan de nutrición con el title brindado |
+|GET | Obtener el plan de nutrición meidante el goalHealth | GET/{goalHealth} | goalHealth del plan de nutrición | Datos del plan de nutrición con el goalHealth brindado |
+|GET | Obtener el plan de nutrición meidante el restriction | GET/{restriction} | restriction del plan de nutrición |Datos del plan de nutrición con el restriction brindado | 
+|GET | Obtener el plan de nutrición meidante las calories | GET/{calories} | calories del plan de nutrición |Datos del plan de nutrición con las calories brindado | 
+|GET | Obtener el plan de nutrición meidante los ingredients | GET/{ingredients} | ingredients del plan de nutrición | Datos del plan de nutrición con los ingredients brindado |
+|GET | Obtener el plan de nutrición meidante el description | GET/{description} | description del plan de nutrición | Datos del plan de nutrición con el description brindado |
+|GET | Obtener el plan de nutrición meidante el TitleAndGoalHealth | GET/{TitleAndGoalHealth} | TitleAndGoalHealth del plan de nutrición | Datos del plan de nutrición con el TitleAndGoalHealth brindado |
+|GET | Obtener el plan de nutrición meidante el parameters | GET/{parameters} | parameters del plan de nutrición | Datos del plan de nutrición con el parameters brindado |
 
 ## 5.2.4.7 Software Deployment Evidence for Sprint Review
 Durante el Sprint 4, se llevaron a cabo las siguientes actividades de implementación de software:
