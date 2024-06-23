@@ -1033,6 +1033,15 @@ La transparencia en la comunicación y la disposición para compartir conocimien
 | FitHub-Web-Service | Develop | 9530444 | feat: update coach-list view | En este commit se ha actualizado la vista de lista de coaches | 22/06/24 |
 
 ## 5.2.4.4 Testing Suite Evidence for Sprint Review
+ - Se han realizado pruebas de consumo del endpoint para verificar el seguimiento de progreso de clientes en la aplicación.
+ - Se han probado las funcionalidades de IAM para asegurar la gestión adecuada de identidades, accesos y permisos en la aplicación.
+ - Se han realizado pruebas de autenticación y autorización utilizando JWT para garantizar su correcto funcionamiento tras resolver problemas de fusión.
+ - Se han probado las funcionalidades de gestión de perfiles de usuarios para asegurar la actualización correcta de información personal y datos de contacto.
+ - Se han llevado a cabo pruebas de gestión de perfiles de usuarios para verificar que los usuarios puedan actualizar su información personal y datos de contacto.
+ - Se han realizado pruebas de navegación y usabilidad para asegurar que los enlaces del enrutador para coach-dashboard funcionen correctamente.
+ - Se han probado las funcionalidades de autenticación y registro con validación para asegurar la seguridad y precisión de los datos ingresados.
+ - Se han realizado pruebas de rendimiento y optimización del componente chat y servicios asociados para asegurar su eficiencia y funcionamiento correcto.
+ - Se han probado las funcionalidades de visualización y gestión de coaches para asegurar una experiencia de usuario consistente y de alta calidad.
 
 
 
