@@ -1013,7 +1013,7 @@ La transparencia en la comunicación y la disposición para compartir conocimien
             <td>Administración de Clientes</td>
             <td>Como desarrollador, quiero implementar la administración de la información de los clientes para permitir actualizaciones y gestión eficaz de sus perfiles.</td>
             <td>5 horas</td>
-            <td>Maguiña Corzo, Ricardo Jesus</td>
+            <td>Cueto Dominguez, Juan Diego</td>
             <td>Done</td>
         </tr>
           
