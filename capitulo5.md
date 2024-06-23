@@ -1020,7 +1020,17 @@ La transparencia en la comunicación y la disposición para compartir conocimien
   </table>
 
 ## 5.2.4.3 Development Evidence for Sprint Review
-
+| Repository | Branch | Commit ID | Commit Message | Commit Message Body | Commited on (Date)|
+|-|-|-|-|-|-|
+| FitHub-Web-Service | Develop | 6a7f577 | feat: add Progress Endpoint | En este commit se creo el endpoint correspondiente a progress | 09/06/24 |
+| FitHub-Web-Service | Develop | eaee159 | feat(iam): iam aggregates, entities, endpoints, and controllers implemented and shared package updated | Implementación de IAM: agregados IAM, entidades, endpoints y controladores, con actualización del paquete compartido | 23/06/24 |
+| FitHub-Web-Service | Develop | 83dbaae | fix(iam): merging problems solved and jwt properties fixed | En este commit se han solucionado problemas de fusión y se han corregido las propiedades JWT | 23/06/24 |
+| FitHub-Web-Service | Develop | 1d3686d | refactor(iam): user aggregate, commands and services constraints updated | En este commit se han actualizado los agregados de usuario, los comandos y las restricciones de servicios | 23/06/24 |
+| FitHub-Web-Service | Develop | 1e4b4fb | refactor(iam): phonenumber object type updated | En este commit se ha actualizado el tipo de objeto para el número de teléfono | 23/06/24 |
+| FitHub-Web-Application | Develop | 840cdd2 | feat: update router links for coach-dashboard | En este commit se han actualizado los enlaces del enrutador para coach-dashboard | 20/06/24 |
+| FitHub-Web-Application | Develop | c62fa71 | feat: add validation to login, register and recovery | En este commit se ha añadido validación a inicio de sesión, registro y recuperación | 20/06/24 |
+| FitHub-Web-Application | Develop | 8eaade0 | feat: update component-chat & services | En este commit Se actualizó el componente chat y los services | 21/06/24 |
+| FitHub-Web-Service | Develop | 9530444 | feat: update coach-list view | En este commit se ha actualizado la vista de lista de coaches | 22/06/24 |
 
 ## 5.2.4.4 Testing Suite Evidence for Sprint Review
 
