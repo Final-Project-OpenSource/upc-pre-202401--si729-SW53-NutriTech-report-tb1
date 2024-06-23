@@ -776,8 +776,8 @@ La transparencia en la comunicación y la disposición para compartir conocimien
 | Sprint 2 Retrospective Summary  | Realizamos un buen trabajo, pero con algunas mejoras por realizar                                                                                                                |
 | Sprint Goal & User Stories      |                                                                                                                                                                                                         |
 | Sprint 3 Goal                   | La meta de este Sprint es realizar un buen avance del Web Services de FitHubPro, un 60% de avance de todas nuestras tablas(endpoints), las más importantes |
-| Sprint 3 Velocity               | 28 Velocity                                                                                                                                                                                             |
-| Sum of Story Points             | 28 Story points                                                                                                                                                                                         |
+| Sprint 3 Velocity               | 26 Velocity                                                                                                                                                                                             |
+| Sum of Story Points             | 26 Story points                                                                                                                                                                                         |
 ## 5.2.3.2 Sprint Backlog 3
 <table>
         <tr>
@@ -801,7 +801,7 @@ La transparencia en la comunicación y la disposición para compartir conocimien
         <tr>
             <td>TS01</td>
             <td>Consumir el endpoint User (Login/Register)</td>
-            <td>T01</td>
+            <td>TS01</td>
             <td>Consumir el endpoint User (Login/Register)</td>
             <td>Como desarrollador, quiero consumir eficazmente el endpoint 'User (Login/Register)' para implementar un proceso de autenticación y registro de usuarios fluido y seguro en la aplicación.</td>
             <td>8 horas</td>
@@ -811,7 +811,7 @@ La transparencia en la comunicación y la disposición para compartir conocimien
         <tr>
             <td>TS04</td>
             <td>Seguimiento del progreso de clientes</td>
-            <td>T02</td>
+            <td>TS04</td>
             <td>Seguimiento del progreso de clientes</td>
             <td>Como desarrollador, quiero implementar la funcionalidad para registrar y visualizar el progreso de los clientes en sus entrenamientos y planes nutricionales.</td>
             <td>5 horas </td>
@@ -821,7 +821,7 @@ La transparencia en la comunicación y la disposición para compartir conocimien
         <tr>
             <td>TS03</td>
             <td>Gestionar rutinas de entrenamiento</td>
-            <td>T03</td>
+            <td>TS03</td>
             <td>Gestionar rutinas de entrenamiento</td>
             <td>Como desarrollador, quiero implementar la creación y gestión de rutinas de entrenamiento para los clientes.</td>
             <td>5 horas</td>
@@ -831,8 +831,8 @@ La transparencia en la comunicación y la disposición para compartir conocimien
         <tr>
             <td>TS05</td>
             <td>Gestión de planes nutricionales</td>
-            <td>T04</td>
-            <td>Gestión de planes nutricionales
+            <td>TS05</td>
+            <td>Gestión de planes nutricionales</td>
             <td>Como desarrollador, quiero implementar la creación y gestión de planes nutricionales personalizados para los clientes.</td>
             <td>5 horas</td>
             <td>Ponce Loyola, Jorge Sebastian</td>
@@ -929,6 +929,146 @@ Hubo un compromiso colectivo con los objetivos del sprint, con los miembros cola
 La retroalimentación constructiva fue fundamental en el proceso, con los miembros proporcionando comentarios valiosos sobre el progreso del trabajo y buscando continuamente mejorar la calidad del producto.<br>
 La distribución equitativa de tareas y responsabilidades fomentó un ambiente de trabajo inclusivo y promovió la participación activa de todos los miembros del equipo.<br>
 La transparencia en la comunicación y la disposición para compartir conocimientos contribuyeron a un flujo de trabajo eficiente y a una mayor cohesión dentro del equipo.<br>
+
+## 5.2.4 Sprint 4
+## 5.2.4.1 Sprint Planning 4
+| **Sprint**                      |                                                                                                                                                                                                         |
+|:--------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Sprint Planning Background      |                                                                                                                                                                                                         |
+| Date                            | 16/06/2024                                                                                                                                                                                              |
+| Time                            | 12:00 PM                                                                                                                                                                                                |
+| Location                        | Grupo de WhatsApp del Equipo                                                                                                                                                                        |
+| Prepared By                     | Jorge Sebastian Ponce Loyola                                                                                                                                                                             |
+| Attendees (to planning meeting) | Ponce Loyola, Jorge Sebastian /Shimabukuro Uku, Carlos Joel / Cueto Dominguez, Juan Diego / Valenzuela Huillcaya, Aldhair Johan Juan / Maguiña Corzo, Ricardo Jesus                                     |
+| Sprint 3 Review Summary         | En la entrega anterior avanzamos el 50% de nuestro backend                                                                                                      |
+| Sprint 3 Retrospective Summary  | Realizamos un buen trabajo, pero aún nos faltan cosas por hacer                                                                                                              |
+| Sprint Goal & User Stories      |                                                                                                                                                                                                         |
+| Sprint 4 Goal                   | La meta de este Sprint es terminar el backend y consumir la API en el front|
+| Sprint 3 Velocity               | 21 Velocity                                                                                                                                                                                             |
+| Sum of Story Points             | 21 Story points                                                                                                                                                                                         |
+## 5.2.4.2 Sprint Backlog 4
+<table>
+        <tr>
+            <td colspan="2">Sprint #</td>
+            <td colspan="6">Sprint 3</td>
+        </tr>
+        <tr>
+            <td colspan="2">User Story</td>
+            <td colspan="6">Work-Item / Task</td>
+        </tr>
+        <tr>
+            <td>Id</td>
+            <td>Title</td>
+            <td>Id</td>
+            <td>Title</td>
+            <td>Descripcion</td>
+            <td>Estimation (Hours)</td>
+            <td>Assigned To</td>
+            <td>Status (To-do / In / Process / ToReview / Done)</td>
+        </tr>
+        <tr>
+            <td>TS01</td>
+            <td>Consumir el endpoint User (Login/Register)</td>
+            <td>TS01</td>
+            <td>Consumir el endpoint User (Login/Register)</td>
+            <td>Como desarrollador, quiero consumir eficazmente el endpoint 'User (Login/Register)' para implementar un proceso de autenticación y registro de usuarios fluido y seguro en la aplicación.</td>
+            <td>8 horas</td>
+            <td>Cueto Dominguez, Juan Diego</td>
+            <td>In Progress</td>
+        </tr>
+        <tr>
+            <td>TS02</td>
+            <td>Gestión de perfiles de usuarios</td>
+            <td>TS02</td>
+            <td>Seguimiento del progreso de clientes</td>
+            <td>Como desarrollador, quiero implementar la gestión de perfiles de usuarios para que puedan actualizar su información personal, foto de perfil y datos de contacto.</td>
+            <td>5 horas</td>
+            <td>Maguiña Corzo, Ricardo Jesus</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TS06</td>
+            <td>Gestión de Solicitudes</td>
+            <td>TS06</td>
+            <td>Gestión de Solicitudes</td>
+            <td>Como desarrollador, quiero implementar la gestión de solicitudes para facilitar la interacción entre clientes y servicios.</td>
+            <td>5 horas</td>
+            <td>Ponce Loyola, Jorge Sebastian</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TS07</td>
+            <td>Administración de coaches</td>
+            <td>TS07</td>
+            <td>Administración de coaches</td>
+            <td>Como desarrollador, quiero implementar la funcionalidad para gestionar la información de los coaches, incluyendo su experiencia, especialidades y clientes.</td>
+            <td>5 horas</td>
+            <td>Cueto Dominguez, Juan Diego</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TS08</td>
+            <td>Administración de Clientes</td>
+            <td>TS08</td>
+            <td>Administración de Clientes</td>
+            <td>Como desarrollador, quiero implementar la administración de la información de los clientes para permitir actualizaciones y gestión eficaz de sus perfiles.</td>
+            <td>5 horas</td>
+            <td>Maguiña Corzo, Ricardo Jesus</td>
+            <td>Done</td>
+        </tr>
+          
+  </table>
+
+## 5.2.4.3 Development Evidence for Sprint Review
+| Repository | Branch | Commit ID | Commit Message | Commit Message Body | Commited on (Date)|
+|-|-|-|-|-|-|
+| FitHub-Web-Service | Develop | 6a7f577 | feat: add Progress Endpoint | En este commit se creo el endpoint correspondiente a progress | 09/06/24 |
+| FitHub-Web-Service | Develop | eaee159 | feat(iam): iam aggregates, entities, endpoints, and controllers implemented and shared package updated | Implementación de IAM: agregados IAM, entidades, endpoints y controladores, con actualización del paquete compartido | 23/06/24 |
+| FitHub-Web-Service | Develop | 83dbaae | fix(iam): merging problems solved and jwt properties fixed | En este commit se han solucionado problemas de fusión y se han corregido las propiedades JWT | 23/06/24 |
+| FitHub-Web-Service | Develop | 1d3686d | refactor(iam): user aggregate, commands and services constraints updated | En este commit se han actualizado los agregados de usuario, los comandos y las restricciones de servicios | 23/06/24 |
+| FitHub-Web-Service | Develop | 1e4b4fb | refactor(iam): phonenumber object type updated | En este commit se ha actualizado el tipo de objeto para el número de teléfono | 23/06/24 |
+| FitHub-Web-Application | Develop | 840cdd2 | feat: update router links for coach-dashboard | En este commit se han actualizado los enlaces del enrutador para coach-dashboard | 20/06/24 |
+| FitHub-Web-Application | Develop | c62fa71 | feat: add validation to login, register and recovery | En este commit se ha añadido validación a inicio de sesión, registro y recuperación | 20/06/24 |
+| FitHub-Web-Application | Develop | 8eaade0 | feat: update component-chat & services | En este commit Se actualizó el componente chat y los services | 21/06/24 |
+| FitHub-Web-Service | Develop | 9530444 | feat: update coach-list view | En este commit se ha actualizado la vista de lista de coaches | 22/06/24 |
+
+## 5.2.4.4 Testing Suite Evidence for Sprint Review
+ - Se han realizado pruebas de consumo del endpoint para verificar el seguimiento de progreso de clientes en la aplicación.
+ - Se han probado las funcionalidades de IAM para asegurar la gestión adecuada de identidades, accesos y permisos en la aplicación.
+ - Se han realizado pruebas de autenticación y autorización utilizando JWT para garantizar su correcto funcionamiento tras resolver problemas de fusión.
+ - Se han probado las funcionalidades de gestión de perfiles de usuarios para asegurar la actualización correcta de información personal y datos de contacto.
+ - Se han llevado a cabo pruebas de gestión de perfiles de usuarios para verificar que los usuarios puedan actualizar su información personal y datos de contacto.
+ - Se han realizado pruebas de navegación y usabilidad para asegurar que los enlaces del enrutador para coach-dashboard funcionen correctamente.
+ - Se han probado las funcionalidades de autenticación y registro con validación para asegurar la seguridad y precisión de los datos ingresados.
+ - Se han realizado pruebas de rendimiento y optimización del componente chat y servicios asociados para asegurar su eficiencia y funcionamiento correcto.
+ - Se han probado las funcionalidades de visualización y gestión de coaches para asegurar una experiencia de usuario consistente y de alta calidad.
+
+
+
+
+## 5.2.4.5 Execution Evidence for Sprint Review
+
+
+## 5.2.4.6 Services Documentation Evidence for Sprint Review
+
+## 5.2.4.7 Software Deployment Evidence for Sprint Review
+Durante el Sprint 4, se llevaron a cabo las siguientes actividades de implementación de software:
+
+Se desplegó el servicio backend en un entorno de prueba, lo que permitió evaluar su funcionalidad en un ambiente controlado.
+
+Se crearon registros detallados del despliegue, documentando cada paso del proceso de implementación.
+
+Se realizó una revisión exhaustiva del backend desplegado para asegurar que todas las funcionalidades operaran correctamente y cumplieran con los requisitos establecidos.
+
+Se compartió el enlace del servicio backend desplegado con el equipo, facilitando la revisión, retroalimentación y ajustes necesarios.
+
+Se actualizó la documentación de despliegue, incluyendo los detalles del proceso de implementación y los resultados obtenidos.
+
+Además, se desplegó nuevamente el frontend, incorporando nuevas características y mejoras a la aplicación.
+
+## 5.2.4.8 Team Collaboration Insights during Sprint
+
+![Team Collaborations Insights](/assets/img/capitulo5/TeamCollaboration.png)
 
 ## 5.3 Validation Interviews
 ## 5.3.1 Diseño de Entrevistas
@@ -1106,7 +1246,10 @@ En el siguiente video, te presentamos una visión general de nuestro producto, F
 
 [Ver video aquí](https://www.youtube.com/watch?v=Rp-navuTCNY&ab_channel=RicardoJesusMagui%C3%B1aCorzo)
 
+## 5.5 Video About The Team
 
+En el siguiente video, verás como fue nuestra experiencia como grupo y desempeño para llegar a realizar este proyecto.
+[Video About The Team](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120471_upc_edu_pe/EcS03BpTZBpAlMeY2Dan-ZgBs8v0GqREoheazjyWwq1y6g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=stVQvv)
 
 # Conclusiones y Recomendaciones
 Conclusiones:
